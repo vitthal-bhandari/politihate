@@ -1,0 +1,2558 @@
+[
+    {
+        "IDENTITY_ATTACK": 0.016058605,
+        "INSULT": 0.032799274,
+        "PROFANITY": 0.07870171,
+        "SEVERE_TOXICITY": 0.0077056885,
+        "THREAT": 0.05559385,
+        "TOXICITY": 0.17458448,
+        "text": " Hi, this is Nuke. 2020 is going to be one of the most extraordinary election years of our lifetime."
+    },
+    {
+        "IDENTITY_ATTACK": 0.009693438,
+        "INSULT": 0.02373764,
+        "PROFANITY": 0.029050145,
+        "SEVERE_TOXICITY": 0.002632141,
+        "THREAT": 0.012647836,
+        "TOXICITY": 0.083999306,
+        "text": " I want to invite you to join my inner circle as we discuss each twist and turn in the presidential"
+    },
+    {
+        "IDENTITY_ATTACK": 0.027413858,
+        "INSULT": 0.021352753,
+        "PROFANITY": 0.026180768,
+        "SEVERE_TOXICITY": 0.0031852722,
+        "THREAT": 0.01238892,
+        "TOXICITY": 0.07054565,
+        "text": " race and my members only inner circle club. You'll receive special flash briefings, online events,"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0071405866,
+        "INSULT": 0.010552894,
+        "PROFANITY": 0.01805087,
+        "SEVERE_TOXICITY": 0.0014972687,
+        "THREAT": 0.009385503,
+        "TOXICITY": 0.020842785,
+        "text": " and members only audio reports from me and my team. Here is a special offer for my podcast listeners."
+    },
+    {
+        "IDENTITY_ATTACK": 0.013244915,
+        "INSULT": 0.018710041,
+        "PROFANITY": 0.050680235,
+        "SEVERE_TOXICITY": 0.0037193298,
+        "THREAT": 0.023371955,
+        "TOXICITY": 0.07212844,
+        "text": " Join my inner circle today at nutsinacircle.com slash podcast"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0034038029,
+        "INSULT": 0.009944891,
+        "PROFANITY": 0.01402008,
+        "SEVERE_TOXICITY": 0.0009584427,
+        "THREAT": 0.0074048014,
+        "TOXICITY": 0.022728346,
+        "text": " and if you sign up for a one or two year membership, you'll get 10% off your membership price"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006178642,
+        "INSULT": 0.013174911,
+        "PROFANITY": 0.025907494,
+        "SEVERE_TOXICITY": 0.0021266937,
+        "THREAT": 0.011482717,
+        "TOXICITY": 0.031449065,
+        "text": " and a VIP fast pass to my live events. Join my inner circle today at nutsinacircle.com slash podcast."
+    },
+    {
+        "IDENTITY_ATTACK": 0.006178642,
+        "INSULT": 0.011312899,
+        "PROFANITY": 0.022218296,
+        "SEVERE_TOXICITY": 0.0018405914,
+        "THREAT": 0.010576514,
+        "TOXICITY": 0.027677942,
+        "text": " Use the code podcast at checkout. Sign up today at nutsinacircle.com slash podcast and use the code podcast."
+    },
+    {
+        "IDENTITY_ATTACK": 0.0029228306,
+        "INSULT": 0.007607877,
+        "PROFANITY": 0.012482914,
+        "SEVERE_TOXICITY": 0.0006866455,
+        "THREAT": 0.007521313,
+        "TOXICITY": 0.011937759,
+        "text": " Hurry. This offer expires February 14th."
+    },
+    {
+        "IDENTITY_ATTACK": 0.015355183,
+        "INSULT": 0.024640027,
+        "PROFANITY": 0.049177196,
+        "SEVERE_TOXICITY": 0.0031089783,
+        "THREAT": 0.011405042,
+        "TOXICITY": 0.08083374,
+        "text": " On this episode of muts world, one of the most important struggles on the planet."
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.025542418,
+        "PROFANITY": 0.026454043,
+        "SEVERE_TOXICITY": 0.0032615662,
+        "THREAT": 0.009540852,
+        "TOXICITY": 0.11057663,
+        "text": " It's taking place right now between the people of Hong Kong and the mainland communist Chinese"
+    },
+    {
+        "IDENTITY_ATTACK": 0.020178653,
+        "INSULT": 0.026315894,
+        "PROFANITY": 0.020783609,
+        "SEVERE_TOXICITY": 0.00289917,
+        "THREAT": 0.010162249,
+        "TOXICITY": 0.09568449,
+        "text": " dictatorship led by General Secretary Xi Jinping. It has been 22 years since the July 1st, 1997,"
+    },
+    {
+        "IDENTITY_ATTACK": 0.053399716,
+        "INSULT": 0.023608726,
+        "PROFANITY": 0.024267852,
+        "SEVERE_TOXICITY": 0.0039482117,
+        "THREAT": 0.01187109,
+        "TOXICITY": 0.08874765,
+        "text": " handover of Hong Kong from Britain to communist China. The system worked moderately well"
+    },
+    {
+        "IDENTITY_ATTACK": 0.012340514,
+        "INSULT": 0.02173949,
+        "PROFANITY": 0.016172111,
+        "SEVERE_TOXICITY": 0.0014781952,
+        "THREAT": 0.008453408,
+        "TOXICITY": 0.056016337,
+        "text": " and maintaining a balance of economic and personal freedom next to a totalitarian system. However,"
+    },
+    {
+        "IDENTITY_ATTACK": 0.013144426,
+        "INSULT": 0.010666896,
+        "PROFANITY": 0.015728042,
+        "SEVERE_TOXICITY": 0.0014019012,
+        "THREAT": 0.009126588,
+        "TOXICITY": 0.027913637,
+        "text": " as the Hong Kong government working with Beijing proposed an extradition bill to send law"
+    },
+    {
+        "IDENTITY_ATTACK": 0.18546575,
+        "INSULT": 0.0623257,
+        "PROFANITY": 0.056441884,
+        "SEVERE_TOXICITY": 0.00869751,
+        "THREAT": 0.077831104,
+        "TOXICITY": 0.2330714,
+        "text": " breakers of Hong Kong to communist courts in China. Millions of Hong Kong citizens flooded the streets"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00776955,
+        "INSULT": 0.012946909,
+        "PROFANITY": 0.017504321,
+        "SEVERE_TOXICITY": 0.001449585,
+        "THREAT": 0.010964886,
+        "TOXICITY": 0.031449065,
+        "text": " in protest. The key test now is what General Secretary Xi Jinping is going to do about this direct"
+    },
+    {
+        "IDENTITY_ATTACK": 0.02128403,
+        "INSULT": 0.013516913,
+        "PROFANITY": 0.016957775,
+        "SEVERE_TOXICITY": 0.0017166138,
+        "THREAT": 0.011327368,
+        "TOXICITY": 0.040183347,
+        "text": " confrontation between Hong Kong's people and Beijing's military and police power. On this episode,"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0065856185,
+        "INSULT": 0.010856897,
+        "PROFANITY": 0.012107162,
+        "SEVERE_TOXICITY": 0.00084877014,
+        "THREAT": 0.0072882893,
+        "TOXICITY": 0.025792383,
+        "text": " I'll explain why the protest are happening and why we as Americans should care about the outcome."
+    },
+    {
+        "IDENTITY_ATTACK": 0.016159095,
+        "INSULT": 0.010856897,
+        "PROFANITY": 0.020100424,
+        "SEVERE_TOXICITY": 0.00207901,
+        "THREAT": 0.00967031,
+        "TOXICITY": 0.032627538,
+        "text": " I really wanted to talk about what's going on in Hong Kong now because I think that it is the"
+    },
+    {
+        "IDENTITY_ATTACK": 0.072601855,
+        "INSULT": 0.031697463,
+        "PROFANITY": 0.028093686,
+        "SEVERE_TOXICITY": 0.0040626526,
+        "THREAT": 0.015429466,
+        "TOXICITY": 0.11388343,
+        "text": " biggest test of the communist Chinese dictatorship since Tiananmen Square in 1989."
+    },
+    {
+        "IDENTITY_ATTACK": 0.0103594,
+        "INSULT": 0.031256735,
+        "PROFANITY": 0.022423252,
+        "SEVERE_TOXICITY": 0.0025367737,
+        "THREAT": 0.008582866,
+        "TOXICITY": 0.10653123,
+        "text": " And the reason I say that is that what you've been watching on television is an outpouring of people."
+    },
+    {
+        "IDENTITY_ATTACK": 0.094936445,
+        "INSULT": 0.029053112,
+        "PROFANITY": 0.024404489,
+        "SEVERE_TOXICITY": 0.00333786,
+        "THREAT": 0.009230154,
+        "TOXICITY": 0.11140333,
+        "text": " Remember, the Chinese communists have been perfecting visual identification systems,"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007473567,
+        "INSULT": 0.014124917,
+        "PROFANITY": 0.02030538,
+        "SEVERE_TOXICITY": 0.0015926361,
+        "THREAT": 0.008556974,
+        "TOXICITY": 0.030977672,
+        "text": " so you can assume that if you're in one of these demonstrations, the odds are pretty good the"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008509507,
+        "INSULT": 0.025800243,
+        "PROFANITY": 0.03489832,
+        "SEVERE_TOXICITY": 0.0059890747,
+        "THREAT": 0.14485972,
+        "TOXICITY": 0.17111848,
+        "text": " police are taking your picture. And if they decide to come back and crack down, you could suddenly"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009767435,
+        "INSULT": 0.032689095,
+        "PROFANITY": 0.021535112,
+        "SEVERE_TOXICITY": 0.002746582,
+        "THREAT": 0.010731863,
+        "TOXICITY": 0.119997114,
+        "text": " find yourself in real trouble. The dictatorship on the mainland can be very tough and has had people"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008139528,
+        "INSULT": 0.0279513,
+        "PROFANITY": 0.03690237,
+        "SEVERE_TOXICITY": 0.0038337708,
+        "THREAT": 0.010887212,
+        "TOXICITY": 0.10566349,
+        "text": " locked up. So this is not fun and games. This is a real act of courage. And what's fascinating"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0091384705,
+        "INSULT": 0.014732921,
+        "PROFANITY": 0.022696527,
+        "SEVERE_TOXICITY": 0.002231598,
+        "THREAT": 0.009592636,
+        "TOXICITY": 0.035691574,
+        "text": " in me is the scale that it's built to. The fact that you and I are watching millions of people"
+    },
+    {
+        "IDENTITY_ATTACK": 0.073429056,
+        "INSULT": 0.061801232,
+        "PROFANITY": 0.048425674,
+        "SEVERE_TOXICITY": 0.0045204163,
+        "THREAT": 0.012647836,
+        "TOXICITY": 0.16678599,
+        "text": " who are standing up and saying they don't want to go down a slippery path where the communist"
+    },
+    {
+        "IDENTITY_ATTACK": 0.013948337,
+        "INSULT": 0.03412145,
+        "PROFANITY": 0.01579636,
+        "SEVERE_TOXICITY": 0.002336502,
+        "THREAT": 0.00933372,
+        "TOXICITY": 0.11150667,
+        "text": " government, the dictatorship on the mainland, is able to have greater and greater control."
+    },
+    {
+        "IDENTITY_ATTACK": 0.17303948,
+        "INSULT": 0.07998765,
+        "PROFANITY": 0.025634222,
+        "SEVERE_TOXICITY": 0.005455017,
+        "THREAT": 0.010550622,
+        "TOXICITY": 0.20312156,
+        "text": " And I think this reflects on something very deep in the Chinese communist dictatorship style."
+    },
+    {
+        "IDENTITY_ATTACK": 0.0056236745,
+        "INSULT": 0.011768902,
+        "PROFANITY": 0.01265371,
+        "SEVERE_TOXICITY": 0.0009441376,
+        "THREAT": 0.0071588317,
+        "TOXICITY": 0.02308189,
+        "text": " Its court system in the end is very political. It's important to remember that the mainland government"
+    },
+    {
+        "IDENTITY_ATTACK": 0.02238941,
+        "INSULT": 0.015796926,
+        "PROFANITY": 0.016957775,
+        "SEVERE_TOXICITY": 0.0015544891,
+        "THREAT": 0.007974415,
+        "TOXICITY": 0.038991302,
+        "text": " is in fact defined by the communist party. It's about 90 million communist party members."
+    },
+    {
+        "IDENTITY_ATTACK": 0.007288578,
+        "INSULT": 0.011654901,
+        "PROFANITY": 0.015454767,
+        "SEVERE_TOXICITY": 0.0013923645,
+        "THREAT": 0.008738215,
+        "TOXICITY": 0.030741978,
+        "text": " And that they permeate everything. They permeate the courts, the police, the corporations,"
+    },
+    {
+        "IDENTITY_ATTACK": 0.022791367,
+        "INSULT": 0.016100928,
+        "PROFANITY": 0.016889455,
+        "SEVERE_TOXICITY": 0.0014877319,
+        "THREAT": 0.007974415,
+        "TOXICITY": 0.040183347,
+        "text": " the universities, the people in Hong Kong who had spent a long time being governed by the British"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0071775843,
+        "INSULT": 0.011312899,
+        "PROFANITY": 0.014976538,
+        "SEVERE_TOXICITY": 0.0010967255,
+        "THREAT": 0.007909686,
+        "TOXICITY": 0.023553278,
+        "text": " who have a totally different approach, very parallel to ours and that the rule of law matters,"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00725158,
+        "INSULT": 0.013782915,
+        "PROFANITY": 0.015659723,
+        "SEVERE_TOXICITY": 0.0011062622,
+        "THREAT": 0.0070164283,
+        "TOXICITY": 0.03545588,
+        "text": " individual dignity matters. The state has limits on its power. All of those things had conditioned"
+    },
+    {
+        "IDENTITY_ATTACK": 0.022992345,
+        "INSULT": 0.014124917,
+        "PROFANITY": 0.012004685,
+        "SEVERE_TOXICITY": 0.0013256073,
+        "THREAT": 0.0071847234,
+        "TOXICITY": 0.038519915,
+        "text": " people in Hong Kong to a belief in their own legitimate authority and their own legitimate dignity."
+    },
+    {
+        "IDENTITY_ATTACK": 0.014450782,
+        "INSULT": 0.07016616,
+        "PROFANITY": 0.07676199,
+        "SEVERE_TOXICITY": 0.0076675415,
+        "THREAT": 0.08396416,
+        "TOXICITY": 0.24924077,
+        "text": " And they see all this being threatened. And there's smart enough to understand that it's a slippery"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.035443626,
+        "PROFANITY": 0.025634222,
+        "SEVERE_TOXICITY": 0.0032043457,
+        "THREAT": 0.009178371,
+        "TOXICITY": 0.13908891,
+        "text": " the immediate cause of the crisis was a proposed bill that would allow the Chinese communist government"
+    },
+    {
+        "IDENTITY_ATTACK": 0.073429056,
+        "INSULT": 0.033790905,
+        "PROFANITY": 0.026180768,
+        "SEVERE_TOXICITY": 0.0039863586,
+        "THREAT": 0.0138755,
+        "TOXICITY": 0.12867521,
+        "text": " to extradite people from Hong Kong to the mainland. Now the excuse for it was that a local teenager"
+    },
+    {
+        "IDENTITY_ATTACK": 0.18391247,
+        "INSULT": 0.08558089,
+        "PROFANITY": 0.13697,
+        "SEVERE_TOXICITY": 0.022322904,
+        "THREAT": 0.3297989,
+        "TOXICITY": 0.31132057,
+        "text": " was killed while she was vacationing with her boyfriend in Taiwan. The boyfriend who's a Hong Kong"
+    },
+    {
+        "IDENTITY_ATTACK": 0.012641981,
+        "INSULT": 0.026315894,
+        "PROFANITY": 0.03615085,
+        "SEVERE_TOXICITY": 0.0064849854,
+        "THREAT": 0.13464862,
+        "TOXICITY": 0.17025198,
+        "text": " admits to the murder, but authorities can't extradite him back to stand trial and they have to"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007732552,
+        "INSULT": 0.04149419,
+        "PROFANITY": 0.020783609,
+        "SEVERE_TOXICITY": 0.0029563904,
+        "THREAT": 0.032005094,
+        "TOXICITY": 0.1460314,
+        "text": " prosecute him for a lesser charge of money laundering. So the government comes in using that particular"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009471451,
+        "INSULT": 0.03136692,
+        "PROFANITY": 0.028503597,
+        "SEVERE_TOXICITY": 0.0031280518,
+        "THREAT": 0.01254427,
+        "TOXICITY": 0.1140901,
+        "text": " outrageous case as an excuse and says, you know, what we need to do is have an extradition law that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.08087392,
+        "INSULT": 0.18852992,
+        "PROFANITY": 0.104876526,
+        "SEVERE_TOXICITY": 0.016577384,
+        "THREAT": 0.34804323,
+        "TOXICITY": 0.32397532,
+        "text": " in an orderly way will let us get rid of bad people. Let us get rid of criminals, violent criminals,"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00984143,
+        "INSULT": 0.0151129225,
+        "PROFANITY": 0.018529098,
+        "SEVERE_TOXICITY": 0.0014591217,
+        "THREAT": 0.008738215,
+        "TOXICITY": 0.034277402,
+        "text": " and it all sounds under surface plausible in the United States so well, if that's what they're doing,"
+    },
+    {
+        "IDENTITY_ATTACK": 0.019676208,
+        "INSULT": 0.026444806,
+        "PROFANITY": 0.03339528,
+        "SEVERE_TOXICITY": 0.0037574768,
+        "THREAT": 0.011379151,
+        "TOXICITY": 0.1104733,
+        "text": " why is there this huge outrage? Why are these enormous demonstrations? And the reason is"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.05262003,
+        "PROFANITY": 0.025497584,
+        "SEVERE_TOXICITY": 0.0038146973,
+        "THREAT": 0.008867673,
+        "TOXICITY": 0.15987846,
+        "text": " virtually nobody in Hong Kong trusts the dictatorship in Beijing. And they all assume that once you"
+    },
+    {
+        "IDENTITY_ATTACK": 0.02048012,
+        "INSULT": 0.082372494,
+        "PROFANITY": 0.045670103,
+        "SEVERE_TOXICITY": 0.0049591064,
+        "THREAT": 0.027861187,
+        "TOXICITY": 0.2028889,
+        "text": " start down the slope, this year it might be only hard in criminals. Next year it might be"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005364689,
+        "INSULT": 0.0103248935,
+        "PROFANITY": 0.014327513,
+        "SEVERE_TOXICITY": 0.0011444092,
+        "THREAT": 0.008155655,
+        "TOXICITY": 0.020842785,
+        "text": " publishers and writers and public spokesperson. The year after it might be people who belong to"
+    },
+    {
+        "IDENTITY_ATTACK": 0.025404079,
+        "INSULT": 0.018129934,
+        "PROFANITY": 0.019963788,
+        "SEVERE_TOXICITY": 0.0018501282,
+        "THREAT": 0.008919456,
+        "TOXICITY": 0.05378982,
+        "text": " parties that are not communist. And so they see it as the beginning of the end of the freedom which"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008842488,
+        "INSULT": 0.0103248935,
+        "PROFANITY": 0.015420608,
+        "SEVERE_TOXICITY": 0.001373291,
+        "THREAT": 0.008168601,
+        "TOXICITY": 0.019351736,
+        "text": " has made Hong Kong so unique. You and I have been watching history and we've been watching a"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005401687,
+        "INSULT": 0.010970897,
+        "PROFANITY": 0.019348921,
+        "SEVERE_TOXICITY": 0.0017547607,
+        "THREAT": 0.011223801,
+        "TOXICITY": 0.029799197,
+        "text": " moment in time where we don't know how it's going to end. It could be anywhere from a permanent"
+    },
+    {
+        "IDENTITY_ATTACK": 0.027815815,
+        "INSULT": 0.015872927,
+        "PROFANITY": 0.019212283,
+        "SEVERE_TOXICITY": 0.0023269653,
+        "THREAT": 0.01086132,
+        "TOXICITY": 0.049336795,
+        "text": " change in the power system with the people of Hong Kong having vastly more power or it could be"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007843546,
+        "INSULT": 0.010400894,
+        "PROFANITY": 0.01402008,
+        "SEVERE_TOXICITY": 0.0011014938,
+        "THREAT": 0.008375733,
+        "TOXICITY": 0.021196328,
+        "text": " the gradual coercion through a series of steps by Beijing or it could be that Beijing simply moves in"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00725158,
+        "INSULT": 0.021997316,
+        "PROFANITY": 0.02119352,
+        "SEVERE_TOXICITY": 0.0021648407,
+        "THREAT": 0.011456826,
+        "TOXICITY": 0.06579731,
+        "text": " and decides that it's going to do whatever it has to in order to be able to dominate. And the truth"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0076585566,
+        "INSULT": 0.012034904,
+        "PROFANITY": 0.019075647,
+        "SEVERE_TOXICITY": 0.0017261505,
+        "THREAT": 0.010757755,
+        "TOXICITY": 0.031331215,
+        "text": " is we don't know which of these outcomes is going to happen next. And that's why I thought it was"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010433395,
+        "INSULT": 0.011160898,
+        "PROFANITY": 0.015010698,
+        "SEVERE_TOXICITY": 0.0011825562,
+        "THREAT": 0.008466354,
+        "TOXICITY": 0.025556687,
+        "text": " useful to put in context how Hong Kong got to be there, what it's like, what the fights over,"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0052906936,
+        "INSULT": 0.009507888,
+        "PROFANITY": 0.014566627,
+        "SEVERE_TOXICITY": 0.0010824203,
+        "THREAT": 0.008039144,
+        "TOXICITY": 0.017215505,
+        "text": " and what the options are in terms of the central government and what they're looking at. And"
+    },
+    {
+        "IDENTITY_ATTACK": 0.2764353,
+        "INSULT": 0.17486192,
+        "PROFANITY": 0.068967216,
+        "SEVERE_TOXICITY": 0.011138916,
+        "THREAT": 0.019573374,
+        "TOXICITY": 0.30502358,
+        "text": " remember this, if you are the Chinese communist dictatorship and you're sitting in Beijing trying to"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0055496786,
+        "INSULT": 0.02425329,
+        "PROFANITY": 0.015523086,
+        "SEVERE_TOXICITY": 0.0018119812,
+        "THREAT": 0.00789674,
+        "TOXICITY": 0.07291982,
+        "text": " run a country of a billion, 400 million people, you know the deal you've cut which is the people"
+    },
+    {
+        "IDENTITY_ATTACK": 0.035331827,
+        "INSULT": 0.031917825,
+        "PROFANITY": 0.027137227,
+        "SEVERE_TOXICITY": 0.0048065186,
+        "THREAT": 0.03235042,
+        "TOXICITY": 0.15213956,
+        "text": " will give us the right to run a totalitarian state but in return we are going to give them prosperity."
+    },
+    {
+        "IDENTITY_ATTACK": 0.018671319,
+        "INSULT": 0.011920903,
+        "PROFANITY": 0.01627459,
+        "SEVERE_TOXICITY": 0.0014972687,
+        "THREAT": 0.007301235,
+        "TOXICITY": 0.030270588,
+        "text": " I think it's fair to say that there's generally acceptance in communist China that the deal has been"
+    },
+    {
+        "IDENTITY_ATTACK": 0.054763943,
+        "INSULT": 0.032248367,
+        "PROFANITY": 0.02795705,
+        "SEVERE_TOXICITY": 0.0035476685,
+        "THREAT": 0.0091524795,
+        "TOXICITY": 0.1140901,
+        "text": " I have a better life but that's a life controlled by the Communist Party but it's better than"
+    },
+    {
+        "IDENTITY_ATTACK": 0.013244915,
+        "INSULT": 0.031256735,
+        "PROFANITY": 0.029460056,
+        "SEVERE_TOXICITY": 0.005874634,
+        "THREAT": 0.020609349,
+        "TOXICITY": 0.147767,
+        "text": " chaos it's better than a disaster it's better than poverty. However there are three places where"
+    },
+    {
+        "IDENTITY_ATTACK": 0.038425524,
+        "INSULT": 0.015188923,
+        "PROFANITY": 0.022833163,
+        "SEVERE_TOXICITY": 0.0022220612,
+        "THREAT": 0.008181547,
+        "TOXICITY": 0.04735767,
+        "text": " there are populations of Chinese descent that are both prosperous and free. The one we're talking"
+    },
+    {
+        "IDENTITY_ATTACK": 0.052035484,
+        "INSULT": 0.02425329,
+        "PROFANITY": 0.023516348,
+        "SEVERE_TOXICITY": 0.0029563904,
+        "THREAT": 0.00823333,
+        "TOXICITY": 0.069754265,
+        "text": " about today Hong Kong which has a unique relationship in that it is part of communist China but it is"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01857083,
+        "INSULT": 0.013478912,
+        "PROFANITY": 0.018597418,
+        "SEVERE_TOXICITY": 0.0014877319,
+        "THREAT": 0.008194493,
+        "TOXICITY": 0.032391842,
+        "text": " they say it's one country with two systems in the 22 years since the British turned over the"
+    },
+    {
+        "IDENTITY_ATTACK": 0.039714564,
+        "INSULT": 0.026444806,
+        "PROFANITY": 0.023516348,
+        "SEVERE_TOXICITY": 0.0027656555,
+        "THREAT": 0.008634649,
+        "TOXICITY": 0.09308127,
+        "text": " city state to the communist that they've actually remained relatively more open, free, or more"
+    },
+    {
+        "IDENTITY_ATTACK": 0.026609946,
+        "INSULT": 0.020321451,
+        "PROFANITY": 0.018187506,
+        "SEVERE_TOXICITY": 0.0017642975,
+        "THREAT": 0.0089712385,
+        "TOXICITY": 0.056758508,
+        "text": " entrepreneurial and with greater rights. The second of course is Taiwan which was occupied by the"
+    },
+    {
+        "IDENTITY_ATTACK": 0.045901958,
+        "INSULT": 0.022899706,
+        "PROFANITY": 0.025770858,
+        "SEVERE_TOXICITY": 0.003929138,
+        "THREAT": 0.012130005,
+        "TOXICITY": 0.10783285,
+        "text": " nationalists when they lost the civil war on the mainland and has grown steadily freer, steadily"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010581387,
+        "INSULT": 0.010438894,
+        "PROFANITY": 0.013917602,
+        "SEVERE_TOXICITY": 0.0013256073,
+        "THREAT": 0.008168601,
+        "TOXICITY": 0.022964042,
+        "text": " more open and steadily more distant from the mainland. Taiwan has millions of people it's much"
+    },
+    {
+        "IDENTITY_ATTACK": 0.09080041,
+        "INSULT": 0.022706337,
+        "PROFANITY": 0.023721304,
+        "SEVERE_TOXICITY": 0.003376007,
+        "THREAT": 0.008893564,
+        "TOXICITY": 0.09525062,
+        "text": " bigger than Hong Kong. It has millions of people now who are of Chinese descent but are living in"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009619443,
+        "INSULT": 0.0114269,
+        "PROFANITY": 0.019348921,
+        "SEVERE_TOXICITY": 0.0017738342,
+        "THREAT": 0.009256045,
+        "TOXICITY": 0.031684756,
+        "text": " freedom have a free press, have free elections and are also very very prosperous and the third"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0093974555,
+        "INSULT": 0.010590895,
+        "PROFANITY": 0.015488927,
+        "SEVERE_TOXICITY": 0.0014781952,
+        "THREAT": 0.0074824756,
+        "TOXICITY": 0.021549871,
+        "text": " of course is Singapore which is one of the most remarkable city states in the world"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0058456613,
+        "INSULT": 0.00971689,
+        "PROFANITY": 0.015728042,
+        "SEVERE_TOXICITY": 0.0013637543,
+        "THREAT": 0.008362788,
+        "TOXICITY": 0.01847211,
+        "text": " enormously successful and which had for a very long time in Li Quan Yu one of the wisest leaders"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0044582416,
+        "INSULT": 0.008709883,
+        "PROFANITY": 0.012551232,
+        "SEVERE_TOXICITY": 0.0009202957,
+        "THREAT": 0.007068211,
+        "TOXICITY": 0.014953613,
+        "text": " in modern history who really laid the basis for a remarkably prosperous and safe country."
+    },
+    {
+        "IDENTITY_ATTACK": 0.006289636,
+        "INSULT": 0.010362893,
+        "PROFANITY": 0.013849284,
+        "SEVERE_TOXICITY": 0.0010633469,
+        "THREAT": 0.0072235605,
+        "TOXICITY": 0.0201057,
+        "text": " So if you're sitting in Beijing and you're trying to make sure that the billion four million"
+    },
+    {
+        "IDENTITY_ATTACK": 0.012541492,
+        "INSULT": 0.24835461,
+        "PROFANITY": 0.07708528,
+        "SEVERE_TOXICITY": 0.0040626526,
+        "THREAT": 0.0079873605,
+        "TOXICITY": 0.27750343,
+        "text": " people you currently govern don't get crazy ideas you worry if they start seeing too much freedom"
+    },
+    {
+        "IDENTITY_ATTACK": 0.055218685,
+        "INSULT": 0.02425329,
+        "PROFANITY": 0.02071529,
+        "SEVERE_TOXICITY": 0.0028419495,
+        "THREAT": 0.0089712385,
+        "TOXICITY": 0.09611836,
+        "text": " in Taiwan or Singapore or Hong Kong and you worry the most about Hong Kong because it is"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007214582,
+        "INSULT": 0.012072904,
+        "PROFANITY": 0.015625564,
+        "SEVERE_TOXICITY": 0.0015830994,
+        "THREAT": 0.008336896,
+        "TOXICITY": 0.028031485,
+        "text": " basically right next to the mainland. People go back and forth all of the time. There's a great deal"
+    },
+    {
+        "IDENTITY_ATTACK": 0.015154205,
+        "INSULT": 0.012338906,
+        "PROFANITY": 0.014942379,
+        "SEVERE_TOXICITY": 0.0013256073,
+        "THREAT": 0.0078449575,
+        "TOXICITY": 0.02826718,
+        "text": " of news media publishing books and other things in Hong Kong which reach back into China and so"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00673361,
+        "INSULT": 0.012946909,
+        "PROFANITY": 0.018324144,
+        "SEVERE_TOXICITY": 0.0014781952,
+        "THREAT": 0.009178371,
+        "TOXICITY": 0.029327808,
+        "text": " there's a great sensitivity and they've found themselves I think caught and not certain what to do."
+    },
+    {
+        "IDENTITY_ATTACK": 0.015355183,
+        "INSULT": 0.011958904,
+        "PROFANITY": 0.015147334,
+        "SEVERE_TOXICITY": 0.0015449524,
+        "THREAT": 0.007793174,
+        "TOXICITY": 0.034277402,
+        "text": " Next, how to discuss the history of Hong Kong including its 155 year British colonization"
+    },
+    {
+        "IDENTITY_ATTACK": 0.17381613,
+        "INSULT": 0.06739554,
+        "PROFANITY": 0.024199532,
+        "SEVERE_TOXICITY": 0.0049209595,
+        "THREAT": 0.0091524795,
+        "TOXICITY": 0.1798404,
+        "text": " and now 22 years of being under communist Chinese rule."
+    },
+    {
+        "IDENTITY_ATTACK": 0.04435511,
+        "INSULT": 0.014504919,
+        "PROFANITY": 0.019895468,
+        "SEVERE_TOXICITY": 0.0022506714,
+        "THREAT": 0.012130005,
+        "TOXICITY": 0.058490243,
+        "text": " The struggle underway now between the people of Hong Kong and the economy of Chinese"
+    },
+    {
+        "IDENTITY_ATTACK": 0.07012023,
+        "INSULT": 0.03312982,
+        "PROFANITY": 0.026180768,
+        "SEVERE_TOXICITY": 0.0044059753,
+        "THREAT": 0.010913103,
+        "TOXICITY": 0.147767,
+        "text": " dictatorship of the mainland is fascinating in part because Hong Kong has been so"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005253696,
+        "INSULT": 0.010932897,
+        "PROFANITY": 0.014600786,
+        "SEVERE_TOXICITY": 0.0013923645,
+        "THREAT": 0.00746953,
+        "TOXICITY": 0.019854378,
+        "text": " amazingly successful. This is a tiny city state who has $61,000 income per capita."
+    },
+    {
+        "IDENTITY_ATTACK": 0.006622616,
+        "INSULT": 0.008272881,
+        "PROFANITY": 0.014942379,
+        "SEVERE_TOXICITY": 0.0012302399,
+        "THREAT": 0.008065036,
+        "TOXICITY": 0.015896067,
+        "text": " It has a population of 7,400,000, one of the most heavily populated places in the world and it is"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008028535,
+        "INSULT": 0.021803947,
+        "PROFANITY": 0.022764845,
+        "SEVERE_TOXICITY": 0.0025939941,
+        "THREAT": 0.008531082,
+        "TOXICITY": 0.06896287,
+        "text": " absolutely an extraordinary achievement of the human spirit that with virtually no resources"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0037922803,
+        "INSULT": 0.018645585,
+        "PROFANITY": 0.015454767,
+        "SEVERE_TOXICITY": 0.0012683868,
+        "THREAT": 0.006537435,
+        "TOXICITY": 0.038991302,
+        "text": " virtually no space that in fact they have built this remarkable trading finance and manufacturing"
+    },
+    {
+        "IDENTITY_ATTACK": 0.018872296,
+        "INSULT": 0.013250912,
+        "PROFANITY": 0.015557245,
+        "SEVERE_TOXICITY": 0.0014591217,
+        "THREAT": 0.0077154995,
+        "TOXICITY": 0.029327808,
+        "text": " and that it evolved as communist China evolved and became more open. Hong Kong had defined new ways"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0053276913,
+        "INSULT": 0.010666896,
+        "PROFANITY": 0.015557245,
+        "SEVERE_TOXICITY": 0.0013446808,
+        "THREAT": 0.008039144,
+        "TOXICITY": 0.02308189,
+        "text": " of earning a living, new ways of being a competitor worldwide and they've actually done it."
+    },
+    {
+        "IDENTITY_ATTACK": 0.013847848,
+        "INSULT": 0.01640493,
+        "PROFANITY": 0.02932342,
+        "SEVERE_TOXICITY": 0.0027275085,
+        "THREAT": 0.009100696,
+        "TOXICITY": 0.043646812,
+        "text": " It's an astonishing place and it's a place of great diversity. Well, about nine out of ten people in"
+    },
+    {
+        "IDENTITY_ATTACK": 0.06340405,
+        "INSULT": 0.018452216,
+        "PROFANITY": 0.024677763,
+        "SEVERE_TOXICITY": 0.002784729,
+        "THREAT": 0.0078449575,
+        "TOXICITY": 0.07291982,
+        "text": " Hong Kong are Chinese. They're also Filipinos, they're Indonesians, they're Europeans."
+    },
+    {
+        "IDENTITY_ATTACK": 0.06658725,
+        "INSULT": 0.017549826,
+        "PROFANITY": 0.019485557,
+        "SEVERE_TOXICITY": 0.0024795532,
+        "THREAT": 0.0071717775,
+        "TOXICITY": 0.07212844,
+        "text": " The remarkable blend of people is illustrated in their religion. 28% Buddhist or Taoist"
+    },
+    {
+        "IDENTITY_ATTACK": 0.09162762,
+        "INSULT": 0.019096779,
+        "PROFANITY": 0.026727317,
+        "SEVERE_TOXICITY": 0.0028800964,
+        "THREAT": 0.009178371,
+        "TOXICITY": 0.08637348,
+        "text": " about 7% Protestant, about 5% Catholic, about 4% Muslim, about 1.5% Hindu, tiny number of Sikhs"
+    },
+    {
+        "IDENTITY_ATTACK": 0.05976611,
+        "INSULT": 0.022577424,
+        "PROFANITY": 0.021125201,
+        "SEVERE_TOXICITY": 0.0024795532,
+        "THREAT": 0.0078449575,
+        "TOXICITY": 0.08874765,
+        "text": " and then people with no stated religion, about half the population and they feel that they're"
+    },
+    {
+        "IDENTITY_ATTACK": 0.1064171,
+        "INSULT": 0.033901088,
+        "PROFANITY": 0.030389199,
+        "SEVERE_TOXICITY": 0.0033569336,
+        "THREAT": 0.007857903,
+        "TOXICITY": 0.1269396,
+        "text": " citizens of Hong Kong. They don't think that they're in any way tied to the Chinese communist"
+    },
+    {
+        "IDENTITY_ATTACK": 0.020580608,
+        "INSULT": 0.020192537,
+        "PROFANITY": 0.020988565,
+        "SEVERE_TOXICITY": 0.0026893616,
+        "THREAT": 0.009566744,
+        "TOXICITY": 0.08004235,
+        "text": " dictatorship. In fact, the University of Hong Kong did a study in 2016 and found that only 31%"
+    },
+    {
+        "IDENTITY_ATTACK": 0.053854458,
+        "INSULT": 0.02567133,
+        "PROFANITY": 0.018529098,
+        "SEVERE_TOXICITY": 0.0019168854,
+        "THREAT": 0.00746953,
+        "TOXICITY": 0.09394901,
+        "text": " of Hong Kong residents are proud to be national citizens of China. They don't identify their success,"
+    },
+    {
+        "IDENTITY_ATTACK": 0.18903255,
+        "INSULT": 0.07365121,
+        "PROFANITY": 0.03489832,
+        "SEVERE_TOXICITY": 0.005836487,
+        "THREAT": 0.011819307,
+        "TOXICITY": 0.23343207,
+        "text": " their freedom and their future with the Chinese communist dictatorship. They really see themselves"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0055496786,
+        "INSULT": 0.011844902,
+        "PROFANITY": 0.016342908,
+        "SEVERE_TOXICITY": 0.0013256073,
+        "THREAT": 0.007340072,
+        "TOXICITY": 0.022374803,
+        "text": " as part of a larger world and as people who make a living by a remarkable level of entrepreneur"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008768492,
+        "INSULT": 0.012490907,
+        "PROFANITY": 0.013985921,
+        "SEVERE_TOXICITY": 0.0011539459,
+        "THREAT": 0.0068028234,
+        "TOXICITY": 0.028502874,
+        "text": " behavior. And in fact, there have been a number of studies on the Hong Kong very low tax system"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0050317086,
+        "INSULT": 0.008500882,
+        "PROFANITY": 0.014805742,
+        "SEVERE_TOXICITY": 0.0011634827,
+        "THREAT": 0.00756015,
+        "TOXICITY": 0.0137598375,
+        "text": " in which they have really attracted entrepreneurs, attracted investments and by allowing people to"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0049577127,
+        "INSULT": 0.013402912,
+        "PROFANITY": 0.015283971,
+        "SEVERE_TOXICITY": 0.0012397766,
+        "THREAT": 0.007598988,
+        "TOXICITY": 0.029092113,
+        "text": " keep the money they make, they have created a center of wealth. There's an estimate that there are"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011691323,
+        "INSULT": 0.010590895,
+        "PROFANITY": 0.011133623,
+        "SEVERE_TOXICITY": 0.00092983246,
+        "THREAT": 0.006149062,
+        "TOXICITY": 0.023906821,
+        "text": " more high value people in terms of income in Hong Kong than in any other single city in the world."
+    },
+    {
+        "IDENTITY_ATTACK": 0.0052166977,
+        "INSULT": 0.017356457,
+        "PROFANITY": 0.01535229,
+        "SEVERE_TOXICITY": 0.0012302399,
+        "THREAT": 0.007029374,
+        "TOXICITY": 0.038048524,
+        "text": " That's how productive and that's how powerful it's been. Now, this is also a historical anomaly."
+    },
+    {
+        "IDENTITY_ATTACK": 0.019977676,
+        "INSULT": 0.012300906,
+        "PROFANITY": 0.018734055,
+        "SEVERE_TOXICITY": 0.0019931793,
+        "THREAT": 0.00866054,
+        "TOXICITY": 0.034513097,
+        "text": " Hong Kong originally was just some islands and the British decided it was a great port and so"
+    },
+    {
+        "IDENTITY_ATTACK": 0.012240025,
+        "INSULT": 0.0113889,
+        "PROFANITY": 0.0166845,
+        "SEVERE_TOXICITY": 0.0013256073,
+        "THREAT": 0.007909686,
+        "TOXICITY": 0.027560094,
+        "text": " part of the agreement that the British made with the Imperial Government back at the end of the"
+    },
+    {
+        "IDENTITY_ATTACK": 0.016360072,
+        "INSULT": 0.012186904,
+        "PROFANITY": 0.020100424,
+        "SEVERE_TOXICITY": 0.0022125244,
+        "THREAT": 0.010835429,
+        "TOXICITY": 0.040183347,
+        "text": " Opium Wars in the 1840s, they were given rights to the island of Hong Kong. Later on, they acquired"
+    },
+    {
+        "IDENTITY_ATTACK": 0.015757138,
+        "INSULT": 0.014162917,
+        "PROFANITY": 0.020783609,
+        "SEVERE_TOXICITY": 0.0017738342,
+        "THREAT": 0.008492245,
+        "TOXICITY": 0.033806015,
+        "text": " rights to an area in the mainland called Calloon and for a very long period, the British ran the"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.033901088,
+        "PROFANITY": 0.027273865,
+        "SEVERE_TOXICITY": 0.003566742,
+        "THREAT": 0.008919456,
+        "TOXICITY": 0.1269396,
+        "text": " place, no real regard for the Chinese government, whether it was the nationalist Chinese or the"
+    },
+    {
+        "IDENTITY_ATTACK": 0.105256535,
+        "INSULT": 0.035333443,
+        "PROFANITY": 0.035399333,
+        "SEVERE_TOXICITY": 0.005531311,
+        "THREAT": 0.010084574,
+        "TOXICITY": 0.13561769,
+        "text": " communist Chinese or before that, the empire. But they ran it as a colony. I think it's important to"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0065486208,
+        "INSULT": 0.018452216,
+        "PROFANITY": 0.019143965,
+        "SEVERE_TOXICITY": 0.0013065338,
+        "THREAT": 0.0074565844,
+        "TOXICITY": 0.049336795,
+        "text": " remember this because there's a certain amount of unfairness in saying why can't they have"
+    },
+    {
+        "IDENTITY_ATTACK": 0.04151922,
+        "INSULT": 0.025542418,
+        "PROFANITY": 0.024062896,
+        "SEVERE_TOXICITY": 0.0026512146,
+        "THREAT": 0.007974415,
+        "TOXICITY": 0.09655223,
+        "text": " free elections like they did in the British? No, that was a colony. Now, as a colony they had the"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00828752,
+        "INSULT": 0.011844902,
+        "PROFANITY": 0.019280603,
+        "SEVERE_TOXICITY": 0.0016021729,
+        "THREAT": 0.008272167,
+        "TOXICITY": 0.026970858,
+        "text": " role of law. It was a colony that people generally felt was very fair. It was a colony that was very"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010433395,
+        "INSULT": 0.017227544,
+        "PROFANITY": 0.016411226,
+        "SEVERE_TOXICITY": 0.0014400482,
+        "THREAT": 0.008168601,
+        "TOXICITY": 0.046368107,
+        "text": " well policed but nonetheless was not a free country. It wasn't a place that had exercised"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00258985,
+        "INSULT": 0.008633883,
+        "PROFANITY": 0.011509376,
+        "SEVERE_TOXICITY": 0.000667572,
+        "THREAT": 0.006738094,
+        "TOXICITY": 0.014765122,
+        "text": " a deep tradition of democracy. This was a 99-year lease and after a long time the lease began to run"
+    },
+    {
+        "IDENTITY_ATTACK": 0.05794714,
+        "INSULT": 0.03158728,
+        "PROFANITY": 0.02836696,
+        "SEVERE_TOXICITY": 0.004310608,
+        "THREAT": 0.010783645,
+        "TOXICITY": 0.11192002,
+        "text": " out and by that time you had a much bigger, much more powerful communist China and you had"
+    },
+    {
+        "IDENTITY_ATTACK": 0.026810925,
+        "INSULT": 0.021417208,
+        "PROFANITY": 0.023516348,
+        "SEVERE_TOXICITY": 0.0025558472,
+        "THREAT": 0.011482717,
+        "TOXICITY": 0.079250954,
+        "text": " Britain which had dropped dramatically in military power and dropped dramatically in relative"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0053276913,
+        "INSULT": 0.010780896,
+        "PROFANITY": 0.013302735,
+        "SEVERE_TOXICITY": 0.00092983246,
+        "THREAT": 0.006874025,
+        "TOXICITY": 0.020960633,
+        "text": " economic rank. And so there was no possibility, no practical realistic possibility, that Britain could"
+    },
+    {
+        "IDENTITY_ATTACK": 0.072601855,
+        "INSULT": 0.029604018,
+        "PROFANITY": 0.025497584,
+        "SEVERE_TOXICITY": 0.0030708313,
+        "THREAT": 0.010602405,
+        "TOXICITY": 0.10956833,
+        "text": " hold on to Hong Kong if the Chinese Communist wanted agreement. And so they had a long negotiation,"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007917541,
+        "INSULT": 0.008500882,
+        "PROFANITY": 0.01402008,
+        "SEVERE_TOXICITY": 0.0010061264,
+        "THREAT": 0.0074565844,
+        "TOXICITY": 0.017466826,
+        "text": " I was actually a speaker of the house in Hong Kong during the negotiating period and the British"
+    },
+    {
+        "IDENTITY_ATTACK": 0.049989145,
+        "INSULT": 0.021997316,
+        "PROFANITY": 0.022423252,
+        "SEVERE_TOXICITY": 0.0023651123,
+        "THREAT": 0.009048914,
+        "TOXICITY": 0.06381883,
+        "text": " worked very hard to get a general agreement from the Chinese Communist that they would, in fact,"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01087737,
+        "INSULT": 0.0118069025,
+        "PROFANITY": 0.017026093,
+        "SEVERE_TOXICITY": 0.0014591217,
+        "THREAT": 0.0089712385,
+        "TOXICITY": 0.025320992,
+        "text": " be willing to run a rule of law system very close to what the British had been doing and that they"
+    },
+    {
+        "IDENTITY_ATTACK": 0.018771807,
+        "INSULT": 0.013630914,
+        "PROFANITY": 0.017709278,
+        "SEVERE_TOXICITY": 0.0015163422,
+        "THREAT": 0.008764107,
+        "TOXICITY": 0.030034892,
+        "text": " would gradually bring in some level of representative government. The way the Chinese captured it and"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007954539,
+        "INSULT": 0.010856897,
+        "PROFANITY": 0.016547862,
+        "SEVERE_TOXICITY": 0.0014781952,
+        "THREAT": 0.008103873,
+        "TOXICITY": 0.022256956,
+        "text": " it was a pretty intelligent model was there would be one country but two systems. So from the"
+    },
+    {
+        "IDENTITY_ATTACK": 0.034558404,
+        "INSULT": 0.015416925,
+        "PROFANITY": 0.01893901,
+        "SEVERE_TOXICITY": 0.0017261505,
+        "THREAT": 0.0074436385,
+        "TOXICITY": 0.038048524,
+        "text": " standpoint of Beijing, Hong Kong is Chinese but it's Chinese in a different way than the rest of"
+    },
+    {
+        "IDENTITY_ATTACK": 0.045901958,
+        "INSULT": 0.02425329,
+        "PROFANITY": 0.02249157,
+        "SEVERE_TOXICITY": 0.0028800964,
+        "THREAT": 0.010110466,
+        "TOXICITY": 0.0926474,
+        "text": " China. Now, part of the reason that Hong Kong was treated this way is that the dictatorship in"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00984143,
+        "INSULT": 0.010020891,
+        "PROFANITY": 0.014395831,
+        "SEVERE_TOXICITY": 0.0012397766,
+        "THREAT": 0.00899713,
+        "TOXICITY": 0.023317585,
+        "text": " Beijing was trying to send a signal to Taiwan that they could rejoin mainland China and then you"
+    },
+    {
+        "IDENTITY_ATTACK": 0.014450782,
+        "INSULT": 0.010970897,
+        "PROFANITY": 0.015898837,
+        "SEVERE_TOXICITY": 0.0014305115,
+        "THREAT": 0.008116818,
+        "TOXICITY": 0.025320992,
+        "text": " would have one country and you'd have three systems and that required the Taiwan decided that they"
+    },
+    {
+        "IDENTITY_ATTACK": 0.027815815,
+        "INSULT": 0.02193286,
+        "PROFANITY": 0.014976538,
+        "SEVERE_TOXICITY": 0.001449585,
+        "THREAT": 0.00789674,
+        "TOXICITY": 0.056263726,
+        "text": " could trust Beijing to keep its word. So the British consistent bias in favor of occupying"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005771666,
+        "INSULT": 0.010476895,
+        "PROFANITY": 0.015659723,
+        "SEVERE_TOXICITY": 0.0011825562,
+        "THREAT": 0.0089712385,
+        "TOXICITY": 0.021314176,
+        "text": " the system in a fair way with the rule of law, with a police force that had a long"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007954539,
+        "INSULT": 0.036325075,
+        "PROFANITY": 0.026727317,
+        "SEVERE_TOXICITY": 0.0022506714,
+        "THREAT": 0.0074824756,
+        "TOXICITY": 0.102626406,
+        "text": " reputation for being incorruptible and extraordinarily honest and professional. In that setting"
+    },
+    {
+        "IDENTITY_ATTACK": 0.015254694,
+        "INSULT": 0.011920903,
+        "PROFANITY": 0.018392462,
+        "SEVERE_TOXICITY": 0.0019741058,
+        "THREAT": 0.008582866,
+        "TOXICITY": 0.030034892,
+        "text": " Hong Kong just transitioned from Great Britain to China and remained entrepreneurial, had a huge"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009175468,
+        "INSULT": 0.00975489,
+        "PROFANITY": 0.013200258,
+        "SEVERE_TOXICITY": 0.0012779236,
+        "THREAT": 0.007353018,
+        "TOXICITY": 0.02249265,
+        "text": " work ethic, people could rise rapidly in economic wealth and as China grew richer, a great deal"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00984143,
+        "INSULT": 0.0096028885,
+        "PROFANITY": 0.013610168,
+        "SEVERE_TOXICITY": 0.001115799,
+        "THREAT": 0.007094103,
+        "TOXICITY": 0.022728346,
+        "text": " that wealth came through Hong Kong in the form of trade or in the form of finances or insurance"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009434453,
+        "INSULT": 0.010818896,
+        "PROFANITY": 0.013917602,
+        "SEVERE_TOXICITY": 0.0013160706,
+        "THREAT": 0.0076507707,
+        "TOXICITY": 0.023788974,
+        "text": " companies and the result was that not only did Hong Kong rise because of itself but Hong Kong"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009767435,
+        "INSULT": 0.0105148945,
+        "PROFANITY": 0.01442999,
+        "SEVERE_TOXICITY": 0.0011301041,
+        "THREAT": 0.007534259,
+        "TOXICITY": 0.019980038,
+        "text": " also rose because of the general gradual rise of all of China. So for a very long period,"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008583503,
+        "INSULT": 0.013402912,
+        "PROFANITY": 0.026727317,
+        "SEVERE_TOXICITY": 0.00289917,
+        "THREAT": 0.009540852,
+        "TOXICITY": 0.040925518,
+        "text": " life has been exciting, it's been positive and yet there's been this continuous sense of being"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0075845607,
+        "INSULT": 0.013478912,
+        "PROFANITY": 0.018392462,
+        "SEVERE_TOXICITY": 0.0018978119,
+        "THREAT": 0.01119791,
+        "TOXICITY": 0.039226998,
+        "text": " about what will happen and the fact is nobody knew how it would evolve. Certainly after Tiananmen Square"
+    },
+    {
+        "IDENTITY_ATTACK": 0.3817989,
+        "INSULT": 0.1469393,
+        "PROFANITY": 0.1854088,
+        "SEVERE_TOXICITY": 0.02420936,
+        "THREAT": 0.5195707,
+        "TOXICITY": 0.40336934,
+        "text": " when the Chinese Communist decided they had to shoot people and run over them with tanks,"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00776955,
+        "INSULT": 0.015264924,
+        "PROFANITY": 0.02023706,
+        "SEVERE_TOXICITY": 0.0015544891,
+        "THREAT": 0.00899713,
+        "TOXICITY": 0.04686289,
+        "text": " there was a sense that there was a pretty rigid system politically and it wasn't going to evolve"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007991537,
+        "INSULT": 0.012452906,
+        "PROFANITY": 0.015283971,
+        "SEVERE_TOXICITY": 0.0012683868,
+        "THREAT": 0.0082074385,
+        "TOXICITY": 0.028031485,
+        "text": " towards any kind of real freedom in the short run but that didn't particularly carry over to Hong"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00776955,
+        "INSULT": 0.008329881,
+        "PROFANITY": 0.013951761,
+        "SEVERE_TOXICITY": 0.00096321106,
+        "THREAT": 0.0077284453,
+        "TOXICITY": 0.015079274,
+        "text": " in fact Beijing so recognized Hong Kong's ability to be independent that they were willing to have"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.0314771,
+        "PROFANITY": 0.040158957,
+        "SEVERE_TOXICITY": 0.0046157837,
+        "THREAT": 0.00948907,
+        "TOXICITY": 0.13388206,
+        "text": " people come to Hong Kong where they could talk about Tiananmen at the very time that in the communist"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.028061481,
+        "PROFANITY": 0.031391226,
+        "SEVERE_TOXICITY": 0.0037765503,
+        "THREAT": 0.011042561,
+        "TOXICITY": 0.11419344,
+        "text": " Chinese world they were erasing all the memories. So if you looked at the history textbooks, if you"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007473567,
+        "INSULT": 0.012034904,
+        "PROFANITY": 0.015454767,
+        "SEVERE_TOXICITY": 0.0011873245,
+        "THREAT": 0.007922632,
+        "TOXICITY": 0.028502874,
+        "text": " looked at memoirs, if you looked at a variety of other things, Tiananmen Square never quite occurred"
+    },
+    {
+        "IDENTITY_ATTACK": 0.023796257,
+        "INSULT": 0.015796926,
+        "PROFANITY": 0.016957775,
+        "SEVERE_TOXICITY": 0.0015258789,
+        "THREAT": 0.007624879,
+        "TOXICITY": 0.038519915,
+        "text": " in the historic patterns of communist China but there were people who were openly publicly talking"
+    },
+    {
+        "IDENTITY_ATTACK": 0.039714564,
+        "INSULT": 0.029714199,
+        "PROFANITY": 0.023311393,
+        "SEVERE_TOXICITY": 0.0030708313,
+        "THREAT": 0.011042561,
+        "TOXICITY": 0.10609736,
+        "text": " about it in Hong Kong, the Beijing dictatorship wasn't particularly happy about it but they gained"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011765319,
+        "INSULT": 0.012642908,
+        "PROFANITY": 0.014225035,
+        "SEVERE_TOXICITY": 0.0016212463,
+        "THREAT": 0.008129764,
+        "TOXICITY": 0.03062413,
+        "text": " certain very large advantages by tolerating the way in which Hong Kong operated. First of all,"
+    },
+    {
+        "IDENTITY_ATTACK": 0.045901958,
+        "INSULT": 0.016936934,
+        "PROFANITY": 0.019553876,
+        "SEVERE_TOXICITY": 0.002670288,
+        "THREAT": 0.007922632,
+        "TOXICITY": 0.061444655,
+        "text": " Hong Kong is a generator of enormous wealth, much of which goes to China, the value of Chinese"
+    },
+    {
+        "IDENTITY_ATTACK": 0.030691283,
+        "INSULT": 0.012718908,
+        "PROFANITY": 0.016547862,
+        "SEVERE_TOXICITY": 0.0015735626,
+        "THREAT": 0.0072235605,
+        "TOXICITY": 0.040430736,
+        "text": " currency, the value of Chinese investments, the very fact that a lot of Chinese wealthy people put"
+    },
+    {
+        "IDENTITY_ATTACK": 0.08004672,
+        "INSULT": 0.034672357,
+        "PROFANITY": 0.07708528,
+        "SEVERE_TOXICITY": 0.013866014,
+        "THREAT": 0.34804323,
+        "TOXICITY": 0.27525392,
+        "text": " money into Hong Kong, all of these things led Beijing to be very careful, they didn't want to kill"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011099357,
+        "INSULT": 0.043250903,
+        "PROFANITY": 0.056441884,
+        "SEVERE_TOXICITY": 0.0038909912,
+        "THREAT": 0.009281937,
+        "TOXICITY": 0.11088664,
+        "text": " the goose that was laying the golden egg. At the same time, they also recognized that whatever the"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0045507364,
+        "INSULT": 0.007493876,
+        "PROFANITY": 0.011765569,
+        "SEVERE_TOXICITY": 0.00076293945,
+        "THREAT": 0.007365964,
+        "TOXICITY": 0.013697007,
+        "text": " political, diplomatic, and public relations had been in dealing with Tiananmen Square,"
+    },
+    {
+        "IDENTITY_ATTACK": 0.02238941,
+        "INSULT": 0.015948927,
+        "PROFANITY": 0.017162729,
+        "SEVERE_TOXICITY": 0.002040863,
+        "THREAT": 0.012854968,
+        "TOXICITY": 0.053295042,
+        "text": " it would be enormously bigger if they did something to suppress dissent in Hong Kong itself."
+    },
+    {
+        "IDENTITY_ATTACK": 0.015053716,
+        "INSULT": 0.013706914,
+        "PROFANITY": 0.015693882,
+        "SEVERE_TOXICITY": 0.0016975403,
+        "THREAT": 0.009592636,
+        "TOXICITY": 0.04686289,
+        "text": " I don't think there was ever any serious thought about using the military in Hong Kong the way"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009693438,
+        "INSULT": 0.0116169015,
+        "PROFANITY": 0.015728042,
+        "SEVERE_TOXICITY": 0.0015068054,
+        "THREAT": 0.010214032,
+        "TOXICITY": 0.030741978,
+        "text": " they had used the military in Beijing and there's no evidence at the moment at least that they are"
+    },
+    {
+        "IDENTITY_ATTACK": 0.021786476,
+        "INSULT": 0.191015,
+        "PROFANITY": 0.15724123,
+        "SEVERE_TOXICITY": 0.009841919,
+        "THREAT": 0.018882722,
+        "TOXICITY": 0.3281604,
+        "text": " going to put that scale of people in there and I think they have a pretty good idea how horrible"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006992595,
+        "INSULT": 0.012756908,
+        "PROFANITY": 0.019758832,
+        "SEVERE_TOXICITY": 0.0022029877,
+        "THREAT": 0.011068452,
+        "TOXICITY": 0.03592727,
+        "text": " it would look on television and how rapidly the rest of the world would respond with enormous"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011543332,
+        "INSULT": 0.029383656,
+        "PROFANITY": 0.03840541,
+        "SEVERE_TOXICITY": 0.0035858154,
+        "THREAT": 0.016810767,
+        "TOXICITY": 0.1269396,
+        "text": " hostility if that's what they did. So you had a situation building where you have on the one front,"
+    },
+    {
+        "IDENTITY_ATTACK": 0.12440576,
+        "INSULT": 0.042665333,
+        "PROFANITY": 0.046171114,
+        "SEVERE_TOXICITY": 0.0060653687,
+        "THREAT": 0.048481647,
+        "TOXICITY": 0.18269104,
+        "text": " the people of Hong Kong pretty aggressively and directly taking on the establishment and to"
+    },
+    {
+        "IDENTITY_ATTACK": 0.2795294,
+        "INSULT": 0.113185234,
+        "PROFANITY": 0.08225787,
+        "SEVERE_TOXICITY": 0.0073623657,
+        "THREAT": 0.01101667,
+        "TOXICITY": 0.26859093,
+        "text": " understand that in part you have to recognize that that establishment was really rigged by the Chinese"
+    },
+    {
+        "IDENTITY_ATTACK": 0.039456755,
+        "INSULT": 0.02657372,
+        "PROFANITY": 0.027547138,
+        "SEVERE_TOXICITY": 0.0031661987,
+        "THREAT": 0.008867673,
+        "TOXICITY": 0.09394901,
+        "text": " Communist. There are about 1,200 people who elect the chief executive. Those people are almost"
+    },
+    {
+        "IDENTITY_ATTACK": 0.015053716,
+        "INSULT": 0.019354604,
+        "PROFANITY": 0.016889455,
+        "SEVERE_TOXICITY": 0.001411438,
+        "THREAT": 0.008764107,
+        "TOXICITY": 0.049089402,
+        "text": " overwhelmingly biased in favor of Beijing. There's a general agreement that the amount of pressure"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0054756827,
+        "INSULT": 0.012224905,
+        "PROFANITY": 0.014259194,
+        "SEVERE_TOXICITY": 0.0009965897,
+        "THREAT": 0.008246276,
+        "TOXICITY": 0.025203144,
+        "text": " that Beijing can bring to bear on the chief executive's overwhelming and in fact,"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010211408,
+        "INSULT": 0.027347196,
+        "PROFANITY": 0.019075647,
+        "SEVERE_TOXICITY": 0.0034713745,
+        "THREAT": 0.04686524,
+        "TOXICITY": 0.11057663,
+        "text": " lay them who's the current chief executive couldn't survive for a full day if Beijing wanted to"
+    },
+    {
+        "IDENTITY_ATTACK": 0.14019285,
+        "INSULT": 0.336253,
+        "PROFANITY": 0.084844165,
+        "SEVERE_TOXICITY": 0.008506775,
+        "THREAT": 0.010472948,
+        "TOXICITY": 0.3281604,
+        "text": " people in Hong Kong know this so they know she's really Beijing's puppet running Hong Kong."
+    },
+    {
+        "IDENTITY_ATTACK": 0.02439919,
+        "INSULT": 0.027347196,
+        "PROFANITY": 0.014395831,
+        "SEVERE_TOXICITY": 0.0016307831,
+        "THREAT": 0.008259222,
+        "TOXICITY": 0.083999306,
+        "text": " She's not Hong Kong's choice running Hong Kong and that leads to a continuous frustration"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008213525,
+        "INSULT": 0.013478912,
+        "PROFANITY": 0.016103793,
+        "SEVERE_TOXICITY": 0.0013828278,
+        "THREAT": 0.008712323,
+        "TOXICITY": 0.028502874,
+        "text": " and a continuous sense of wanting to change it. Now starting at the end of the British period"
+    },
+    {
+        "IDENTITY_ATTACK": 0.017163984,
+        "INSULT": 0.013554913,
+        "PROFANITY": 0.016821137,
+        "SEVERE_TOXICITY": 0.0013160706,
+        "THREAT": 0.007754337,
+        "TOXICITY": 0.033806015,
+        "text": " there was a growing democracy movement. They had never had four democracy under the British"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006511623,
+        "INSULT": 0.012224905,
+        "PROFANITY": 0.016752819,
+        "SEVERE_TOXICITY": 0.001373291,
+        "THREAT": 0.008466354,
+        "TOXICITY": 0.025320992,
+        "text": " but they thought now that they were changing over maybe the time had come to in fact have that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01139534,
+        "INSULT": 0.011160898,
+        "PROFANITY": 0.015215653,
+        "SEVERE_TOXICITY": 0.001206398,
+        "THREAT": 0.007883795,
+        "TOXICITY": 0.023788974,
+        "text": " kind of approach. The tension between the evolution of Hong Kong as an increasingly free"
+    },
+    {
+        "IDENTITY_ATTACK": 0.19100772,
+        "INSULT": 0.082619295,
+        "PROFANITY": 0.04266402,
+        "SEVERE_TOXICITY": 0.0075531006,
+        "THREAT": 0.011689849,
+        "TOXICITY": 0.22177623,
+        "text": " environment and the continual effort of the Chinese Communist to bring it under a socialist communist"
+    },
+    {
+        "IDENTITY_ATTACK": 0.09576365,
+        "INSULT": 0.03511308,
+        "PROFANITY": 0.030138692,
+        "SEVERE_TOXICITY": 0.0042533875,
+        "THREAT": 0.012285355,
+        "TOXICITY": 0.147767,
+        "text": " dictatorial system. I has been fascinated to watch. In 1997 the British leave the Chinese flag"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01555616,
+        "INSULT": 0.013630914,
+        "PROFANITY": 0.016752819,
+        "SEVERE_TOXICITY": 0.0015449524,
+        "THREAT": 0.00967031,
+        "TOXICITY": 0.03357032,
+        "text": " has raised and the British flag comes down on July 1st 1997. By 2003 there was an anti-subversion law"
+    },
+    {
+        "IDENTITY_ATTACK": 0.016460562,
+        "INSULT": 0.02567133,
+        "PROFANITY": 0.027683776,
+        "SEVERE_TOXICITY": 0.003604889,
+        "THREAT": 0.019573374,
+        "TOXICITY": 0.11098998,
+        "text": " prohibiting quote any act of treason, secession, sedition or subversion against the central people's"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.11797678,
+        "PROFANITY": 0.052183274,
+        "SEVERE_TOXICITY": 0.0061035156,
+        "THREAT": 0.01187109,
+        "TOXICITY": 0.23812068,
+        "text": " or the theft of the state. So that is actually focused on making them tolerate mainland communist"
+    },
+    {
+        "IDENTITY_ATTACK": 0.21866,
+        "INSULT": 0.070799805,
+        "PROFANITY": 0.048175167,
+        "SEVERE_TOXICITY": 0.007095337,
+        "THREAT": 0.030623792,
+        "TOXICITY": 0.25084448,
+        "text": " Chinese dictatorship saying that you can go to jail for doing things that the government and Beijing"
+    },
+    {
+        "IDENTITY_ATTACK": 0.029917859,
+        "INSULT": 0.029053112,
+        "PROFANITY": 0.024062896,
+        "SEVERE_TOXICITY": 0.002155304,
+        "THREAT": 0.009540852,
+        "TOXICITY": 0.10175867,
+        "text": " thinks are inappropriate but at the time they're still locked into the Hong Kong legal system"
+    },
+    {
+        "IDENTITY_ATTACK": 0.025806036,
+        "INSULT": 0.023608726,
+        "PROFANITY": 0.020988565,
+        "SEVERE_TOXICITY": 0.0022602081,
+        "THREAT": 0.01698343,
+        "TOXICITY": 0.0969861,
+        "text": " while they tried to ban groups that there were unacceptable they could ban them in the mainland"
+    },
+    {
+        "IDENTITY_ATTACK": 0.02439919,
+        "INSULT": 0.021417208,
+        "PROFANITY": 0.01982715,
+        "SEVERE_TOXICITY": 0.0020217896,
+        "THREAT": 0.011741633,
+        "TOXICITY": 0.069754265,
+        "text": " but they weren't doing a very good job of baning them in Hong Kong. So they kept looking for ways"
+    },
+    {
+        "IDENTITY_ATTACK": 0.035074018,
+        "INSULT": 0.024768941,
+        "PROFANITY": 0.020032106,
+        "SEVERE_TOXICITY": 0.002231598,
+        "THREAT": 0.010084574,
+        "TOXICITY": 0.07450261,
+        "text": " to change the attitude of people in Hong Kong who were very skeptical of the dictatorship"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007843546,
+        "INSULT": 0.0198058,
+        "PROFANITY": 0.016752819,
+        "SEVERE_TOXICITY": 0.0013828278,
+        "THREAT": 0.008492245,
+        "TOXICITY": 0.044883765,
+        "text": " and very much in favor of a more open society. By 2012 the government and desperation"
+    },
+    {
+        "IDENTITY_ATTACK": 0.020078164,
+        "INSULT": 0.012300906,
+        "PROFANITY": 0.01620627,
+        "SEVERE_TOXICITY": 0.0016212463,
+        "THREAT": 0.007974415,
+        "TOXICITY": 0.029917045,
+        "text": " announced the plan to require schoolchildren to take classes in Chinese patriotism by which of"
+    },
+    {
+        "IDENTITY_ATTACK": 0.04538634,
+        "INSULT": 0.03335018,
+        "PROFANITY": 0.019485557,
+        "SEVERE_TOXICITY": 0.002746582,
+        "THREAT": 0.008764107,
+        "TOXICITY": 0.11336674,
+        "text": " of course they meant the communist dictatorship's patriotism and there are huge mass student protests"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00725158,
+        "INSULT": 0.011312899,
+        "PROFANITY": 0.014361672,
+        "SEVERE_TOXICITY": 0.0010061264,
+        "THREAT": 0.007689608,
+        "TOXICITY": 0.02035702,
+        "text": " and they don't require it. By 2014 there's a pro-democracy group which actually sets up an"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0036627878,
+        "INSULT": 0.008500882,
+        "PROFANITY": 0.012585391,
+        "SEVERE_TOXICITY": 0.0008201599,
+        "THREAT": 0.0071847234,
+        "TOXICITY": 0.014890783,
+        "text": " unofficial referendum setting up three different options of how they want to directly elect"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0102854045,
+        "INSULT": 0.013440913,
+        "PROFANITY": 0.016035475,
+        "SEVERE_TOXICITY": 0.0012969971,
+        "THREAT": 0.008893564,
+        "TOXICITY": 0.031449065,
+        "text": " the head of the local government Beijing says no we're not going to have open nominations. In fact"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.028281843,
+        "PROFANITY": 0.028776871,
+        "SEVERE_TOXICITY": 0.003528595,
+        "THREAT": 0.010032792,
+        "TOXICITY": 0.10739898,
+        "text": " the Chinese Communist state news agency reports that candidates would be chosen by a Chinese"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004680229,
+        "INSULT": 0.01302291,
+        "PROFANITY": 0.013712646,
+        "SEVERE_TOXICITY": 0.0010061264,
+        "THREAT": 0.00756015,
+        "TOXICITY": 0.027324399,
+        "text": " government committee before being put on the ballot. So they're already narrowing down the range"
+    },
+    {
+        "IDENTITY_ATTACK": 0.013445892,
+        "INSULT": 0.013440913,
+        "PROFANITY": 0.015215653,
+        "SEVERE_TOXICITY": 0.0011444092,
+        "THREAT": 0.008893564,
+        "TOXICITY": 0.03192045,
+        "text": " of choices so you can only pick a choice acceptable to Beijing. When Beijing does reject the"
+    },
+    {
+        "IDENTITY_ATTACK": 0.013546381,
+        "INSULT": 0.029273475,
+        "PROFANITY": 0.023379711,
+        "SEVERE_TOXICITY": 0.0028419495,
+        "THREAT": 0.011172019,
+        "TOXICITY": 0.11150667,
+        "text": " proposal for open nominations there are student boycotts and all through 2014 you have the police"
+    },
+    {
+        "IDENTITY_ATTACK": 0.116281845,
+        "INSULT": 0.083112895,
+        "PROFANITY": 0.1352073,
+        "SEVERE_TOXICITY": 0.035007052,
+        "THREAT": 0.53875744,
+        "TOXICITY": 0.43230394,
+        "text": " clashing with pro-democracy protesters hitting them with pepper spray shooting tear gas and up to"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0057346676,
+        "INSULT": 0.0086718835,
+        "PROFANITY": 0.012961143,
+        "SEVERE_TOXICITY": 0.00096797943,
+        "THREAT": 0.008311004,
+        "TOXICITY": 0.019100413,
+        "text": " 80,000 people gathered to protest. In 2014 this was to consider a substantial protest 80,000 people."
+    },
+    {
+        "IDENTITY_ATTACK": 0.009212466,
+        "INSULT": 0.012870909,
+        "PROFANITY": 0.01764096,
+        "SEVERE_TOXICITY": 0.0019836426,
+        "THREAT": 0.010214032,
+        "TOXICITY": 0.03734144,
+        "text": " We've just seen two million people in the streets. Seeing see how the movement has grown over"
+    },
+    {
+        "IDENTITY_ATTACK": 0.02138452,
+        "INSULT": 0.021417208,
+        "PROFANITY": 0.017709278,
+        "SEVERE_TOXICITY": 0.0015735626,
+        "THREAT": 0.008026198,
+        "TOXICITY": 0.0438942,
+        "text": " the last five years. The Chinese Communist chief negotiator who is now the chief executive officer"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004162259,
+        "INSULT": 0.011236899,
+        "PROFANITY": 0.013678487,
+        "SEVERE_TOXICITY": 0.001039505,
+        "THREAT": 0.007689608,
+        "TOXICITY": 0.024613906,
+        "text": " Carrie Lam she's negotiated as long as she can and they're not going to negotiate anymore. By mid"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009101473,
+        "INSULT": 0.02708937,
+        "PROFANITY": 0.02167175,
+        "SEVERE_TOXICITY": 0.001783371,
+        "THREAT": 0.009281937,
+        "TOXICITY": 0.09351514,
+        "text": " December the leaders announced that the boycotts are over they've made their big push they failed"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008916483,
+        "INSULT": 0.018967867,
+        "PROFANITY": 0.024199532,
+        "SEVERE_TOXICITY": 0.0021362305,
+        "THREAT": 0.012130005,
+        "TOXICITY": 0.05799546,
+        "text": " and you could have said at that point that that was up to then the high watermark of the struggle"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008250522,
+        "INSULT": 0.010286893,
+        "PROFANITY": 0.013507691,
+        "SEVERE_TOXICITY": 0.0010251999,
+        "THREAT": 0.0079873605,
+        "TOXICITY": 0.02107848,
+        "text": " for democracy and Hong Kong. Even while the political tension was intense the economic integration"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0056236745,
+        "INSULT": 0.009564889,
+        "PROFANITY": 0.013302735,
+        "SEVERE_TOXICITY": 0.0010585785,
+        "THREAT": 0.007870848,
+        "TOXICITY": 0.016210219,
+        "text": " continued to go on. By September 2018 there's a high-speed rail link between Hong Kong and"
+    },
+    {
+        "IDENTITY_ATTACK": 0.025605056,
+        "INSULT": 0.017872108,
+        "PROFANITY": 0.018324144,
+        "SEVERE_TOXICITY": 0.0020885468,
+        "THREAT": 0.008712323,
+        "TOXICITY": 0.050326355,
+        "text": " mainland China. There are huge quantities of people going back and forth and you can actually clear"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.029604018,
+        "PROFANITY": 0.028230323,
+        "SEVERE_TOXICITY": 0.004348755,
+        "THREAT": 0.013113883,
+        "TOXICITY": 0.11378009,
+        "text": " Communist Chinese immigration inside the station in Hong Kong. However some of the opposition leaders"
+    },
+    {
+        "IDENTITY_ATTACK": 0.09080041,
+        "INSULT": 0.03257891,
+        "PROFANITY": 0.027000591,
+        "SEVERE_TOXICITY": 0.0038337708,
+        "THREAT": 0.012181788,
+        "TOXICITY": 0.11479026,
+        "text": " starts in wait a second if you're going to let the Chinese Communist government clear"
+    },
+    {
+        "IDENTITY_ATTACK": 0.05612817,
+        "INSULT": 0.034451995,
+        "PROFANITY": 0.023516348,
+        "SEVERE_TOXICITY": 0.0037002563,
+        "THREAT": 0.009411395,
+        "TOXICITY": 0.113263406,
+        "text": " immigration in the Hong Kong train station. Are you an effect setting up a piece of territory that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.26833034,
+        "INSULT": 0.09855611,
+        "PROFANITY": 0.089370176,
+        "SEVERE_TOXICITY": 0.008468628,
+        "THREAT": 0.01254427,
+        "TOXICITY": 0.25462922,
+        "text": " the Chinese Communist will claim is theirs. And so the tension is very prickly sense of what is it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0048097214,
+        "INSULT": 0.008500882,
+        "PROFANITY": 0.012722028,
+        "SEVERE_TOXICITY": 0.00086307526,
+        "THREAT": 0.007598988,
+        "TOXICITY": 0.01426248,
+        "text": " that Beijing is going to try to do next. By September 2018 only had the open high-speed rail link"
+    },
+    {
+        "IDENTITY_ATTACK": 0.021585498,
+        "INSULT": 0.012072904,
+        "PROFANITY": 0.015044857,
+        "SEVERE_TOXICITY": 0.0013160706,
+        "THREAT": 0.009256045,
+        "TOXICITY": 0.03545588,
+        "text": " but Hong Kong bans the Hong Kong national party which had advocated independence for the territory"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009360458,
+        "INSULT": 0.017420914,
+        "PROFANITY": 0.014669105,
+        "SEVERE_TOXICITY": 0.0012302399,
+        "THREAT": 0.0074824756,
+        "TOXICITY": 0.044636376,
+        "text": " and they argued that it's a national security issue to have people advocating independence. Well"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005660672,
+        "INSULT": 0.02373764,
+        "PROFANITY": 0.01887069,
+        "SEVERE_TOXICITY": 0.0016593933,
+        "THREAT": 0.00866054,
+        "TOXICITY": 0.063423134,
+        "text": " again if you think about it this is a step away from the original vision that they would prove you"
+    },
+    {
+        "IDENTITY_ATTACK": 0.06476828,
+        "INSULT": 0.028612386,
+        "PROFANITY": 0.023106437,
+        "SEVERE_TOXICITY": 0.002937317,
+        "THREAT": 0.010369381,
+        "TOXICITY": 0.10956833,
+        "text": " could have two systems in one country because increasingly they're coercing people in Hong Kong"
+    },
+    {
+        "IDENTITY_ATTACK": 0.022188433,
+        "INSULT": 0.015720926,
+        "PROFANITY": 0.019758832,
+        "SEVERE_TOXICITY": 0.0016975403,
+        "THREAT": 0.008116818,
+        "TOXICITY": 0.033806015,
+        "text": " to basically accept Chinese Communist definition of the two systems and that certainly sends a"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01666154,
+        "INSULT": 0.019741343,
+        "PROFANITY": 0.016889455,
+        "SEVERE_TOXICITY": 0.0017929077,
+        "THREAT": 0.009592636,
+        "TOXICITY": 0.054531995,
+        "text": " reminder to Taiwan that maybe you ought to be a little bit careful about how things are going on."
+    },
+    {
+        "IDENTITY_ATTACK": 0.0052166977,
+        "INSULT": 0.00819688,
+        "PROFANITY": 0.01309778,
+        "SEVERE_TOXICITY": 0.0010061264,
+        "THREAT": 0.00746953,
+        "TOXICITY": 0.013445686,
+        "text": " They continue however economically to work more and more in the direction of coming together"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0061416444,
+        "INSULT": 0.007474876,
+        "PROFANITY": 0.012243799,
+        "SEVERE_TOXICITY": 0.0007247925,
+        "THREAT": 0.007353018,
+        "TOXICITY": 0.010492661,
+        "text": " while October 2018 China opens a bridge linking Hong Kong and Macau to the mainland"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005105704,
+        "INSULT": 0.010362893,
+        "PROFANITY": 0.014054239,
+        "SEVERE_TOXICITY": 0.0010299683,
+        "THREAT": 0.007961469,
+        "TOXICITY": 0.01834645,
+        "text": " and General Secretary Xi Jinping presides over the ceremony. So they're gradually having"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01756594,
+        "INSULT": 0.018645585,
+        "PROFANITY": 0.02030538,
+        "SEVERE_TOXICITY": 0.0021362305,
+        "THREAT": 0.009566744,
+        "TOXICITY": 0.049584184,
+        "text": " if you will golden threads that economically unite Hong Kong and China while they're also slowly"
+    },
+    {
+        "IDENTITY_ATTACK": 0.015958117,
+        "INSULT": 0.012642908,
+        "PROFANITY": 0.015318131,
+        "SEVERE_TOXICITY": 0.0015830994,
+        "THREAT": 0.0084793,
+        "TOXICITY": 0.032863233,
+        "text": " trying to crowd out the kind of freedoms that have been integral to living in Hong Kong. So"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0076955543,
+        "INSULT": 0.022577424,
+        "PROFANITY": 0.02249157,
+        "SEVERE_TOXICITY": 0.0019741058,
+        "THREAT": 0.008505191,
+        "TOXICITY": 0.05898502,
+        "text": " that's what got us to the stage where you had these huge demonstrations. You had Carrie Lam"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008768492,
+        "INSULT": 0.017614283,
+        "PROFANITY": 0.01805087,
+        "SEVERE_TOXICITY": 0.0014781952,
+        "THREAT": 0.009230154,
+        "TOXICITY": 0.038991302,
+        "text": " proposed something which clearly had been backed by Beijing and then she backed down and we have to"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008620501,
+        "INSULT": 0.012946909,
+        "PROFANITY": 0.016616182,
+        "SEVERE_TOXICITY": 0.0013923645,
+        "THREAT": 0.008945347,
+        "TOXICITY": 0.031449065,
+        "text": " presume that she had permission from Beijing to back down that they looked at a million people in"
+    },
+    {
+        "IDENTITY_ATTACK": 0.013345404,
+        "INSULT": 0.013440913,
+        "PROFANITY": 0.016957775,
+        "SEVERE_TOXICITY": 0.0016117096,
+        "THREAT": 0.008505191,
+        "TOXICITY": 0.03062413,
+        "text": " decided that there's just two bigger crowd and that Hong Kong is too open to television and news"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007288578,
+        "INSULT": 0.018065477,
+        "PROFANITY": 0.016411226,
+        "SEVERE_TOXICITY": 0.0013160706,
+        "THREAT": 0.008582866,
+        "TOXICITY": 0.042657252,
+        "text": " media therefore they couldn't continue where they're going. When they back down on the bill instead"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0053276913,
+        "INSULT": 0.011958904,
+        "PROFANITY": 0.01627459,
+        "SEVERE_TOXICITY": 0.0013923645,
+        "THREAT": 0.007922632,
+        "TOXICITY": 0.026970858,
+        "text": " of people going home and saying great we won the next day there were twice as many people in the"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011099357,
+        "INSULT": 0.011236899,
+        "PROFANITY": 0.017436003,
+        "SEVERE_TOXICITY": 0.0014400482,
+        "THREAT": 0.008712323,
+        "TOXICITY": 0.02920996,
+        "text": " street, two million. Remember this is in a country in which the entire population is about 7,400,000."
+    },
+    {
+        "IDENTITY_ATTACK": 0.005660672,
+        "INSULT": 0.0116169015,
+        "PROFANITY": 0.0147374235,
+        "SEVERE_TOXICITY": 0.0010728836,
+        "THREAT": 0.0072753434,
+        "TOXICITY": 0.024731753,
+        "text": " So you're talking about almost 30% of the country turning out and if you take that same number for"
+    },
+    {
+        "IDENTITY_ATTACK": 0.036105253,
+        "INSULT": 0.03489272,
+        "PROFANITY": 0.035399333,
+        "SEVERE_TOXICITY": 0.0049591064,
+        "THREAT": 0.022681303,
+        "TOXICITY": 0.13388206,
+        "text": " the US, you think about this number you'll be in rural South Staggering this. You know of over 100"
+    },
+    {
+        "IDENTITY_ATTACK": 0.025605056,
+        "INSULT": 0.027730936,
+        "PROFANITY": 0.02126184,
+        "SEVERE_TOXICITY": 0.0025177002,
+        "THREAT": 0.008427517,
+        "TOXICITY": 0.08874765,
+        "text": " million Americans in the street. So on this very congested very small city state you had a clear"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011765319,
+        "INSULT": 0.02212623,
+        "PROFANITY": 0.021056883,
+        "SEVERE_TOXICITY": 0.00207901,
+        "THREAT": 0.009463178,
+        "TOXICITY": 0.08795626,
+        "text": " demonstration of massive popularity on behalf of first repudiating the extradition bill and second"
+    },
+    {
+        "IDENTITY_ATTACK": 0.027413858,
+        "INSULT": 0.05203446,
+        "PROFANITY": 0.110447146,
+        "SEVERE_TOXICITY": 0.021419114,
+        "THREAT": 0.44185185,
+        "TOXICITY": 0.33421695,
+        "text": " having won that fight. Now they're saying okay since we got it back down let's also fire"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010655383,
+        "INSULT": 0.016936934,
+        "PROFANITY": 0.017914234,
+        "SEVERE_TOXICITY": 0.0017738342,
+        "THREAT": 0.011249693,
+        "TOXICITY": 0.055521555,
+        "text": " and they're demanding that Beijing allow her to step down and of course Beijing doesn't want to do"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00725158,
+        "INSULT": 0.012756908,
+        "PROFANITY": 0.019075647,
+        "SEVERE_TOXICITY": 0.0016117096,
+        "THREAT": 0.009903334,
+        "TOXICITY": 0.02920996,
+        "text": " them. That's why you're now in this very interesting period of a test of will between millions of"
+    },
+    {
+        "IDENTITY_ATTACK": 0.035331827,
+        "INSULT": 0.02264188,
+        "PROFANITY": 0.017914234,
+        "SEVERE_TOXICITY": 0.0028800964,
+        "THREAT": 0.008090926,
+        "TOXICITY": 0.08795626,
+        "text": " people in Hong Kong and General Secretary Xi Jinping. Next why we should all care as Americans"
+    },
+    {
+        "IDENTITY_ATTACK": 0.013646871,
+        "INSULT": 0.011084898,
+        "PROFANITY": 0.01620627,
+        "SEVERE_TOXICITY": 0.0015640259,
+        "THREAT": 0.0100069,
+        "TOXICITY": 0.02920996,
+        "text": " about the outcome of the Hong Kong protest."
+    },
+    {
+        "IDENTITY_ATTACK": 0.008213525,
+        "INSULT": 0.010134893,
+        "PROFANITY": 0.015728042,
+        "SEVERE_TOXICITY": 0.0012207031,
+        "THREAT": 0.00823333,
+        "TOXICITY": 0.022728346,
+        "text": " When Neville Chamberlain was contemplating what was happening in Czechoslovakia in 1938 and he's"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01666154,
+        "INSULT": 0.020966014,
+        "PROFANITY": 0.022354934,
+        "SEVERE_TOXICITY": 0.0021648407,
+        "THREAT": 0.010188141,
+        "TOXICITY": 0.067380086,
+        "text": " trying desperately to avoid war. He described it as a distant country about which we know a little"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009545447,
+        "INSULT": 0.021675033,
+        "PROFANITY": 0.019622196,
+        "SEVERE_TOXICITY": 0.0020694733,
+        "THREAT": 0.009281937,
+        "TOXICITY": 0.0665887,
+        "text": " and of course the result of that appeasement policy was World War II. He has a turned out that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010729378,
+        "INSULT": 0.01767874,
+        "PROFANITY": 0.017982552,
+        "SEVERE_TOXICITY": 0.0013923645,
+        "THREAT": 0.007417747,
+        "TOXICITY": 0.041915078,
+        "text": " that distant country about which we know a little was in fact of the symbolic breaking point"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.04090862,
+        "PROFANITY": 0.08452088,
+        "SEVERE_TOXICITY": 0.014963473,
+        "THREAT": 0.061412923,
+        "TOXICITY": 0.2553839,
+        "text": " that led Adolf Hitler to believe that he could basically invade any place he wanted to"
+    },
+    {
+        "IDENTITY_ATTACK": 0.052035484,
+        "INSULT": 0.025929155,
+        "PROFANITY": 0.020373698,
+        "SEVERE_TOXICITY": 0.002937317,
+        "THREAT": 0.008531082,
+        "TOXICITY": 0.09112182,
+        "text": " and Britain and France would tolerate it. Well Hong Kong is in the same way a small city state"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0093974555,
+        "INSULT": 0.01465692,
+        "PROFANITY": 0.019553876,
+        "SEVERE_TOXICITY": 0.001707077,
+        "THREAT": 0.009126588,
+        "TOXICITY": 0.04216247,
+        "text": " seven million four hundred thousand people. You could argue what does it matter to us and what"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.037980765,
+        "PROFANITY": 0.024199532,
+        "SEVERE_TOXICITY": 0.003929138,
+        "THREAT": 0.010343489,
+        "TOXICITY": 0.15213956,
+        "text": " it matters to us is really about the Chinese Communist dictatorship more than about Hong Kong."
+    },
+    {
+        "IDENTITY_ATTACK": 0.04203484,
+        "INSULT": 0.019225692,
+        "PROFANITY": 0.014703264,
+        "SEVERE_TOXICITY": 0.0021743774,
+        "THREAT": 0.007689608,
+        "TOXICITY": 0.063027434,
+        "text": " Hong Kong in a sense is like the story of the canary and the coal mine and the old days"
+    },
+    {
+        "IDENTITY_ATTACK": 0.023595277,
+        "INSULT": 0.016860934,
+        "PROFANITY": 0.018187506,
+        "SEVERE_TOXICITY": 0.0021266937,
+        "THREAT": 0.0100069,
+        "TOXICITY": 0.049336795,
+        "text": " they would keep canaries the coal mine because they were very sensitive to gases and if the canaries"
+    },
+    {
+        "IDENTITY_ATTACK": 0.016963007,
+        "INSULT": 0.06250052,
+        "PROFANITY": 0.059948977,
+        "SEVERE_TOXICITY": 0.008506775,
+        "THREAT": 0.07016479,
+        "TOXICITY": 0.2191003,
+        "text": " began to get sick they knew that they had a danger of a gas explosion and they would evacuate the"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008324518,
+        "INSULT": 0.012642908,
+        "PROFANITY": 0.014976538,
+        "SEVERE_TOXICITY": 0.001335144,
+        "THREAT": 0.008052089,
+        "TOXICITY": 0.02779579,
+        "text": " the coal mine. Well Hong Kong is the testing point for whether or not general secretary Xi Jinping"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007880543,
+        "INSULT": 0.017420914,
+        "PROFANITY": 0.01887069,
+        "SEVERE_TOXICITY": 0.0019741058,
+        "THREAT": 0.011120236,
+        "TOXICITY": 0.053295042,
+        "text": " is willing to allow freedom to evolve or whether in fact faced with the risk of a billion"
+    },
+    {
+        "IDENTITY_ATTACK": 0.06567776,
+        "INSULT": 0.04383647,
+        "PROFANITY": 0.058445938,
+        "SEVERE_TOXICITY": 0.00705719,
+        "THREAT": 0.06432246,
+        "TOXICITY": 0.17891699,
+        "text": " four hundred million people becoming inspired by Hong Kong. He decides that he has to clamp down"
+    },
+    {
+        "IDENTITY_ATTACK": 0.027413858,
+        "INSULT": 0.06424874,
+        "PROFANITY": 0.030138692,
+        "SEVERE_TOXICITY": 0.0060653687,
+        "THREAT": 0.058826666,
+        "TOXICITY": 0.21107252,
+        "text": " and make the dictatorship even tougher even more repressive and even more comprehensive."
+    },
+    {
+        "IDENTITY_ATTACK": 0.0045692353,
+        "INSULT": 0.008405882,
+        "PROFANITY": 0.015591404,
+        "SEVERE_TOXICITY": 0.0013446808,
+        "THREAT": 0.008531082,
+        "TOXICITY": 0.013948329,
+        "text": " And I think that's why this is a very very important turning point and it will be very"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007732552,
+        "INSULT": 0.010400894,
+        "PROFANITY": 0.016035475,
+        "SEVERE_TOXICITY": 0.0016880035,
+        "THREAT": 0.010084574,
+        "TOXICITY": 0.02779579,
+        "text": " interesting at the G20 meeting when the president and Xi Jinping meet to see what's happened"
+    },
+    {
+        "IDENTITY_ATTACK": 0.22063516,
+        "INSULT": 0.07935401,
+        "PROFANITY": 0.058946952,
+        "SEVERE_TOXICITY": 0.0090408325,
+        "THREAT": 0.029587816,
+        "TOXICITY": 0.23523538,
+        "text": " to the Chinese Communist wait and do nothing until after that meeting do they act in advance"
+    },
+    {
+        "IDENTITY_ATTACK": 0.083355546,
+        "INSULT": 0.031697463,
+        "PROFANITY": 0.029888187,
+        "SEVERE_TOXICITY": 0.0048446655,
+        "THREAT": 0.010809537,
+        "TOXICITY": 0.112850055,
+        "text": " and also how do the people of Hong Kong evolve they've had a taste now that street power works"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011543332,
+        "INSULT": 0.02012808,
+        "PROFANITY": 0.016616182,
+        "SEVERE_TOXICITY": 0.0025939941,
+        "THREAT": 0.03407705,
+        "TOXICITY": 0.09915545,
+        "text": " pushing to get the chief executive fired she is Beijing's choice Beijing's not going to back"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007806548,
+        "INSULT": 0.046764325,
+        "PROFANITY": 0.025087673,
+        "SEVERE_TOXICITY": 0.0036239624,
+        "THREAT": 0.011638066,
+        "TOXICITY": 0.123468354,
+        "text": " down very easily and again if you think like the leader of a billion four million people you"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006474625,
+        "INSULT": 0.013706914,
+        "PROFANITY": 0.018734055,
+        "SEVERE_TOXICITY": 0.0019550323,
+        "THREAT": 0.011249693,
+        "TOXICITY": 0.050573748,
+        "text": " don't necessarily want the idea that if enough people go in the street you're going to do what"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00621564,
+        "INSULT": 0.012034904,
+        "PROFANITY": 0.01887069,
+        "SEVERE_TOXICITY": 0.001411438,
+        "THREAT": 0.008867673,
+        "TOXICITY": 0.023317585,
+        "text": " they tell you. So this is a very delicate and I think very important time because it affects the"
+    },
+    {
+        "IDENTITY_ATTACK": 0.04332388,
+        "INSULT": 0.01767874,
+        "PROFANITY": 0.019963788,
+        "SEVERE_TOXICITY": 0.0024604797,
+        "THREAT": 0.0089712385,
+        "TOXICITY": 0.06025757,
+        "text": " largest country in the world it affects the whole question of whether China evolves in a direction"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0057346676,
+        "INSULT": 0.0115029,
+        "PROFANITY": 0.017504321,
+        "SEVERE_TOXICITY": 0.0013256073,
+        "THREAT": 0.009592636,
+        "TOXICITY": 0.02543884,
+        "text": " that they become more capable of us working with them or whether in fact in the end they have to"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01756594,
+        "INSULT": 0.02657372,
+        "PROFANITY": 0.025907494,
+        "SEVERE_TOXICITY": 0.005874634,
+        "THREAT": 0.06626215,
+        "TOXICITY": 0.14950264,
+        "text": " use whatever level of force and is needed in order to sustain the dictatorship and maintain the"
+    },
+    {
+        "IDENTITY_ATTACK": 0.012441003,
+        "INSULT": 0.017292,
+        "PROFANITY": 0.021466793,
+        "SEVERE_TOXICITY": 0.0024795532,
+        "THREAT": 0.013702838,
+        "TOXICITY": 0.05824285,
+        "text": " capacity to repress their own people. I think the next few months will be very important and I hope"
+    },
+    {
+        "IDENTITY_ATTACK": 0.04641757,
+        "INSULT": 0.03136692,
+        "PROFANITY": 0.022218296,
+        "SEVERE_TOXICITY": 0.0039482117,
+        "THREAT": 0.008440462,
+        "TOXICITY": 0.11119666,
+        "text": " you get a feel about how remarkable Hong Kong is what level of courage it took for two million people"
+    },
+    {
+        "IDENTITY_ATTACK": 0.026609946,
+        "INSULT": 0.017227544,
+        "PROFANITY": 0.0166845,
+        "SEVERE_TOXICITY": 0.0021839142,
+        "THREAT": 0.01052473,
+        "TOXICITY": 0.05205809,
+        "text": " almost one out of every three citizens of Hong Kong to go to the streets and the kind of historic"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00673361,
+        "INSULT": 0.025155678,
+        "PROFANITY": 0.022833163,
+        "SEVERE_TOXICITY": 0.002412796,
+        "THREAT": 0.0104988385,
+        "TOXICITY": 0.09828771,
+        "text": " moment when you might in fact see a real step in the direction of freedom or you might find out that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.019274252,
+        "INSULT": 0.034341812,
+        "PROFANITY": 0.023106437,
+        "SEVERE_TOXICITY": 0.0034332275,
+        "THREAT": 0.015774792,
+        "TOXICITY": 0.1373533,
+        "text": " once again repression is used to sustain the dictatorship. I think it will have a big impact on our lives"
+    },
+    {
+        "IDENTITY_ATTACK": 0.036620867,
+        "INSULT": 0.01648093,
+        "PROFANITY": 0.019758832,
+        "SEVERE_TOXICITY": 0.0022411346,
+        "THREAT": 0.00948907,
+        "TOXICITY": 0.049089402,
+        "text": " on how we relate to communist China and how the system evolves over the next 10 or 15 years."
+    },
+    {
+        "IDENTITY_ATTACK": 0.010433395,
+        "INSULT": 0.008766884,
+        "PROFANITY": 0.013507691,
+        "SEVERE_TOXICITY": 0.0011014938,
+        "THREAT": 0.008789998,
+        "TOXICITY": 0.019226074,
+        "text": " You can read more about the protest in Hong Kong and the relationship between Hong Kong and"
+    },
+    {
+        "IDENTITY_ATTACK": 0.15731181,
+        "INSULT": 0.07808672,
+        "PROFANITY": 0.08710717,
+        "SEVERE_TOXICITY": 0.008773804,
+        "THREAT": 0.012596053,
+        "TOXICITY": 0.2028889,
+        "text": " communist China on our show page at nutsworld.com. Nutsworld is produced by Westwood One."
+    },
+    {
+        "IDENTITY_ATTACK": 0.0034408006,
+        "INSULT": 0.009089886,
+        "PROFANITY": 0.013405213,
+        "SEVERE_TOXICITY": 0.0008249283,
+        "THREAT": 0.007068211,
+        "TOXICITY": 0.012943043,
+        "text": " Our executive producer is Debbie Myers and our producer is Garnsey Sloan. Our editor is Robert Barrowski"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0040327664,
+        "INSULT": 0.008937885,
+        "PROFANITY": 0.013473531,
+        "SEVERE_TOXICITY": 0.0008201599,
+        "THREAT": 0.007249452,
+        "TOXICITY": 0.011183795,
+        "text": " and our researcher is Rachel Peterson. Our guest booker is Grace Davis. The artwork for the show"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0034408006,
+        "INSULT": 0.0075508766,
+        "PROFANITY": 0.013302735,
+        "SEVERE_TOXICITY": 0.0008535385,
+        "THREAT": 0.007197669,
+        "TOXICITY": 0.00816794,
+        "text": " was created by Steve Penley. The music was composed by Joey Salvie. Special thanks to"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0047357255,
+        "INSULT": 0.008899884,
+        "PROFANITY": 0.014839902,
+        "SEVERE_TOXICITY": 0.0011444092,
+        "THREAT": 0.008039144,
+        "TOXICITY": 0.013634177,
+        "text": " team at Genwers360 and Westwood One's John Wordock, Tim Sabyan and Robert Bowers. Please"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00880549,
+        "INSULT": 0.030816011,
+        "PROFANITY": 0.084844165,
+        "SEVERE_TOXICITY": 0.00459671,
+        "THREAT": 0.012130005,
+        "TOXICITY": 0.11129999,
+        "text": " email me with your comments at nutsworld.com. If you've been enjoying Nutsworld I hope you'll"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0048097214,
+        "INSULT": 0.010210892,
+        "PROFANITY": 0.017026093,
+        "SEVERE_TOXICITY": 0.0012969971,
+        "THREAT": 0.008155655,
+        "TOXICITY": 0.02048268,
+        "text": " go to Apple Podcast and both read us with five stars and give us a review so others can learn"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008324518,
+        "INSULT": 0.029383656,
+        "PROFANITY": 0.08064143,
+        "SEVERE_TOXICITY": 0.00415802,
+        "THREAT": 0.012492486,
+        "TOXICITY": 0.10696511,
+        "text": " what it's all about. On the next episode of Nutsworld we're taking an inside look at the"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008250522,
+        "INSULT": 0.015036922,
+        "PROFANITY": 0.0147374235,
+        "SEVERE_TOXICITY": 0.0014686584,
+        "THREAT": 0.008349842,
+        "TOXICITY": 0.036162965,
+        "text": " spying business through the experiences of three career CIA officers. The number of clear,"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.031256735,
+        "PROFANITY": 0.02249157,
+        "SEVERE_TOXICITY": 0.0033187866,
+        "THREAT": 0.009747985,
+        "TOXICITY": 0.11419344,
+        "text": " hard cases of espionage that the Chinese have been involved in has gone up dramatically and I think"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0065486208,
+        "INSULT": 0.012604907,
+        "PROFANITY": 0.016411226,
+        "SEVERE_TOXICITY": 0.0013446808,
+        "THREAT": 0.007935578,
+        "TOXICITY": 0.02920996,
+        "text": " it's an evolution of where they are in terms of the role of state power. I'm Newt Gingrich"
+    },
+    {
+        "IDENTITY_ATTACK": 0.017063495,
+        "INSULT": 0.16266862,
+        "PROFANITY": 0.18663849,
+        "SEVERE_TOXICITY": 0.009918213,
+        "THREAT": 0.008841781,
+        "TOXICITY": 0.2855005,
+        "text": " and this is Nutsworld."
+    },
+    {
+        "IDENTITY_ATTACK": 0.006881601,
+        "INSULT": 0.010818896,
+        "PROFANITY": 0.019143965,
+        "SEVERE_TOXICITY": 0.0017547607,
+        "THREAT": 0.009100696,
+        "TOXICITY": 0.021314176,
+        "text": " The Westwood One Podcast Network"
+    }
+]

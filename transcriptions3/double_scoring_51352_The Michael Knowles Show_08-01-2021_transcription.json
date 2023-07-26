@@ -1,0 +1,2504 @@
+[
+    {
+        "IDENTITY_ATTACK": 0.0042732526,
+        "INSULT": 0.013364912,
+        "PROFANITY": 0.012448754,
+        "SEVERE_TOXICITY": 0.00094890594,
+        "THREAT": 0.0068028234,
+        "TOXICITY": 0.026263772,
+        "text": " President-elect Joe Biden is calling for unity and healing as America moves forward into our national future.  I'm just kidding"
+    },
+    {
+        "IDENTITY_ATTACK": 0.4482637,
+        "INSULT": 0.4196762,
+        "PROFANITY": 0.12639372,
+        "SEVERE_TOXICITY": 0.020386212,
+        "THREAT": 0.06561559,
+        "TOXICITY": 0.43720075,
+        "text": " He's trying to start a race war.  No one can tell me that if had been a group of black lives matter protesting yesterday, there wouldn't have been they wouldn't have been treated very, very differently than the mob of thugs that stormed the Capitol"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01087737,
+        "INSULT": 0.019676886,
+        "PROFANITY": 0.013644327,
+        "SEVERE_TOXICITY": 0.0012493134,
+        "THREAT": 0.0071847234,
+        "TOXICITY": 0.049336795,
+        "text": " We all know that's true and it is unacceptable, totally unacceptable.  The American people saw it in plain view and I hope it sensitize in the what we have to do"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01666154,
+        "INSULT": 0.015264924,
+        "PROFANITY": 0.013507691,
+        "SEVERE_TOXICITY": 0.0014972687,
+        "THREAT": 0.007547205,
+        "TOXICITY": 0.037105743,
+        "text": " I think Joe actually has a point.  Had it been BLM, they probably would have been treated differently"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00932346,
+        "INSULT": 0.032689095,
+        "PROFANITY": 0.01893901,
+        "SEVERE_TOXICITY": 0.008544922,
+        "THREAT": 0.2836219,
+        "TOXICITY": 0.21241048,
+        "text": " They would have been permitted to burn down the building and then Kamala Harris would have raised money for their bail funds if passed as president.  We'll get into all of it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00847251,
+        "INSULT": 0.0113509,
+        "PROFANITY": 0.01941724,
+        "SEVERE_TOXICITY": 0.002002716,
+        "THREAT": 0.009178371,
+        "TOXICITY": 0.025085296,
+        "text": " I'm Michael Knowles.  This is the Michael Knowles show"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0053276913,
+        "INSULT": 0.0350029,
+        "PROFANITY": 0.02126184,
+        "SEVERE_TOXICITY": 0.0018119812,
+        "THREAT": 0.007353018,
+        "TOXICITY": 0.10609736,
+        "text": " Welcome back to this show.  My favorite comment yesterday from drummer 703 who says, we don't know all the facts, but we do know that this is worse than Watergate"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006770608,
+        "INSULT": 0.070799805,
+        "PROFANITY": 0.024951037,
+        "SEVERE_TOXICITY": 0.002632141,
+        "THREAT": 0.0069646453,
+        "TOXICITY": 0.17545098,
+        "text": " This is worse than Watergate.  Absolutely true because most things are worse than Watergate"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01555616,
+        "INSULT": 0.100019015,
+        "PROFANITY": 0.02932342,
+        "SEVERE_TOXICITY": 0.003452301,
+        "THREAT": 0.007974415,
+        "TOXICITY": 0.22177623,
+        "text": " I would say almost almost everything is worse than Watergate.  I watch CNN"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0036627878,
+        "INSULT": 0.011008898,
+        "PROFANITY": 0.0128245065,
+        "SEVERE_TOXICITY": 0.00074863434,
+        "THREAT": 0.006809296,
+        "TOXICITY": 0.021549871,
+        "text": " So that's that's what I have been told.  You know, so few things are outside the realm of politics these days"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0035887922,
+        "INSULT": 0.03511308,
+        "PROFANITY": 0.016547862,
+        "SEVERE_TOXICITY": 0.003566742,
+        "THREAT": 0.011974656,
+        "TOXICITY": 0.11305673,
+        "text": " I think maybe the last one that is are your pets.  You got to go check out pets mark"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0019886347,
+        "INSULT": 0.0092228865,
+        "PROFANITY": 0.010792031,
+        "SEVERE_TOXICITY": 0.000834465,
+        "THREAT": 0.006420923,
+        "TOXICITY": 0.016210219,
+        "text": " Great way to keep your pets happy and keep you happy, especially during this pandemic.  You can order from from home"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0013041744,
+        "INSULT": 0.008747884,
+        "PROFANITY": 0.011167783,
+        "SEVERE_TOXICITY": 0.0006580353,
+        "THREAT": 0.006051969,
+        "TOXICITY": 0.013068704,
+        "text": " You can go pick up curbside delivery really terrific from the beginning of the pandemic.  PetSmart has remained open, making sure you can get everything your pet needs right when you need it at over 1600 convenient locations"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0013689207,
+        "INSULT": 0.0070853736,
+        "PROFANITY": 0.009852652,
+        "SEVERE_TOXICITY": 0.00053167343,
+        "THREAT": 0.006058442,
+        "TOXICITY": 0.0077281278,
+        "text": " PetSmart stores and grooming salons offer digital check-in, curbside drop-off and pick up and contactless payment.  And now PetSmart offers free same day delivery, powered by door dash through January 31st so that you can get everything your pet needs right to your door and right when you need it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0019793853,
+        "INSULT": 0.0071043735,
+        "PROFANITY": 0.00998929,
+        "SEVERE_TOXICITY": 0.0005674362,
+        "THREAT": 0.006084333,
+        "TOXICITY": 0.007696713,
+        "text": " PetSmart's associates really love pets and caring for them as a big part of why they work there.  PetSmart has made it safe and easy for you to care for your pet to online or in stores"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0037922803,
+        "INSULT": 0.00979289,
+        "PROFANITY": 0.012858666,
+        "SEVERE_TOXICITY": 0.0009059906,
+        "THREAT": 0.0068869707,
+        "TOXICITY": 0.018723432,
+        "text": " If you're interested in contactless shopping, you just order online at PetSmart. com or on the PetSmart app"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0014799143,
+        "INSULT": 0.009203887,
+        "PROFANITY": 0.011560614,
+        "SEVERE_TOXICITY": 0.0009775162,
+        "THREAT": 0.007741391,
+        "TOXICITY": 0.017466826,
+        "text": " You can enjoy easy curbside pickup or free same day delivery powered by door dash.  Go check it out right now"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004680229,
+        "INSULT": 0.009089886,
+        "PROFANITY": 0.015010698,
+        "SEVERE_TOXICITY": 0.0012874603,
+        "THREAT": 0.00713294,
+        "TOXICITY": 0.016587202,
+        "text": " PetSmart is not just pet friendly.  That would be good enough, but because of their great prices and service, they are very human friendly as well"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0038477771,
+        "INSULT": 0.00806388,
+        "PROFANITY": 0.014464149,
+        "SEVERE_TOXICITY": 0.0010967255,
+        "THREAT": 0.0074306927,
+        "TOXICITY": 0.015267765,
+        "text": " Check out PetSmart. com for more details"
+    },
+    {
+        "IDENTITY_ATTACK": 0.044612918,
+        "INSULT": 0.72756535,
+        "PROFANITY": 0.4185329,
+        "SEVERE_TOXICITY": 0.023645958,
+        "THREAT": 0.008841781,
+        "TOXICITY": 0.7570315,
+        "text": " Does this guy think we're stupid? He does.  I guess he does think that we're stupid"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009693438,
+        "INSULT": 0.031807642,
+        "PROFANITY": 0.014327513,
+        "SEVERE_TOXICITY": 0.002746582,
+        "THREAT": 0.0287245,
+        "TOXICITY": 0.10739898,
+        "text": " Does he think that we don't remember the last six months when BLM was permitted to burn down sometimes government buildings, more often private buildings, to loot basically with impunity.  Very few people went to prison and the few people that did go to prison, what happened? Joe Biden's vice president posted a fundraiser for their bail fund"
+    },
+    {
+        "IDENTITY_ATTACK": 0.015154205,
+        "INSULT": 0.022061773,
+        "PROFANITY": 0.015523086,
+        "SEVERE_TOXICITY": 0.001411438,
+        "THREAT": 0.007637825,
+        "TOXICITY": 0.054531995,
+        "text": " So yeah, probably they would have been treated a little differently.  Had it been BLM or Antifa rather than some Trump supporters at the Capitol a couple of days ago"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0027008436,
+        "INSULT": 0.009906891,
+        "PROFANITY": 0.011902207,
+        "SEVERE_TOXICITY": 0.00081539154,
+        "THREAT": 0.007417747,
+        "TOXICITY": 0.017843807,
+        "text": " Joe Biden does this all the time though.  You're going to hear the calls for unity and healing and it happens in the same breath"
+    },
+    {
+        "IDENTITY_ATTACK": 0.29188538,
+        "INSULT": 0.31740165,
+        "PROFANITY": 0.07676199,
+        "SEVERE_TOXICITY": 0.0126394415,
+        "THREAT": 0.010162249,
+        "TOXICITY": 0.34328604,
+        "text": " They'll say half the country is deplorable or demable neo-Nazis.  We need healing and unity"
+    },
+    {
+        "IDENTITY_ATTACK": 0.033784978,
+        "INSULT": 0.0654725,
+        "PROFANITY": 0.03840541,
+        "SEVERE_TOXICITY": 0.009918213,
+        "THREAT": 0.28890648,
+        "TOXICITY": 0.28087774,
+        "text": " All these people should be kicked off of social media and not allowed to go back to their jobs unity and healing.  And it's this endless endless cycle"
+    },
+    {
+        "IDENTITY_ATTACK": 0.4482637,
+        "INSULT": 0.29855028,
+        "PROFANITY": 0.058445938,
+        "SEVERE_TOXICITY": 0.018126737,
+        "THREAT": 0.01187109,
+        "TOXICITY": 0.39644176,
+        "text": " But with Biden, especially, he tries to put this focus on race.  You know, if you really believed that the people who stormed the Capitol are neo-Nazi white supremacists, they represent 70 million neo-Nazi white supremacist Americans who are on the verge of a civil war that is largely on racial grounds"
+    },
+    {
+        "IDENTITY_ATTACK": 0.039456755,
+        "INSULT": 0.026702631,
+        "PROFANITY": 0.015147334,
+        "SEVERE_TOXICITY": 0.0024986267,
+        "THREAT": 0.00967031,
+        "TOXICITY": 0.10653123,
+        "text": " If you really believed that, would you then try to stoke racial tensions? No, of course not.  Joe Biden doesn't think we're on the verge of a civil war"
+    },
+    {
+        "IDENTITY_ATTACK": 0.057037655,
+        "INSULT": 0.032138187,
+        "PROFANITY": 0.020032106,
+        "SEVERE_TOXICITY": 0.003643036,
+        "THREAT": 0.013269233,
+        "TOXICITY": 0.12086493,
+        "text": " Joe Biden just thinks stoking racial tensions is a good way to score political points.  He's been doing it for a long time"
+    },
+    {
+        "IDENTITY_ATTACK": 0.026408968,
+        "INSULT": 0.09855611,
+        "PROFANITY": 0.038906425,
+        "SEVERE_TOXICITY": 0.0037002563,
+        "THREAT": 0.008026198,
+        "TOXICITY": 0.19694418,
+        "text": " Do you remember what was it? Eight, eight, nine years ago now when Joe Biden said that Mitt Romney, Mitt Romney, as milk toast a liberal squish Republican as you can possibly find such a liberal squish.  He invented Obamacare, such a liberal squish that when he was running for Senate against Teddy Kennedy, he disavowed Ronald Reagan and George Bush"
+    },
+    {
+        "IDENTITY_ATTACK": 0.4054415,
+        "INSULT": 0.26957804,
+        "PROFANITY": 0.09001675,
+        "SEVERE_TOXICITY": 0.01412424,
+        "THREAT": 0.011819307,
+        "TOXICITY": 0.37751234,
+        "text": " That guy, so squishy, but even he, nevertheless, wanted to put black people back in chains according to Joe Biden.  Look at what they value and look at their budget and what they're proposing"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00776955,
+        "INSULT": 0.022448512,
+        "PROFANITY": 0.014327513,
+        "SEVERE_TOXICITY": 0.0014591217,
+        "THREAT": 0.009126588,
+        "TOXICITY": 0.06184035,
+        "text": " Romney wants to let the, he said the first hundred days, he's going to let the big banks once again write their own rules.  Unchain Wall Street"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005771666,
+        "INSULT": 0.018323302,
+        "PROFANITY": 0.014976538,
+        "SEVERE_TOXICITY": 0.0030517578,
+        "THREAT": 0.043955702,
+        "TOXICITY": 0.09033044,
+        "text": " They're going to put y'all back in chains.  Once put y'all back in chains, unity and healing"
+    },
+    {
+        "IDENTITY_ATTACK": 0.19100772,
+        "INSULT": 0.15840563,
+        "PROFANITY": 0.03189224,
+        "SEVERE_TOXICITY": 0.010223389,
+        "THREAT": 0.013528148,
+        "TOXICITY": 0.30514878,
+        "text": " Yeah, Mitt Romney, every single Republican to the right of Mitt Romney, namely all of them and some Democrats too, yeah, they, they support slavery.  Yeah, vote for me"
+    },
+    {
+        "IDENTITY_ATTACK": 0.001655654,
+        "INSULT": 0.010134893,
+        "PROFANITY": 0.010347961,
+        "SEVERE_TOXICITY": 0.0005888939,
+        "THREAT": 0.0063885585,
+        "TOXICITY": 0.015393426,
+        "text": " Unity and healing Joe Biden is not the only one who is doing this Nancy Pelosi doing this as well.  President Trump has what like 12 days or something left in his term"
+    },
+    {
+        "IDENTITY_ATTACK": 0.015857628,
+        "INSULT": 0.08212569,
+        "PROFANITY": 0.015181494,
+        "SEVERE_TOXICITY": 0.0031852722,
+        "THREAT": 0.022163315,
+        "TOXICITY": 0.17371799,
+        "text": " Nancy Pelosi is calling to remove the president immediately through the 25th Amendment.  Yesterday, the president of the United States, incited an armed insurrection against America, the gleeful desecration of the US Capitol, which is the temple of our American democracy and the violence targeting Congress are horrors that will forever stain our nation's history"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0023863618,
+        "INSULT": 0.0086718835,
+        "PROFANITY": 0.010911589,
+        "SEVERE_TOXICITY": 0.0006341934,
+        "THREAT": 0.0067769317,
+        "TOXICITY": 0.014765122,
+        "text": " Enstigated by the president of the United States.  That's why it's such a thing"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0060676485,
+        "INSULT": 0.05262003,
+        "PROFANITY": 0.015010698,
+        "SEVERE_TOXICITY": 0.0024986267,
+        "THREAT": 0.029069828,
+        "TOXICITY": 0.13214645,
+        "text": " In calling for this seditious act, president has committed an unspeakable assault on our nation and our people.  I joined the Senate Democrat leader in calling on the vice president to remove this president by immediately invoking the 25th Amendment"
+    },
+    {
+        "IDENTITY_ATTACK": 0.002885833,
+        "INSULT": 0.0096028885,
+        "PROFANITY": 0.010262563,
+        "SEVERE_TOXICITY": 0.000603199,
+        "THREAT": 0.006848133,
+        "TOXICITY": 0.016587202,
+        "text": " If the vice president or cabinet do not act, the Congress may be prepared to move forward within impeachment.  That is the overwhelming sentiment of my caucus"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0031818156,
+        "INSULT": 0.021675033,
+        "PROFANITY": 0.012141321,
+        "SEVERE_TOXICITY": 0.00094890594,
+        "THREAT": 0.006330303,
+        "TOXICITY": 0.0438942,
+        "text": " Oh, well, the overwhelming sentiment of your caucus and the buck 50 will get you a cup of coffee because that's not the purpose of the 25th Amendment.  And absolutely, Mike Pence is not going to invoke it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003884775,
+        "INSULT": 0.04383647,
+        "PROFANITY": 0.01173141,
+        "SEVERE_TOXICITY": 0.0016880035,
+        "THREAT": 0.009307829,
+        "TOXICITY": 0.10089093,
+        "text": " The 25th Amendment is a procedure for the removal of the president.  Should he be incapacitated, unable to discharge the duties of his office? President Trump is discharging the duties of his office just fine"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0036812867,
+        "INSULT": 0.020192537,
+        "PROFANITY": 0.013200258,
+        "SEVERE_TOXICITY": 0.0010251999,
+        "THREAT": 0.007081157,
+        "TOXICITY": 0.043399423,
+        "text": " I know that Nancy Pelosi is very upset about this, but there is absolutely you talk about upsetting constitutional norms and historical president.  There is absolutely no justification for invoking the 25th Amendment, but then did you hear what she says at the end at the very end? She says, if not, we're going to move forward with impeachment"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0050317086,
+        "INSULT": 0.01961243,
+        "PROFANITY": 0.011458136,
+        "SEVERE_TOXICITY": 0.00081062317,
+        "THREAT": 0.0070164283,
+        "TOXICITY": 0.039462693,
+        "text": " You people already tried that and it didn't work because it was a completely gined up charge over nothing.  And it was the fifth iteration of the coup d'\u00e9tat that Democrats had been trying to launch since Trump was campaigning and the Obama administration was spying on him illegally"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011173353,
+        "INSULT": 0.05262003,
+        "PROFANITY": 0.015625564,
+        "SEVERE_TOXICITY": 0.0019073486,
+        "THREAT": 0.009437286,
+        "TOXICITY": 0.11140333,
+        "text": " After that, they tried to, well, for one, they colluded with a foreign power, namely Russia to put together this bogus steel dossier to continue their legal assault on Trump.  Didn't go anywhere"
+    },
+    {
+        "IDENTITY_ATTACK": 0.019475231,
+        "INSULT": 0.030375287,
+        "PROFANITY": 0.018119188,
+        "SEVERE_TOXICITY": 0.00166893,
+        "THREAT": 0.0073789097,
+        "TOXICITY": 0.08795626,
+        "text": " Mueller investigation didn't go anywhere.  They cook up this Ukraine thing"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01191331,
+        "INSULT": 0.06372428,
+        "PROFANITY": 0.012243799,
+        "SEVERE_TOXICITY": 0.0012493134,
+        "THREAT": 0.006259101,
+        "TOXICITY": 0.11119666,
+        "text": " Didn't go anywhere.  They ignored the legitimate corruption in Ukraine from President-elect Joe Biden"
+    },
+    {
+        "IDENTITY_ATTACK": 0.3817989,
+        "INSULT": 0.44802538,
+        "PROFANITY": 0.17148167,
+        "SEVERE_TOXICITY": 0.023076924,
+        "THREAT": 0.009463178,
+        "TOXICITY": 0.45761138,
+        "text": " Still doesn't go anywhere.  Why would they want impeachment if you really believe that that half of this country supports Donald Trump and Donald Trump's a Nazi? So therefore half the country is a bunch of Nazis"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0033298072,
+        "INSULT": 0.01625293,
+        "PROFANITY": 0.012585391,
+        "SEVERE_TOXICITY": 0.0014400482,
+        "THREAT": 0.011974656,
+        "TOXICITY": 0.045378547,
+        "text": " If you really think they're ready for armed insurrection, that's what they keep calling this.  Do you really think it will help the cause of unity and healing to impeach and convict the president of the United States still popular with his base a dozen days before he's supposed to leave office? No, that will not heal a wound that will exacerbate it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011543332,
+        "INSULT": 0.030595649,
+        "PROFANITY": 0.021466793,
+        "SEVERE_TOXICITY": 0.002412796,
+        "THREAT": 0.014048163,
+        "TOXICITY": 0.10826672,
+        "text": " That will rip open a scab, won't it? What would be the point of that? Well, one, the Democrats are hoping to provoke the right so that they can have further justification to clamp down.  They're already doing it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00725158,
+        "INSULT": 0.01767874,
+        "PROFANITY": 0.012277958,
+        "SEVERE_TOXICITY": 0.0012111664,
+        "THREAT": 0.009696201,
+        "TOXICITY": 0.04067813,
+        "text": " They're deplatforming conservatives in a very large scale, which we'll get to in a second.  There's another procedural aspect to this, as to why the House would try to impeach"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0029043318,
+        "INSULT": 0.011654901,
+        "PROFANITY": 0.010706633,
+        "SEVERE_TOXICITY": 0.00069618225,
+        "THREAT": 0.0068999166,
+        "TOXICITY": 0.021432023,
+        "text": " President Trump, assuming he only gets this one term, President Trump can still run again in four years.  And President Trump is intimated that he might run again in four years"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0032188136,
+        "INSULT": 0.012186904,
+        "PROFANITY": 0.010587076,
+        "SEVERE_TOXICITY": 0.00077724457,
+        "THREAT": 0.008026198,
+        "TOXICITY": 0.02402467,
+        "text": " If he is impeached and convicted, he can't run again in four years.  And so there actually is a long-term political benefit for Democrats, if even though, as a practical matter right now, he's not going to do anything in 10 days"
+    },
+    {
+        "IDENTITY_ATTACK": 0.07094744,
+        "INSULT": 0.2817503,
+        "PROFANITY": 0.05543986,
+        "SEVERE_TOXICITY": 0.00541687,
+        "THREAT": 0.013010317,
+        "TOXICITY": 0.30527395,
+        "text": " But in the long term, if they impeach and convict him, and right now they might have the political will to do it because a bunch of squishy Republicans are going to blame Trump for every evil that befalls the country.  And they're going to blame Trump for the riot at the Capitol, and they're going to completely ignore BLM"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0052166977,
+        "INSULT": 0.026702631,
+        "PROFANITY": 0.014498309,
+        "SEVERE_TOXICITY": 0.0021743774,
+        "THREAT": 0.013321015,
+        "TOXICITY": 0.08083374,
+        "text": " And the six months of rioting that burned down a bunch of the country, but they're just going to focus on this one act as the sole aspect of political violence in the country, even though frankly, it is a relatively minor aspect, given what we saw in 2020.  Still bad, still unacceptable, but relatively smaller than what we saw for the rest of the year"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0019053896,
+        "INSULT": 0.013516913,
+        "PROFANITY": 0.010979908,
+        "SEVERE_TOXICITY": 0.0012683868,
+        "THREAT": 0.013528148,
+        "TOXICITY": 0.03781283,
+        "text": " And they'll try to convict him in that way.  He won't run again"
+    },
+    {
+        "IDENTITY_ATTACK": 0.012541492,
+        "INSULT": 0.032248367,
+        "PROFANITY": 0.01309778,
+        "SEVERE_TOXICITY": 0.0016975403,
+        "THREAT": 0.009074804,
+        "TOXICITY": 0.09112182,
+        "text": " And what this says to me is they still fear the guy, even after all of this, after Trump's self-inflicted wounds, and there have been many of them, and after every attack that Democrats have tried to lobby on him, they still fear this guy.  They fear that he has a constituency that the establishment Republicans do not"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0047727237,
+        "INSULT": 0.011882903,
+        "PROFANITY": 0.014498309,
+        "SEVERE_TOXICITY": 0.0010824203,
+        "THREAT": 0.008738215,
+        "TOXICITY": 0.025320992,
+        "text": " I think they feel somewhat similarly about Josh Hawley.  I think that's why they're going after him"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0047357255,
+        "INSULT": 0.013782915,
+        "PROFANITY": 0.013405213,
+        "SEVERE_TOXICITY": 0.0010347366,
+        "THREAT": 0.008272167,
+        "TOXICITY": 0.03109552,
+        "text": " I think they feel similarly about Ted Cruz.  I think that's why they're going after him"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007732552,
+        "INSULT": 0.013212911,
+        "PROFANITY": 0.016752819,
+        "SEVERE_TOXICITY": 0.0011968613,
+        "THREAT": 0.008155655,
+        "TOXICITY": 0.032863233,
+        "text": " They are trying to prevent voices that they talk very kindly about how we all need to come together and unify.  They don't want to do that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.099899694,
+        "INSULT": 0.25007802,
+        "PROFANITY": 0.059948977,
+        "SEVERE_TOXICITY": 0.0064849854,
+        "THREAT": 0.013424582,
+        "TOXICITY": 0.30136615,
+        "text": " They want to marginalize voices, not just the fringy voices, not just the bigoted voices.  They want to marginalize mainstream conservatives, and they are doing that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009249465,
+        "INSULT": 0.04149419,
+        "PROFANITY": 0.020442016,
+        "SEVERE_TOXICITY": 0.0018119812,
+        "THREAT": 0.0071588317,
+        "TOXICITY": 0.11036996,
+        "text": " And you've got elite people getting in on the act.  Michelle Obama, Michelle Obama, former First Lady, always there's always chatter that she's going to run for office herself"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0019978844,
+        "INSULT": 0.0077028773,
+        "PROFANITY": 0.010552917,
+        "SEVERE_TOXICITY": 0.00059843063,
+        "THREAT": 0.006647474,
+        "TOXICITY": 0.010618322,
+        "text": " She came out released a statement calling for the deep platforming of President Trump on social media.  There are a lot of calls for President Trump"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01191331,
+        "INSULT": 0.061976057,
+        "PROFANITY": 0.036401358,
+        "SEVERE_TOXICITY": 0.010528564,
+        "THREAT": 0.34804323,
+        "TOXICITY": 0.25462922,
+        "text": " They say kick him off of Twitter or kick him off of Facebook or take away the phone or something.  But we hadn't heard it from someone at the level of Michelle Obama"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0233943,
+        "INSULT": 0.047349896,
+        "PROFANITY": 0.05393682,
+        "SEVERE_TOXICITY": 0.011367798,
+        "THREAT": 0.3481519,
+        "TOXICITY": 0.2763787,
+        "text": " Now they're all trying to do it.  And do you think they're just going to kick Trump off? Or do you think they're going to kick you off and me off? I know a lot of conservatives are saying they're Twitter followers have decreased"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0050317086,
+        "INSULT": 0.010552894,
+        "PROFANITY": 0.018255826,
+        "SEVERE_TOXICITY": 0.0012969971,
+        "THREAT": 0.0076637166,
+        "TOXICITY": 0.02638162,
+        "text": " I don't know if it has decreased a lot.  I only because I saw it was going around the internet"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01374736,
+        "INSULT": 0.029163294,
+        "PROFANITY": 0.069969244,
+        "SEVERE_TOXICITY": 0.0037384033,
+        "THREAT": 0.01940071,
+        "TOXICITY": 0.11202335,
+        "text": " I looked and I said, oh gosh, you have to down thousands.  I assume this is because social media are already purging many of these conservative accounts"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0029968263,
+        "INSULT": 0.011046898,
+        "PROFANITY": 0.011936366,
+        "SEVERE_TOXICITY": 0.00066280365,
+        "THREAT": 0.0068869707,
+        "TOXICITY": 0.02107848,
+        "text": " Trump had this line in the campaign.  He said, they're not coming after me"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009545447,
+        "INSULT": 0.034782536,
+        "PROFANITY": 0.02392626,
+        "SEVERE_TOXICITY": 0.0035858154,
+        "THREAT": 0.11002964,
+        "TOXICITY": 0.1537979,
+        "text": " They're coming after you and I just happened to be in the way.  I think we're about to see this proven true because Michelle Obama can come out and call for Trump to be kicked off of social media"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011617327,
+        "INSULT": 0.0638991,
+        "PROFANITY": 0.03765389,
+        "SEVERE_TOXICITY": 0.0075531006,
+        "THREAT": 0.34804323,
+        "TOXICITY": 0.25462922,
+        "text": " And do you know what happens? Even the duly elected sitting president, Facebook, he's the call.  Michelle Obama calls for Trump to get kicked off"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0071405866,
+        "INSULT": 0.05144889,
+        "PROFANITY": 0.015283971,
+        "SEVERE_TOXICITY": 0.0014781952,
+        "THREAT": 0.0067251488,
+        "TOXICITY": 0.102626406,
+        "text": " And Mark Zuckerberg says, absolutely.  Michelle Obama's statement is very wordy as the Obama's are want to be"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004587734,
+        "INSULT": 0.012224905,
+        "PROFANITY": 0.012926984,
+        "SEVERE_TOXICITY": 0.0010156631,
+        "THREAT": 0.00756015,
+        "TOXICITY": 0.025674535,
+        "text": " You can read Barack Obama's third memoir.  I think it's only 800 pages right now"
+    },
+    {
+        "IDENTITY_ATTACK": 0.27171627,
+        "INSULT": 0.08582769,
+        "PROFANITY": 0.03464781,
+        "SEVERE_TOXICITY": 0.00579834,
+        "THREAT": 0.008052089,
+        "TOXICITY": 0.25462922,
+        "text": " So I'll skip around a little bit.  Obama talks about how she is so happy that that radical socialist Rafael Warnock won election in Georgia because he's going to be Georgia's first black senator, first socialist senator too, I think"
+    },
+    {
+        "IDENTITY_ATTACK": 0.026408968,
+        "INSULT": 0.16831873,
+        "PROFANITY": 0.026044132,
+        "SEVERE_TOXICITY": 0.005493164,
+        "THREAT": 0.044925548,
+        "TOXICITY": 0.27236435,
+        "text": " Then first senator, whoever hosted Fidel Castro to church, that's well, big wonderful history, isn't it? Then in just a few hours, my heart had fallen harder and faster than I can remember.  Like all of you, I watched as a gang organized violent and mad"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003144818,
+        "INSULT": 0.03511308,
+        "PROFANITY": 0.01846078,
+        "SEVERE_TOXICITY": 0.0018119812,
+        "THREAT": 0.008582866,
+        "TOXICITY": 0.11057663,
+        "text": " They'd lost an election, laid siege to the United States Capitol.  Oh, terrible"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005105704,
+        "INSULT": 0.019096779,
+        "PROFANITY": 0.015010698,
+        "SEVERE_TOXICITY": 0.0011301041,
+        "THREAT": 0.0068999166,
+        "TOXICITY": 0.043646812,
+        "text": " Did she watch BLM over the summer? Not sure she did.  Oh, no, she did because she gets to it later in her letter"
+    },
+    {
+        "IDENTITY_ATTACK": 0.19100772,
+        "INSULT": 0.039444692,
+        "PROFANITY": 0.04742365,
+        "SEVERE_TOXICITY": 0.0062561035,
+        "THREAT": 0.008026198,
+        "TOXICITY": 0.18554166,
+        "text": " This summer's Black Lives Matter protests were an overwhelmingly peaceful movement.  Oh my gosh"
+    },
+    {
+        "IDENTITY_ATTACK": 0.26325142,
+        "INSULT": 0.06459839,
+        "PROFANITY": 0.02126184,
+        "SEVERE_TOXICITY": 0.0050354004,
+        "THREAT": 0.0077802283,
+        "TOXICITY": 0.2191003,
+        "text": " Our nation's largest demonstrations ever bringing together people of every race and class encouraging millions to reexamine their own assumptions.  And for those who call others unpatriotic for simply taking a knee in silent protest for those who wonder why we need to be reminded that Black Lives Matter at all, you know, nobody, nobody needs to be reminded of that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0543092,
+        "INSULT": 0.03257891,
+        "PROFANITY": 0.012585391,
+        "SEVERE_TOXICITY": 0.0018692017,
+        "THREAT": 0.0074954215,
+        "TOXICITY": 0.10913446,
+        "text": " Yesterday made it painfully clear that certain Americans are in fact allowed to denigrate the flag and symbols of our nation.  They've just got to look the right way"
+    },
+    {
+        "IDENTITY_ATTACK": 0.28034934,
+        "INSULT": 0.0806213,
+        "PROFANITY": 0.024404489,
+        "SEVERE_TOXICITY": 0.0077056885,
+        "THREAT": 0.008129764,
+        "TOXICITY": 0.25462922,
+        "text": " So Michelle Obama also stoking all these racial tensions, which she did for her entire public career as well.  She makes the claim that Black Lives Matter is overwhelmingly peaceful"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008213525,
+        "INSULT": 0.0233509,
+        "PROFANITY": 0.023994578,
+        "SEVERE_TOXICITY": 0.002822876,
+        "THREAT": 0.022853967,
+        "TOXICITY": 0.09741997,
+        "text": " I guess I'm willing to grant that.  I mean, they did torch cities coast to coast for a very long time"
+    },
+    {
+        "IDENTITY_ATTACK": 0.44690517,
+        "INSULT": 0.47020787,
+        "PROFANITY": 0.087430455,
+        "SEVERE_TOXICITY": 0.023076924,
+        "THREAT": 0.04718852,
+        "TOXICITY": 0.44573322,
+        "text": " But sure, of the people who say that they support Black Lives Matter, I suppose it's a small percentage you get violent, right? And yet she says that here, these Trump supporters are violent thugs, gang criminals.  She doesn't seem to afford the Trump supporters quite the same grace that she affords to Black Lives Matter, even though it just is a simple matter of numbers"
+    },
+    {
+        "IDENTITY_ATTACK": 0.23846684,
+        "INSULT": 0.08459369,
+        "PROFANITY": 0.018734055,
+        "SEVERE_TOXICITY": 0.005683899,
+        "THREAT": 0.008919456,
+        "TOXICITY": 0.24442963,
+        "text": " The Trump supporters are much, much, much, much, much, much, incomparably more peaceful than Black Lives Matter has been.  Both in the riot, even at the right on the Capitol, compared to the torching of cities for six months"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.07428485,
+        "PROFANITY": 0.053435806,
+        "SEVERE_TOXICITY": 0.0075912476,
+        "THREAT": 0.07629784,
+        "TOXICITY": 0.23739935,
+        "text": " But also just more broadly, BLM has come out there in explicitly Marxist organization.  They say they want to disrupt the entire society right down to including the nuclear family and they have used violence repeatedly"
+    },
+    {
+        "IDENTITY_ATTACK": 0.17536941,
+        "INSULT": 0.081261896,
+        "PROFANITY": 0.054938845,
+        "SEVERE_TOXICITY": 0.013091337,
+        "THREAT": 0.13245705,
+        "TOXICITY": 0.2854699,
+        "text": " Lots of blood on the hands of BLM.  She won't afford them the same, the same grace"
+    },
+    {
+        "IDENTITY_ATTACK": 0.037394293,
+        "INSULT": 0.031697463,
+        "PROFANITY": 0.013371054,
+        "SEVERE_TOXICITY": 0.0021839142,
+        "THREAT": 0.0077802283,
+        "TOXICITY": 0.104795754,
+        "text": " She won't afford Trump supporters the same grace.  And then she says, here's the key"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01565665,
+        "INSULT": 0.22770336,
+        "PROFANITY": 0.049678206,
+        "SEVERE_TOXICITY": 0.0060272217,
+        "THREAT": 0.0130621,
+        "TOXICITY": 0.25462922,
+        "text": " Now is the time for those who voted for this president to see the reality of what they've supported and publicly enforced, forced, fully rebuke him and the actions of that mob.  Now is the time for Silicon Valley companies to stop enabling this monstrous behavior and go even further than they have already done by permanently banning this man from their platforms and putting in place policies that prevent their technology from being used by this nation's leaders to fuel insurrection, insurrection"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010433395,
+        "INSULT": 0.029934563,
+        "PROFANITY": 0.015659723,
+        "SEVERE_TOXICITY": 0.0014972687,
+        "THREAT": 0.0077284453,
+        "TOXICITY": 0.08004235,
+        "text": " BLM mostly peaceful protest, the riot at the Capitol insurrection, which justifies the censorship of the sitting president himself.  Facebook caved, by the way"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0073255757,
+        "INSULT": 0.013706914,
+        "PROFANITY": 0.01620627,
+        "SEVERE_TOXICITY": 0.0014591217,
+        "THREAT": 0.010680079,
+        "TOXICITY": 0.036870047,
+        "text": " But even before we get into that, because I think that's the great threat that we've got to look at for the next several years, I want to address this point that some people are talking about on social media in the commentary.  A lot of conservatives are pointing as I'm doing right now"
+    },
+    {
+        "IDENTITY_ATTACK": 0.025605056,
+        "INSULT": 0.024382202,
+        "PROFANITY": 0.016889455,
+        "SEVERE_TOXICITY": 0.0019550323,
+        "THREAT": 0.009307829,
+        "TOXICITY": 0.071337044,
+        "text": " A lot of conservatives are pointing at the double standard on the BLM riots.  Right? So we're saying hold on"
+    },
+    {
+        "IDENTITY_ATTACK": 0.06613251,
+        "INSULT": 0.08030447,
+        "PROFANITY": 0.034397304,
+        "SEVERE_TOXICITY": 0.0125103295,
+        "THREAT": 0.31721663,
+        "TOXICITY": 0.29771072,
+        "text": " The left gets to burn down the country for six months.  That's called mostly peaceful"
+    },
+    {
+        "IDENTITY_ATTACK": 0.057037655,
+        "INSULT": 0.22770336,
+        "PROFANITY": 0.023584666,
+        "SEVERE_TOXICITY": 0.005455017,
+        "THREAT": 0.009437286,
+        "TOXICITY": 0.2786282,
+        "text": " Then a group of these rioters who are right-wing rioters, mostly mostly right-wing rioters, go to the Capitol.  And this is the worst event in the history of the United States"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01766643,
+        "INSULT": 0.06442356,
+        "PROFANITY": 0.026317406,
+        "SEVERE_TOXICITY": 0.0030708313,
+        "THREAT": 0.0089712385,
+        "TOXICITY": 0.15932569,
+        "text": " It's a bad event, but how come one of them, how come one of those six-month-long insurrections, is absolutely, totally fine, wonderful American as Apple pie.  But then the rowdy riot at the Capitol, that's the worst event in our history"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011025362,
+        "INSULT": 0.019676886,
+        "PROFANITY": 0.014225035,
+        "SEVERE_TOXICITY": 0.0013542175,
+        "THREAT": 0.0072365063,
+        "TOXICITY": 0.046368107,
+        "text": " It's like Pearl Harbor all over again.  What they're saying, the left is saying is that this is an example of what aboutism? We're talking guys"
+    },
+    {
+        "IDENTITY_ATTACK": 0.020078164,
+        "INSULT": 0.027347196,
+        "PROFANITY": 0.017231047,
+        "SEVERE_TOXICITY": 0.0025177002,
+        "THREAT": 0.009903334,
+        "TOXICITY": 0.08874765,
+        "text": " We're talking about the Trump Capitol riot right now.  We're not talking about BLM"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0030338243,
+        "INSULT": 0.007968879,
+        "PROFANITY": 0.012995303,
+        "SEVERE_TOXICITY": 0.0009870529,
+        "THREAT": 0.0074565844,
+        "TOXICITY": 0.013822667,
+        "text": " Right.  That's what that's the point I'm making"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0440973,
+        "INSULT": 0.42743355,
+        "PROFANITY": 0.12639372,
+        "SEVERE_TOXICITY": 0.0075531006,
+        "THREAT": 0.007948523,
+        "TOXICITY": 0.39644176,
+        "text": " We should be talking about BLM because it's a ridiculous double standard, and I'm not going to stand for it.  Well, no, now you're engaging in what aboutism"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0058456613,
+        "INSULT": 0.061451588,
+        "PROFANITY": 0.017777596,
+        "SEVERE_TOXICITY": 0.0013923645,
+        "THREAT": 0.0063626673,
+        "TOXICITY": 0.1104733,
+        "text": " What these people don't seem to understand, maybe they do, and they're just being cynical about it.  Most accusations of what aboutism are themselves examples of what aboutism"
+    },
+    {
+        "IDENTITY_ATTACK": 0.016762028,
+        "INSULT": 0.061451588,
+        "PROFANITY": 0.011782649,
+        "SEVERE_TOXICITY": 0.0020503998,
+        "THREAT": 0.010447056,
+        "TOXICITY": 0.115658075,
+        "text": " What I mean by that is, what aboutism for those who haven't heard this word endlessly over the past several days and weeks is when someone accuses you of doing something, and then you bring up something that they have done in response, rather than dealing with the accusation they're making.  Now, in this case, we're saying there is political violence in this country, and it's the Trump supporters"
+    },
+    {
+        "IDENTITY_ATTACK": 0.045901958,
+        "INSULT": 0.39743927,
+        "PROFANITY": 0.06395709,
+        "SEVERE_TOXICITY": 0.0075912476,
+        "THREAT": 0.013165667,
+        "TOXICITY": 0.36095104,
+        "text": " It is not what aboutism to come out and say, well, actually, the riot at the Capitol follows six months of nationwide political violence by the left, which was actually encouraged not just by these crazy fringe people on the ground, but encouraged by elected Democrats and members of the media.  Well, the riot was going on"
+    },
+    {
+        "IDENTITY_ATTACK": 0.038167715,
+        "INSULT": 0.036104713,
+        "PROFANITY": 0.015967157,
+        "SEVERE_TOXICITY": 0.0024986267,
+        "THREAT": 0.011249693,
+        "TOXICITY": 0.11078331,
+        "text": " Trump was telling them to stop it and go down and be peaceful, but while the BLM riots were going on, the left leading leftists were encouraging it.  Well, that's what aboutism"
+    },
+    {
+        "IDENTITY_ATTACK": 0.037394293,
+        "INSULT": 0.061451588,
+        "PROFANITY": 0.027137227,
+        "SEVERE_TOXICITY": 0.0022411346,
+        "THREAT": 0.007197669,
+        "TOXICITY": 0.1269396,
+        "text": " It's not what aboutism.  When people bring up what aboutism, what they're saying is it would be as though you began the conversation from saying, hey, that BLM stuff is pretty bad"
+    },
+    {
+        "IDENTITY_ATTACK": 0.015958117,
+        "INSULT": 0.030926194,
+        "PROFANITY": 0.016889455,
+        "SEVERE_TOXICITY": 0.0021076202,
+        "THREAT": 0.008945347,
+        "TOXICITY": 0.09655223,
+        "text": " I'll say, look, we need to talk about what aboutism.  Well, okay, the what aboutism charge is the what aboutism, and I don't want to hear it, because any conversation that any leading left winger or right winger for that matter wants to have about what happened at the Capitol, if that conversation does not include the six months of egregious nationwide political violence from the left that we're going on right up until the election and then the left one, the election"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0047357255,
+        "INSULT": 0.015340924,
+        "PROFANITY": 0.018597418,
+        "SEVERE_TOXICITY": 0.0014877319,
+        "THREAT": 0.009747985,
+        "TOXICITY": 0.050573748,
+        "text": " So it went away.  If it does not include that, I don't want to have that conversation"
+    },
+    {
+        "IDENTITY_ATTACK": 0.019173764,
+        "INSULT": 0.01640493,
+        "PROFANITY": 0.018187506,
+        "SEVERE_TOXICITY": 0.0016880035,
+        "THREAT": 0.0071717775,
+        "TOXICITY": 0.06025757,
+        "text": " I don't think that's a good faith conversation.  I don't think that's a good faith debate"
+    },
+    {
+        "IDENTITY_ATTACK": 0.026810925,
+        "INSULT": 0.06424874,
+        "PROFANITY": 0.015864678,
+        "SEVERE_TOXICITY": 0.0017261505,
+        "THREAT": 0.00713294,
+        "TOXICITY": 0.121732734,
+        "text": " I don't think any of these people are playing in good faith.  And some some Republicans, some conservatives are falling for this trap"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01087737,
+        "INSULT": 0.47787863,
+        "PROFANITY": 0.14049543,
+        "SEVERE_TOXICITY": 0.010375977,
+        "THREAT": 0.010680079,
+        "TOXICITY": 0.43230394,
+        "text": " And it's absolutely pathetic because it's going to get a lot worse than it's going to affect everybody.  Facebook heated Michelle Obama's call"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010507392,
+        "INSULT": 0.022384055,
+        "PROFANITY": 0.019690514,
+        "SEVERE_TOXICITY": 0.0018596649,
+        "THREAT": 0.011353259,
+        "TOXICITY": 0.08004235,
+        "text": " They have now banned Donald Trump from Facebook and Instagram from Zuckerberg, quote, we believe the risks of allowing the president to continue to use our service during this period are simply too great.  Therefore, we are extending the block"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0027193425,
+        "INSULT": 0.010362893,
+        "PROFANITY": 0.01128734,
+        "SEVERE_TOXICITY": 0.0009012222,
+        "THREAT": 0.0076507707,
+        "TOXICITY": 0.02107848,
+        "text": " We have placed on his Facebook and Instagram accounts indefinitely.  And for at least the next two weeks until the peaceful transition of of power is complete"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00880549,
+        "INSULT": 0.033680726,
+        "PROFANITY": 0.012722028,
+        "SEVERE_TOXICITY": 0.0016117096,
+        "THREAT": 0.007793174,
+        "TOXICITY": 0.09438288,
+        "text": " So big tech in collusion with the liberal establishment, Michelle Obama, hard to get more liberal establishment than that is now banning censoring the duly elected president.  Nobody has elected Michelle Obama"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0061046463,
+        "INSULT": 0.020192537,
+        "PROFANITY": 0.013029462,
+        "SEVERE_TOXICITY": 0.0010347366,
+        "THREAT": 0.0065050707,
+        "TOXICITY": 0.0438942,
+        "text": " Nobody ever elected Michelle Obama.  I guess she was part of the package with Barack, but he's not in office anymore"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0023216156,
+        "INSULT": 0.014884921,
+        "PROFANITY": 0.011611853,
+        "SEVERE_TOXICITY": 0.0006914139,
+        "THREAT": 0.0060908063,
+        "TOXICITY": 0.027913637,
+        "text": " Nobody elected Mark Zuckerberg to anything.  The only person in this whole circumstance who has been elected through our constitutional process is Donald Trump"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0058086636,
+        "INSULT": 0.02618698,
+        "PROFANITY": 0.0166845,
+        "SEVERE_TOXICITY": 0.0015735626,
+        "THREAT": 0.009307829,
+        "TOXICITY": 0.08083374,
+        "text": " And he's the one being censored at the behest of the others.  It's not just the censorship on Facebook though"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0047172266,
+        "INSULT": 0.02283525,
+        "PROFANITY": 0.012107162,
+        "SEVERE_TOXICITY": 0.0009727478,
+        "THREAT": 0.007974415,
+        "TOXICITY": 0.05799546,
+        "text": " He's no longer allowed to engage in commerce.  Shopify has banned President Trump"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003921773,
+        "INSULT": 0.027605021,
+        "PROFANITY": 0.012687869,
+        "SEVERE_TOXICITY": 0.001001358,
+        "THREAT": 0.007094103,
+        "TOXICITY": 0.05750068,
+        "text": " He's campaigning any of his organizations from using their service to process payments.  He's being the duly elected president being ostracized from commerce"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0052166977,
+        "INSULT": 0.023093075,
+        "PROFANITY": 0.013234417,
+        "SEVERE_TOXICITY": 0.0015163422,
+        "THREAT": 0.009877442,
+        "TOXICITY": 0.059974585,
+        "text": " They write, quote, based on recent events, we have determined that the actions by President Donald J Trump violate our acceptable use policy, which prohibits promotion or supportive organizations, platforms or people that threaten or condone violence to further cause.  As a result, we have terminated stores affiliated with President Trump"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0050687063,
+        "INSULT": 0.019161236,
+        "PROFANITY": 0.022013342,
+        "SEVERE_TOXICITY": 0.0025939941,
+        "THREAT": 0.012958534,
+        "TOXICITY": 0.10002319,
+        "text": " This is unprecedented.  This is extremely dangerous"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0018868907,
+        "INSULT": 0.0115029,
+        "PROFANITY": 0.010604155,
+        "SEVERE_TOXICITY": 0.0007867813,
+        "THREAT": 0.0072882893,
+        "TOXICITY": 0.022021262,
+        "text": " Much more historic and dangerous than any of the events that we've been talking about really even over the last few months.  They're not after him"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0061046463,
+        "INSULT": 0.012984909,
+        "PROFANITY": 0.012482914,
+        "SEVERE_TOXICITY": 0.0010585785,
+        "THREAT": 0.009256045,
+        "TOXICITY": 0.03192045,
+        "text": " They're after you and me.  And this is going to have, we've seen this happen to prominent conservatives"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0033298072,
+        "INSULT": 0.0198058,
+        "PROFANITY": 0.018597418,
+        "SEVERE_TOXICITY": 0.0016307831,
+        "THREAT": 0.009955117,
+        "TOXICITY": 0.054779384,
+        "text": " They just pick one off and they say, well, hopefully we won't care.  Oh, the circumstances merit it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004402745,
+        "INSULT": 0.031697463,
+        "PROFANITY": 0.014498309,
+        "SEVERE_TOXICITY": 0.0017642975,
+        "THREAT": 0.012440704,
+        "TOXICITY": 0.09828771,
+        "text": " They've been trying to pick off Trump now for four years, five years.  And now they think this is a good moment where we can totally deplatform him and censor him"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.2679134,
+        "PROFANITY": 0.06395709,
+        "SEVERE_TOXICITY": 0.0065231323,
+        "THREAT": 0.008440462,
+        "TOXICITY": 0.29953843,
+        "text": " And you're going to hear squishy conservatives say, well, and I only call them conservative squishy Republican types, they'll say, well, look, Trump can just make his own e-commerce platform.  Well, Trump can make his own largest social media network in the world"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0052906936,
+        "INSULT": 0.020901557,
+        "PROFANITY": 0.018255826,
+        "SEVERE_TOXICITY": 0.0012683868,
+        "THREAT": 0.0074436385,
+        "TOXICITY": 0.05799546,
+        "text": " No, no.  Well, we only care about government censorship"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01756594,
+        "INSULT": 0.06529768,
+        "PROFANITY": 0.032894265,
+        "SEVERE_TOXICITY": 0.0030517578,
+        "THREAT": 0.009126588,
+        "TOXICITY": 0.147767,
+        "text": " Now, if the got, if someone is completely ostracized from society, I don't care if it's the government doing it or some oligarchs in Silicon Valley doing it in GoHoots with the liberal establishment.  That is an urgent problem"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003385304,
+        "INSULT": 0.019870255,
+        "PROFANITY": 0.014259194,
+        "SEVERE_TOXICITY": 0.0014972687,
+        "THREAT": 0.011638066,
+        "TOXICITY": 0.050326355,
+        "text": " Not just them.  In addition to social media and e-commerce kicking off President Trump, we now have Simon and Schuster, major, major publisher canceling Senator Josh Hawley's book"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0032743104,
+        "INSULT": 0.020708188,
+        "PROFANITY": 0.01220964,
+        "SEVERE_TOXICITY": 0.0008773804,
+        "THREAT": 0.006537435,
+        "TOXICITY": 0.039226998,
+        "text": " Josh Hawley was writing a book coincidentally on big tech tyranny.  And because Josh Hawley followed the constitutional process to object to some of the electors in this election because of election irregularities, Simon and Schuster is canceling his book on the unrelated topic of big tech"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00258985,
+        "INSULT": 0.011882903,
+        "PROFANITY": 0.013029462,
+        "SEVERE_TOXICITY": 0.0010108948,
+        "THREAT": 0.007301235,
+        "TOXICITY": 0.027088705,
+        "text": " We did not come to this decision lightly.  Yeah, okay"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0024048607,
+        "INSULT": 0.021803947,
+        "PROFANITY": 0.010245483,
+        "SEVERE_TOXICITY": 0.00081062317,
+        "THREAT": 0.0074565844,
+        "TOXICITY": 0.04290464,
+        "text": " As a publisher, it will always be our mission to amplify a variety of voices and viewpoints.  At the same time, we take seriously our larger public responsibility as citizens and cannot support Senator Hawley after his role in what became a dangerous threat to our democracy and freedom"
+    },
+    {
+        "IDENTITY_ATTACK": 0.018369852,
+        "INSULT": 0.34032786,
+        "PROFANITY": 0.06596114,
+        "SEVERE_TOXICITY": 0.01502803,
+        "THREAT": 0.34804323,
+        "TOXICITY": 0.37751234,
+        "text": " What was Josh Hawley's role? Josh Hawley's role in the dangerous threat to our, what, also what dangerous threat to our democracy and freedom? The, the riot at the Capitol, very bad, very ugly.  People are going to be punished as they should be"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0022846176,
+        "INSULT": 0.019676886,
+        "PROFANITY": 0.021535112,
+        "SEVERE_TOXICITY": 0.0025177002,
+        "THREAT": 0.008453408,
+        "TOXICITY": 0.037577134,
+        "text": " This was not a coup d'\u00e9tat.  This was larping"
+    },
+    {
+        "IDENTITY_ATTACK": 0.013445892,
+        "INSULT": 0.4302003,
+        "PROFANITY": 0.12374964,
+        "SEVERE_TOXICITY": 0.008964539,
+        "THREAT": 0.010084574,
+        "TOXICITY": 0.39021665,
+        "text": " This was a decadent mob playing a live action video game.  They went in and took silly pictures in Nancy Pelosi's office"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0029228306,
+        "INSULT": 0.007968879,
+        "PROFANITY": 0.011406898,
+        "SEVERE_TOXICITY": 0.0006580353,
+        "THREAT": 0.0064144502,
+        "TOXICITY": 0.014953613,
+        "text": " There was no new constitution.  There was no declaration of new representatives"
+    },
+    {
+        "IDENTITY_ATTACK": 0.04641757,
+        "INSULT": 0.032468732,
+        "PROFANITY": 0.020646973,
+        "SEVERE_TOXICITY": 0.0030136108,
+        "THREAT": 0.012699619,
+        "TOXICITY": 0.11305673,
+        "text": " They just went in and messed up some stuff in the Capitol and left the threat to our democracy.  What? Like this is the, the Russian revolution or something"
+    },
+    {
+        "IDENTITY_ATTACK": 0.043581683,
+        "INSULT": 0.031256735,
+        "PROFANITY": 0.015898837,
+        "SEVERE_TOXICITY": 0.0023269653,
+        "THREAT": 0.0138755,
+        "TOXICITY": 0.113263406,
+        "text": " Give me a break.  This is an excuse by Simon and Schuster to ban conservatives"
+    },
+    {
+        "IDENTITY_ATTACK": 0.020178653,
+        "INSULT": 0.02982438,
+        "PROFANITY": 0.03189224,
+        "SEVERE_TOXICITY": 0.007133484,
+        "THREAT": 0.13815513,
+        "TOXICITY": 0.19504376,
+        "text": " What did Hawley do? Did Hawley go out and say, because frankly, if Josh Hawley went out there and said, Hey, we need to go storm the Capitol right now.  I actually could understand the decision"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005364689,
+        "INSULT": 0.025026767,
+        "PROFANITY": 0.030389199,
+        "SEVERE_TOXICITY": 0.0018596649,
+        "THREAT": 0.0075083673,
+        "TOXICITY": 0.10826672,
+        "text": " It's pretty bad stuff.  You don't want to be associated with that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0014244175,
+        "INSULT": 0.0077028773,
+        "PROFANITY": 0.009698936,
+        "SEVERE_TOXICITY": 0.0004196167,
+        "THREAT": 0.0061166976,
+        "TOXICITY": 0.009298885,
+        "text": " That's not what he did.  He followed the constitutional process to challenge electors after an unprecedented election in which all of the safeguards of election integrity were upended weeks and maybe months before the election"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00673361,
+        "INSULT": 0.012756908,
+        "PROFANITY": 0.010911589,
+        "SEVERE_TOXICITY": 0.00078201294,
+        "THREAT": 0.006770459,
+        "TOXICITY": 0.027206551,
+        "text": " We've never seen anything like it.  In certain cases in Pennsylvania, notably in explicit violation of the state constitution"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0059936526,
+        "INSULT": 0.014276917,
+        "PROFANITY": 0.018665737,
+        "SEVERE_TOXICITY": 0.0023937225,
+        "THREAT": 0.014566151,
+        "TOXICITY": 0.05354243,
+        "text": " Yeah.  I think it's okay to object"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0025343532,
+        "INSULT": 0.008291881,
+        "PROFANITY": 0.011355659,
+        "SEVERE_TOXICITY": 0.00068187714,
+        "THREAT": 0.006699257,
+        "TOXICITY": 0.015707577,
+        "text": " I think it's okay to follow the legal process in that case.  Nope"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0018406434,
+        "INSULT": 0.017012933,
+        "PROFANITY": 0.011133623,
+        "SEVERE_TOXICITY": 0.0007343292,
+        "THREAT": 0.0065697995,
+        "TOXICITY": 0.035691574,
+        "text": " Not, not according to Simon and Schuster.  Well, look, Michael, if you, if you don't want, if you want to read Josh Hawley's book, you ought to just found your own publishing house"
+    },
+    {
+        "IDENTITY_ATTACK": 0.012842959,
+        "INSULT": 0.07016616,
+        "PROFANITY": 0.01982715,
+        "SEVERE_TOXICITY": 0.0020122528,
+        "THREAT": 0.006925808,
+        "TOXICITY": 0.147767,
+        "text": " No, this is so profoundly naive.  It's the result of years and years of right wing capitulation and buying into a shallow sort of quasi libertarian argument that the political realm is really, really small and private people ought to be able to do whatever they want to do at any given time when that any restrictions"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00414376,
+        "INSULT": 0.011540901,
+        "PROFANITY": 0.011475217,
+        "SEVERE_TOXICITY": 0.0007009506,
+        "THREAT": 0.006420923,
+        "TOXICITY": 0.02249265,
+        "text": " It's the result of a fundamental misunderstanding of what the founding fathers meant when they talked about liberty, which they said time and time and time again is not licentiousness.  Liberty is not just the ability to exert our will"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0058456613,
+        "INSULT": 0.008557882,
+        "PROFANITY": 0.014054239,
+        "SEVERE_TOXICITY": 0.001077652,
+        "THREAT": 0.008155655,
+        "TOXICITY": 0.019603057,
+        "text": " However, we want pursue our appetites at any given time regardless of justice.  Liberty, true liberty is the freedom to do what one ought to do"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006437627,
+        "INSULT": 0.015948927,
+        "PROFANITY": 0.0166845,
+        "SEVERE_TOXICITY": 0.001411438,
+        "THREAT": 0.007832011,
+        "TOXICITY": 0.03734144,
+        "text": " That is what liberty is.  Lord act in himself, but it that way"
+    },
+    {
+        "IDENTITY_ATTACK": 0.073429056,
+        "INSULT": 0.02283525,
+        "PROFANITY": 0.016172111,
+        "SEVERE_TOXICITY": 0.00207901,
+        "THREAT": 0.006543908,
+        "TOXICITY": 0.104361884,
+        "text": " If we live in a society where the laws, they're basically okay, but we can't go to work.  We can't go to church"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00466173,
+        "INSULT": 0.013174911,
+        "PROFANITY": 0.017026093,
+        "SEVERE_TOXICITY": 0.0013160706,
+        "THREAT": 0.0074954215,
+        "TOXICITY": 0.0466155,
+        "text": " We can't engage in any sort of commerce.  We can't talk to anybody"
+    },
+    {
+        "IDENTITY_ATTACK": 0.013847848,
+        "INSULT": 0.043250903,
+        "PROFANITY": 0.037904397,
+        "SEVERE_TOXICITY": 0.0030136108,
+        "THREAT": 0.010110466,
+        "TOXICITY": 0.15048122,
+        "text": " What kind, what, what are our rights? Well, no, it's okay.  It's only Shopify infringing on it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005512681,
+        "INSULT": 0.012718908,
+        "PROFANITY": 0.013951761,
+        "SEVERE_TOXICITY": 0.0010585785,
+        "THREAT": 0.0071588317,
+        "TOXICITY": 0.030859824,
+        "text": " It's only Facebook.  It's only the people who control the public square"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006289636,
+        "INSULT": 0.030044744,
+        "PROFANITY": 0.022218296,
+        "SEVERE_TOXICITY": 0.0022029877,
+        "THREAT": 0.010628296,
+        "TOXICITY": 0.102626406,
+        "text": " They're the only ones infringing on it.  It's fine"
+    },
+    {
+        "IDENTITY_ATTACK": 0.014149316,
+        "INSULT": 0.0279513,
+        "PROFANITY": 0.01941724,
+        "SEVERE_TOXICITY": 0.0015258789,
+        "THREAT": 0.0068999166,
+        "TOXICITY": 0.08479069,
+        "text": " Right? No, I don't think so.  Shows you how inverted our understanding of power is in this country"
+    },
+    {
+        "IDENTITY_ATTACK": 0.021987455,
+        "INSULT": 0.031807642,
+        "PROFANITY": 0.017162729,
+        "SEVERE_TOXICITY": 0.0017738342,
+        "THREAT": 0.007340072,
+        "TOXICITY": 0.09033044,
+        "text": " We think, well, we don't think this.  We, I think we know better, but the left, what they pretend is Donald Trump, he's the ruling class"
+    },
+    {
+        "IDENTITY_ATTACK": 0.027413858,
+        "INSULT": 0.19967617,
+        "PROFANITY": 0.02795705,
+        "SEVERE_TOXICITY": 0.0034332275,
+        "THREAT": 0.0075083673,
+        "TOXICITY": 0.25462922,
+        "text": " He's the man.  Donald Trump has barely any power and he barely ever did"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010137413,
+        "INSULT": 0.030816011,
+        "PROFANITY": 0.017299367,
+        "SEVERE_TOXICITY": 0.0013923645,
+        "THREAT": 0.007314181,
+        "TOXICITY": 0.07371122,
+        "text": " And he won his election in 2016 on a fluke and they sure weren't going to let him do it again.  The liberal establishment is the ruling class"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0027933381,
+        "INSULT": 0.01465692,
+        "PROFANITY": 0.010774951,
+        "SEVERE_TOXICITY": 0.00068187714,
+        "THREAT": 0.0064532873,
+        "TOXICITY": 0.027677942,
+        "text": " Big tech, big media, big university, a big education, big bureaucracy.  You know, the people who tried to subvert the presidency for four years"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004180758,
+        "INSULT": 0.05262003,
+        "PROFANITY": 0.014805742,
+        "SEVERE_TOXICITY": 0.0012779236,
+        "THREAT": 0.0066798385,
+        "TOXICITY": 0.10739898,
+        "text": " All these institutions, that's the ruling power in this country.  Josh Halle doesn't have any power"
+    },
+    {
+        "IDENTITY_ATTACK": 0.014752249,
+        "INSULT": 0.1469393,
+        "PROFANITY": 0.021808386,
+        "SEVERE_TOXICITY": 0.0029182434,
+        "THREAT": 0.00756015,
+        "TOXICITY": 0.20973456,
+        "text": " Donald Trump barely has any power.  We have this very inverted sense of things"
+    },
+    {
+        "IDENTITY_ATTACK": 0.05612817,
+        "INSULT": 0.089778624,
+        "PROFANITY": 0.057944927,
+        "SEVERE_TOXICITY": 0.00919342,
+        "THREAT": 0.13431145,
+        "TOXICITY": 0.2667042,
+        "text": " You heard Joe Biden say, well, if it had been BLM, oh my gosh, it would have been a massacre.  BLM burned the country down for six months"
+    },
+    {
+        "IDENTITY_ATTACK": 0.015857628,
+        "INSULT": 0.061276767,
+        "PROFANITY": 0.015488927,
+        "SEVERE_TOXICITY": 0.001964569,
+        "THREAT": 0.008311004,
+        "TOXICITY": 0.11140333,
+        "text": " Nothing happened to them.  They were treated with far less harsh policing than the right wing rioters were Kamala Harris raised money for their bail funds"
+    },
+    {
+        "IDENTITY_ATTACK": 0.18391247,
+        "INSULT": 0.08212569,
+        "PROFANITY": 0.042413518,
+        "SEVERE_TOXICITY": 0.0077819824,
+        "THREAT": 0.012647836,
+        "TOXICITY": 0.23812068,
+        "text": " You hear you often here.  This is the canard of the left that you hear when they're race hustling"
+    },
+    {
+        "IDENTITY_ATTACK": 0.39677486,
+        "INSULT": 0.08831572,
+        "PROFANITY": 0.07870171,
+        "SEVERE_TOXICITY": 0.014963473,
+        "THREAT": 0.009204263,
+        "TOXICITY": 0.35186127,
+        "text": " You always hear about white privilege.  White privilege"
+    },
+    {
+        "IDENTITY_ATTACK": 0.5203519,
+        "INSULT": 0.5130944,
+        "PROFANITY": 0.20139475,
+        "SEVERE_TOXICITY": 0.023458159,
+        "THREAT": 0.010654188,
+        "TOXICITY": 0.52272606,
+        "text": " Well, another crazy white lady has been pretending to be a different race now for years.  Prominent human rights attorney has been posing"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010729378,
+        "INSULT": 0.16897665,
+        "PROFANITY": 0.055940874,
+        "SEVERE_TOXICITY": 0.0049591064,
+        "THREAT": 0.0073789097,
+        "TOXICITY": 0.24442963,
+        "text": " Her name is Natasha Lysia or a banan.  That's I guess the name she goes by"
+    },
+    {
+        "IDENTITY_ATTACK": 0.16587129,
+        "INSULT": 0.046178754,
+        "PROFANITY": 0.018324144,
+        "SEVERE_TOXICITY": 0.0030899048,
+        "THREAT": 0.0059386934,
+        "TOXICITY": 0.15103401,
+        "text": " She's been posing as a a Latino woman for years, claiming to be Puerto Rican and Colombian.  She's not"
+    },
+    {
+        "IDENTITY_ATTACK": 0.43256098,
+        "INSULT": 0.21602537,
+        "PROFANITY": 0.08064143,
+        "SEVERE_TOXICITY": 0.0128976675,
+        "THREAT": 0.007534259,
+        "TOXICITY": 0.37751234,
+        "text": " She's just a white lady.  So weird"
+    },
+    {
+        "IDENTITY_ATTACK": 0.4911651,
+        "INSULT": 0.40243408,
+        "PROFANITY": 0.22562476,
+        "SEVERE_TOXICITY": 0.023076924,
+        "THREAT": 0.01508414,
+        "TOXICITY": 0.44039994,
+        "text": " It's so weird how with all this white privilege going around, you have this lady and Rachel D'Alizal and that other crazy lady who was a professor and all of these white people pretending to be other races.  Linda Sarsour, when she was asked why she put the hijab on"
+    },
+    {
+        "IDENTITY_ATTACK": 0.31015682,
+        "INSULT": 0.076502606,
+        "PROFANITY": 0.08064143,
+        "SEVERE_TOXICITY": 0.010528564,
+        "THREAT": 0.01238892,
+        "TOXICITY": 0.27750343,
+        "text": " Linda Sarsour is an Islamist activist.  Linda Sarsour said because without the hijab, I'm just another white lady in New York"
+    },
+    {
+        "IDENTITY_ATTACK": 0.29798782,
+        "INSULT": 0.061801232,
+        "PROFANITY": 0.035399333,
+        "SEVERE_TOXICITY": 0.007095337,
+        "THREAT": 0.00951496,
+        "TOXICITY": 0.24763705,
+        "text": " She tried to promote the creation of a new racial grievance group called Middle Eastern North African or Mina because historically Arabs are categorized as whites in the United States.  If there's white privilege, wouldn't you want to remain in the privilege group? Maybe the privilege cuts a different way"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004587734,
+        "INSULT": 0.012376905,
+        "PROFANITY": 0.017026093,
+        "SEVERE_TOXICITY": 0.0015068054,
+        "THREAT": 0.008466354,
+        "TOXICITY": 0.028974265,
+        "text": " But I have to tell you, there is some really good news.  We can't we can't leave without discussing this"
+    },
+    {
+        "IDENTITY_ATTACK": 0.015857628,
+        "INSULT": 0.0811385,
+        "PROFANITY": 0.044417568,
+        "SEVERE_TOXICITY": 0.008468628,
+        "THREAT": 0.122295745,
+        "TOXICITY": 0.2359567,
+        "text": " Axe body spray is condemning the violence act, you know, the thing that like 12 year old boys spray on themselves.  Axe says we'd rather be lonely than with that mob"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00569767,
+        "INSULT": 0.017163089,
+        "PROFANITY": 0.011560614,
+        "SEVERE_TOXICITY": 0.001411438,
+        "THREAT": 0.008867673,
+        "TOXICITY": 0.04240986,
+        "text": " Axe condemns yesterday's acts of violence and hate at the Capitol.  We believe that the democratic process and the peaceful transition of power are very important"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0071035884,
+        "INSULT": 0.054376744,
+        "PROFANITY": 0.026317406,
+        "SEVERE_TOXICITY": 0.0021362305,
+        "THREAT": 0.008531082,
+        "TOXICITY": 0.112436704,
+        "text": " So glad they find I was waiting with baited breath on them.  Frankly, Dunkaroos silence on this topic is deafening"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011839314,
+        "INSULT": 0.017356457,
+        "PROFANITY": 0.018529098,
+        "SEVERE_TOXICITY": 0.0016403198,
+        "THREAT": 0.008026198,
+        "TOXICITY": 0.044388983,
+        "text": " And it kind of weird how the resistance is includes all of corporate America, all of the educational institutions, all of the media, all of big technology, all like everybody isn't that weird how that's the resistance.  It's almost like they're not the resistance, almost like they're not the resistance"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003385304,
+        "INSULT": 0.014732921,
+        "PROFANITY": 0.012892825,
+        "SEVERE_TOXICITY": 0.0010967255,
+        "THREAT": 0.007883795,
+        "TOXICITY": 0.030270588,
+        "text": " We have got to get to mail back first.  I should note though, actually the biggest news of the day, President Trump came out"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0037737815,
+        "INSULT": 0.0154929245,
+        "PROFANITY": 0.01086035,
+        "SEVERE_TOXICITY": 0.0007343292,
+        "THREAT": 0.006272047,
+        "TOXICITY": 0.028856417,
+        "text": " He's condemned the ride at the Capitol.  He has said that he thinks there was a lot of election irregularity"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0034223017,
+        "INSULT": 0.023221988,
+        "PROFANITY": 0.019143965,
+        "SEVERE_TOXICITY": 0.0013637543,
+        "THREAT": 0.007262398,
+        "TOXICITY": 0.057005897,
+        "text": " He's not saying this is stolen.  He's just saying that it was very very unfair"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0026638457,
+        "INSULT": 0.00806388,
+        "PROFANITY": 0.010621235,
+        "SEVERE_TOXICITY": 0.0007200241,
+        "THREAT": 0.006770459,
+        "TOXICITY": 0.012314741,
+        "text": " But he is saying that he will commit to the peaceful transition of power.  It was an excellent speech"
+    },
+    {
+        "IDENTITY_ATTACK": 0.002830336,
+        "INSULT": 0.0084818825,
+        "PROFANITY": 0.0113044195,
+        "SEVERE_TOXICITY": 0.00074863434,
+        "THREAT": 0.0067057298,
+        "TOXICITY": 0.013005874,
+        "text": " He had he had to give the speech.  It was very presidential"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0031818156,
+        "INSULT": 0.022319598,
+        "PROFANITY": 0.012961143,
+        "SEVERE_TOXICITY": 0.001411438,
+        "THREAT": 0.011689849,
+        "TOXICITY": 0.054037213,
+        "text": " It I think a laze any fears that he should be removed through the 25th Amendment or impeachment or anything like that.  And he says he might be back and maybe that's why Nancy Pelosi is going to try to impeach him too"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009693438,
+        "INSULT": 0.029163294,
+        "PROFANITY": 0.016479544,
+        "SEVERE_TOXICITY": 0.0018882751,
+        "THREAT": 0.011974656,
+        "TOXICITY": 0.08795626,
+        "text": " They're going to heal and unify as best they can and they're going to muzzle Trump to do it.  You know, there's a reason why the media create narratives about conservatives"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010063417,
+        "INSULT": 0.015568925,
+        "PROFANITY": 0.011031146,
+        "SEVERE_TOXICITY": 0.00064849854,
+        "THREAT": 0.0061749537,
+        "TOXICITY": 0.032156147,
+        "text": " It has to do with culture, which shapes our political opinions and which is shaped by the content we consume.  For a long time, conservatives have ceded creative ground to the left"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.03312982,
+        "PROFANITY": 0.018802373,
+        "SEVERE_TOXICITY": 0.002746582,
+        "THREAT": 0.00789674,
+        "TOXICITY": 0.11367676,
+        "text": " It has resulted in a culture that dictates political correctness over freedom of thought.  So we are pushing back against cultural blacklisting on Friday"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0052166977,
+        "INSULT": 0.010172892,
+        "PROFANITY": 0.015557245,
+        "SEVERE_TOXICITY": 0.0015735626,
+        "THREAT": 0.011715741,
+        "TOXICITY": 0.029799197,
+        "text": " January 15th, daily wire is releasing its first feature film, run hide fight.  This will be exclusive to daily wire members"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0061416444,
+        "INSULT": 0.011692902,
+        "PROFANITY": 0.016411226,
+        "SEVERE_TOXICITY": 0.0020313263,
+        "THREAT": 0.014393489,
+        "TOXICITY": 0.039462693,
+        "text": " Run hide fight is not particularly political, but it is intense.  It's got a powerful message"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011173353,
+        "INSULT": 0.021352753,
+        "PROFANITY": 0.029460056,
+        "SEVERE_TOXICITY": 0.0031471252,
+        "THREAT": 0.026307223,
+        "TOXICITY": 0.07054565,
+        "text": " The movie follows a high school siege by a quartet of school shooters when one young girl, 17 year old Zoe Hall uses for wits and survival skills to fight back to mark the release.  We will be doing a live stream premiere the night before on Thursday, January 14th during a special episode of backstage featuring Jeremy boring, venture pure on special guests come join us as we put the culture back on our own terms head to daily wire dot com will be right back with the mailbag"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007214582,
+        "INSULT": 0.012756908,
+        "PROFANITY": 0.011594773,
+        "SEVERE_TOXICITY": 0.0010681152,
+        "THREAT": 0.009178371,
+        "TOXICITY": 0.031331215,
+        "text": " All right, first question from Doug Michael.  I'm relieved that every single republic and including the president has condemned the violence"
+    },
+    {
+        "IDENTITY_ATTACK": 0.018068384,
+        "INSULT": 0.030044744,
+        "PROFANITY": 0.014259194,
+        "SEVERE_TOXICITY": 0.0023937225,
+        "THREAT": 0.013702838,
+        "TOXICITY": 0.103060275,
+        "text": " When do you think that Democrats will finally condemn the violence from Antifa and BLM? Also, how long until these riots are used to push gun control things before they're used to push gun control, they're going to be used to push speech control.  And they already are and they're they're censoring the president"
+    },
+    {
+        "IDENTITY_ATTACK": 0.038425524,
+        "INSULT": 0.035333443,
+        "PROFANITY": 0.022218296,
+        "SEVERE_TOXICITY": 0.0024986267,
+        "THREAT": 0.010291707,
+        "TOXICITY": 0.11223003,
+        "text": " You will never hear the media condemn the BLM riots.  This is something that really bugs me a little bit about the right"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00984143,
+        "INSULT": 0.03136692,
+        "PROFANITY": 0.03840541,
+        "SEVERE_TOXICITY": 0.0024414063,
+        "THREAT": 0.008000307,
+        "TOXICITY": 0.11109332,
+        "text": " I guess it's sort of to our credit that will we'll call it straight and we'll say, yeah, right at capital very bad.  B L I'm also very bad"
+    },
+    {
+        "IDENTITY_ATTACK": 0.038425524,
+        "INSULT": 0.082619295,
+        "PROFANITY": 0.050930742,
+        "SEVERE_TOXICITY": 0.0033569336,
+        "THREAT": 0.008129764,
+        "TOXICITY": 0.19694418,
+        "text": " You'll never you'll never hear that kind of fairness from the left.  What gets me though, and some conservatives are guilty of this, they'll go on and on about the say, oh my gosh, the capital, no, it's, you know, the worst thing that we've ever seen"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0059936526,
+        "INSULT": 0.0314771,
+        "PROFANITY": 0.03489832,
+        "SEVERE_TOXICITY": 0.0032615662,
+        "THREAT": 0.0086087575,
+        "TOXICITY": 0.123468354,
+        "text": " It was very bad.  No question about that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0059936526,
+        "INSULT": 0.017807651,
+        "PROFANITY": 0.011970525,
+        "SEVERE_TOXICITY": 0.0009250641,
+        "THREAT": 0.0067445673,
+        "TOXICITY": 0.03639866,
+        "text": " But we're not going to get credit from the left, certainly, for condemning it.  It's right just to tell the truth and say, you know, this is good and this is bad"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0052166977,
+        "INSULT": 0.011730902,
+        "PROFANITY": 0.012141321,
+        "SEVERE_TOXICITY": 0.00091552734,
+        "THREAT": 0.0069387536,
+        "TOXICITY": 0.022139108,
+        "text": " But we're not going to get credit from from the left no matter how much we played.  And it's important to put things in perspective"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005401687,
+        "INSULT": 0.2679134,
+        "PROFANITY": 0.035148825,
+        "SEVERE_TOXICITY": 0.0024795532,
+        "THREAT": 0.0064532873,
+        "TOXICITY": 0.28425202,
+        "text": " It's kind of why I'm defending what aboutism today.  Not real, what aboutism, but the context and the pointing out of hypocrisy that people call what aboutism"
+    },
+    {
+        "IDENTITY_ATTACK": 0.41052565,
+        "INSULT": 0.24287975,
+        "PROFANITY": 0.06946823,
+        "SEVERE_TOXICITY": 0.019095084,
+        "THREAT": 0.2836219,
+        "TOXICITY": 0.37458646,
+        "text": " Any discussion of what happened at the Capitol without a reference to Black Lives Matter is is frankly dishonest.  And I think conservatives ought to wake up to that from Brian, what would be the media narrative right now, if the election went the other way? And that was an unarmed black male climbing through that window who was shot and killed instead of this, this woman Ashley Babbitt"
+    },
+    {
+        "IDENTITY_ATTACK": 0.04048799,
+        "INSULT": 0.07555214,
+        "PROFANITY": 0.026863953,
+        "SEVERE_TOXICITY": 0.004348755,
+        "THREAT": 0.011223801,
+        "TOXICITY": 0.16331999,
+        "text": " Could you even imagine, first of all, if the election had gone the other way, there obviously would be much, much, much, much, much more widespread left-wing violence, just look at the cities before the election, cities boarded up their windows.  Why did they do that? Why did Los Angeles board up its windows? Why did New York board up its windows? Why did DC board up its windows? Did they do it because of all those Trump supporters in those extremely left-wing cities? Did they do it because they thought Trump supporters were going to riot and loot the shops? No, they did it because they knew what BLM would do because they'd been doing it for six weeks, six months rather"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0048837173,
+        "INSULT": 0.0118069025,
+        "PROFANITY": 0.011492296,
+        "SEVERE_TOXICITY": 0.0009584427,
+        "THREAT": 0.0071847234,
+        "TOXICITY": 0.026970858,
+        "text": " And what Antifa would do, they'd been doing it longer than six months.  So no question about that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007954539,
+        "INSULT": 0.023093075,
+        "PROFANITY": 0.020578653,
+        "SEVERE_TOXICITY": 0.0076675415,
+        "THREAT": 0.20938614,
+        "TOXICITY": 0.17111848,
+        "text": " Same as true of the woman who was killed.  Very, very sad that this woman was killed, Ashley Babbitt"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009249465,
+        "INSULT": 0.04207976,
+        "PROFANITY": 0.027273865,
+        "SEVERE_TOXICITY": 0.0059890747,
+        "THREAT": 0.11922921,
+        "TOXICITY": 0.20265625,
+        "text": " This is why you don't riot in the Capitol.  I mean, you're putting yourself in a dangerous situation"
+    },
+    {
+        "IDENTITY_ATTACK": 0.029144434,
+        "INSULT": 0.029383656,
+        "PROFANITY": 0.022354934,
+        "SEVERE_TOXICITY": 0.0030326843,
+        "THREAT": 0.023371955,
+        "TOXICITY": 0.10826672,
+        "text": " And I suspect a lot of people who were there thought, well, look, these police went so easy on BLM.  There's no way that they would go harsher on us"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010433395,
+        "INSULT": 0.06354945,
+        "PROFANITY": 0.1719469,
+        "SEVERE_TOXICITY": 0.0061416626,
+        "THREAT": 0.008634649,
+        "TOXICITY": 0.17545098,
+        "text": " I don't know about that.  But I do know if you have somebody like George Floyd he's got a rap sheet, what a decade long or something"
+    },
+    {
+        "IDENTITY_ATTACK": 0.020681098,
+        "INSULT": 0.056133457,
+        "PROFANITY": 0.018734055,
+        "SEVERE_TOXICITY": 0.0034713745,
+        "THREAT": 0.04201601,
+        "TOXICITY": 0.1373533,
+        "text": " And he is truly presented as the symbol in the murder of the BLM movement now.  Or even somebody like Jacob Blake, Jacob Blake is, at least with George Floyd, you'd say, well, maybe the police officer should have gotten up sooner and maybe the whole situation was a little strange"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003644289,
+        "INSULT": 0.016024929,
+        "PROFANITY": 0.012687869,
+        "SEVERE_TOXICITY": 0.0011968613,
+        "THREAT": 0.00948907,
+        "TOXICITY": 0.03828422,
+        "text": " Jacob Blake, it's like an open and shut case.  The guy was refusing arrest"
+    },
+    {
+        "IDENTITY_ATTACK": 0.02721288,
+        "INSULT": 0.07998765,
+        "PROFANITY": 0.11168506,
+        "SEVERE_TOXICITY": 0.011749268,
+        "THREAT": 0.12536226,
+        "TOXICITY": 0.3561489,
+        "text": " The cops were called because he was allegedly sexually assaulting this woman.  He walks out"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0034592997,
+        "INSULT": 0.022384055,
+        "PROFANITY": 0.01805087,
+        "SEVERE_TOXICITY": 0.0016593933,
+        "THREAT": 0.009230154,
+        "TOXICITY": 0.05378982,
+        "text": " He won't surrender.  He's getting taste"
+    },
+    {
+        "IDENTITY_ATTACK": 0.46028158,
+        "INSULT": 0.3126888,
+        "PROFANITY": 0.09001675,
+        "SEVERE_TOXICITY": 0.023076924,
+        "THREAT": 0.44942492,
+        "TOXICITY": 0.44002727,
+        "text": " He keeps walking and he reaches for a knife on the cops and finally they shoot him.  And even he is, he's called an unarmed black man and an act of unjustist by active injustice, rather, by the Washington Post"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011025362,
+        "INSULT": 0.27969417,
+        "PROFANITY": 0.054938845,
+        "SEVERE_TOXICITY": 0.0037193298,
+        "THREAT": 0.0066280556,
+        "TOXICITY": 0.3048984,
+        "text": " You're still seeing this kind of nonsense.  So of course, of course, it's certainly, I guess you'd say it's a double standard, but it's not what the left would probably just say is what Herbert Marques wrote in the 1960s"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007547563,
+        "INSULT": 0.015416925,
+        "PROFANITY": 0.010723713,
+        "SEVERE_TOXICITY": 0.0009202957,
+        "THREAT": 0.0066927844,
+        "TOXICITY": 0.03109552,
+        "text": " He's called the father of the new left.  He wrote an essay called Repressive Tolerance"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011617327,
+        "INSULT": 0.016100928,
+        "PROFANITY": 0.012277958,
+        "SEVERE_TOXICITY": 0.0012588501,
+        "THREAT": 0.00933372,
+        "TOXICITY": 0.04216247,
+        "text": " And he was very honest.  He said, liberating tolerance means that we need to censor the right and we need to encourage speech on the left"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00449524,
+        "INSULT": 0.1823172,
+        "PROFANITY": 0.01982715,
+        "SEVERE_TOXICITY": 0.0016784668,
+        "THREAT": 0.0058318907,
+        "TOXICITY": 0.23271075,
+        "text": " And I think that's what they would believe.  And that's not exactly hypocrisy so much as hierarchy as the law professor Adrienne from you would sometimes say, it's hierarchy"
+    },
+    {
+        "IDENTITY_ATTACK": 0.026007013,
+        "INSULT": 0.04149419,
+        "PROFANITY": 0.022218296,
+        "SEVERE_TOXICITY": 0.0020122528,
+        "THREAT": 0.0073789097,
+        "TOXICITY": 0.11119666,
+        "text": " And, you know, Marques, it was very honest about it.  And I actually sort of think if you want to fight back against leftist politics, political correctness, woke is some cancel culture"
+    },
+    {
+        "IDENTITY_ATTACK": 0.015958117,
+        "INSULT": 0.031917825,
+        "PROFANITY": 0.013200258,
+        "SEVERE_TOXICITY": 0.0013256073,
+        "THREAT": 0.0066151097,
+        "TOXICITY": 0.075294,
+        "text": " Use whatever term you want.  You actually would do very well to read these left wing intellectuals"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011691323,
+        "INSULT": 0.017485369,
+        "PROFANITY": 0.014566627,
+        "SEVERE_TOXICITY": 0.0013828278,
+        "THREAT": 0.007832011,
+        "TOXICITY": 0.044141594,
+        "text": " I think they actually understand this sort of stuff, speech, censorship, politics.  I think they understand it a lot better than the right does"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0025343532,
+        "INSULT": 0.010894896,
+        "PROFANITY": 0.010552917,
+        "SEVERE_TOXICITY": 0.0005221367,
+        "THREAT": 0.0060649146,
+        "TOXICITY": 0.01646154,
+        "text": " We should maybe take some notes from Nick.  Hey, Michael, my grandpa is a lifelong conservative has consistently listened to Rush Limbaugh for 30 years"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006696612,
+        "INSULT": 0.024124376,
+        "PROFANITY": 0.016069634,
+        "SEVERE_TOXICITY": 0.0015640259,
+        "THREAT": 0.007340072,
+        "TOXICITY": 0.05824285,
+        "text": " Great.  He is convinced there is no saving the US now that Biden Harris have seemingly won"
+    },
+    {
+        "IDENTITY_ATTACK": 0.05976611,
+        "INSULT": 0.031146556,
+        "PROFANITY": 0.019348921,
+        "SEVERE_TOXICITY": 0.0023651123,
+        "THREAT": 0.0076766624,
+        "TOXICITY": 0.10826672,
+        "text": " How do we young conservatives give hope to our elder conservatives who have lost hope or is hope lost? You know, a great priest friend of mine has this famous sangre says the difference between a Scottish optimist and a Scottish pessimist.  Is that a Scottish pessimist says things can't get any worse? And the Scottish optimist says, oh, yes, they can"
+    },
+    {
+        "IDENTITY_ATTACK": 0.036620867,
+        "INSULT": 0.053205602,
+        "PROFANITY": 0.021056883,
+        "SEVERE_TOXICITY": 0.0024223328,
+        "THREAT": 0.008634649,
+        "TOXICITY": 0.13388206,
+        "text": " And I think conservatives are kind of like this too.  You know, conservatives know that things are going to get much, much worse"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0035887922,
+        "INSULT": 0.011236899,
+        "PROFANITY": 0.011611853,
+        "SEVERE_TOXICITY": 0.0008583069,
+        "THREAT": 0.006815769,
+        "TOXICITY": 0.020231359,
+        "text": " And there's, it kind of cuts away at this distinction of optimistic and pessimistic.  There's hope"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0050317086,
+        "INSULT": 0.008272881,
+        "PROFANITY": 0.014054239,
+        "SEVERE_TOXICITY": 0.0012779236,
+        "THREAT": 0.007922632,
+        "TOXICITY": 0.018974753,
+        "text": " But our hope ultimately is not in this world.  Our hope ultimately is in the next world"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0062526376,
+        "INSULT": 0.014580919,
+        "PROFANITY": 0.017914234,
+        "SEVERE_TOXICITY": 0.0030899048,
+        "THREAT": 0.02682521,
+        "TOXICITY": 0.07291982,
+        "text": " We know how this world's going to end.  It's not going to look all that pleasant in the final days"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0054756827,
+        "INSULT": 0.010096892,
+        "PROFANITY": 0.014942379,
+        "SEVERE_TOXICITY": 0.0017261505,
+        "THREAT": 0.008945347,
+        "TOXICITY": 0.025556687,
+        "text": " Okay.  So our hope is in the next world"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0047172266,
+        "INSULT": 0.014960921,
+        "PROFANITY": 0.019075647,
+        "SEVERE_TOXICITY": 0.0023269653,
+        "THREAT": 0.021300001,
+        "TOXICITY": 0.05378982,
+        "text": " Now that doesn't mean we should throw up our hands and throw in the towel in this world.  We should use our courage, use our patience, use our grit, use our understanding of justice and all the other virtues and, you know, try to try to make this world better, try to do the right thing"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004846719,
+        "INSULT": 0.010248893,
+        "PROFANITY": 0.015318131,
+        "SEVERE_TOXICITY": 0.0013542175,
+        "THREAT": 0.0084793,
+        "TOXICITY": 0.031449065,
+        "text": " But we should know we're not going to have utopia on earth.  It ain't going to happen"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0062526376,
+        "INSULT": 0.054376744,
+        "PROFANITY": 0.022013342,
+        "SEVERE_TOXICITY": 0.0014400482,
+        "THREAT": 0.0069516995,
+        "TOXICITY": 0.11119666,
+        "text": " The great conservative consolation, of course, is that reality reasserts itself in the end.  And so no matter how insane things get, you know, eventually, utopias have to crack because utopias are no place"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0030523231,
+        "INSULT": 0.0086718835,
+        "PROFANITY": 0.013610168,
+        "SEVERE_TOXICITY": 0.001039505,
+        "THREAT": 0.007870848,
+        "TOXICITY": 0.015770407,
+        "text": " That's what it means.  But it can take a very long time"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004328749,
+        "INSULT": 0.0092228865,
+        "PROFANITY": 0.013849284,
+        "SEVERE_TOXICITY": 0.00166893,
+        "THREAT": 0.015602129,
+        "TOXICITY": 0.032627538,
+        "text": " It can take many lifetimes.  And so we're going to have to fight back"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004421244,
+        "INSULT": 0.020837102,
+        "PROFANITY": 0.014566627,
+        "SEVERE_TOXICITY": 0.0014686584,
+        "THREAT": 0.008129764,
+        "TOXICITY": 0.050326355,
+        "text": " But for your grandpa, I would just, I would say, put your hope in the knowledge that politics is going to get a lot worse.  And then it's going to get better"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0040327664,
+        "INSULT": 0.01929015,
+        "PROFANITY": 0.018119188,
+        "SEVERE_TOXICITY": 0.0022888184,
+        "THREAT": 0.010550622,
+        "TOXICITY": 0.06817148,
+        "text": " And it's going to get worse again.  And it's going to get better"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0027563404,
+        "INSULT": 0.023028618,
+        "PROFANITY": 0.01627459,
+        "SEVERE_TOXICITY": 0.0027656555,
+        "THREAT": 0.03649433,
+        "TOXICITY": 0.0969861,
+        "text": " And our ultimate hope is somewhere else from Jake.  If you could zipper crew one of the daily wire employees who work on your show, who would it be? And by zipper crew, I assume you mean fire"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0049577127,
+        "INSULT": 0.017012933,
+        "PROFANITY": 0.018529098,
+        "SEVERE_TOXICITY": 0.0014877319,
+        "THREAT": 0.009100696,
+        "TOXICITY": 0.038048524,
+        "text": " I guess it would have to be, kind of hurts me to say this, but I guess it would have to be Jason Campbell.  Jason Campbell, he's a good intern"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0029043318,
+        "INSULT": 0.025284592,
+        "PROFANITY": 0.015113175,
+        "SEVERE_TOXICITY": 0.00076293945,
+        "THREAT": 0.0062849927,
+        "TOXICITY": 0.04760506,
+        "text": " He's a good publicist.  But Jason, he writes some mean stuff about me on like the Media Matters website and Twitter and stuff like that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.022791367,
+        "INSULT": 0.025284592,
+        "PROFANITY": 0.014566627,
+        "SEVERE_TOXICITY": 0.002040863,
+        "THREAT": 0.011042561,
+        "TOXICITY": 0.0926474,
+        "text": " So I guess prop just to, you know, protect the show, I guess very sadly, I would have to zipper crew Jason from Sarah.  I'm Michael, given the new energy on the democratic side of the aisle and the complete control of the government from the left, which American freedom will come under attack first, freedom of speech, second amendment, religion, et cetera"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009545447,
+        "INSULT": 0.018323302,
+        "PROFANITY": 0.022628209,
+        "SEVERE_TOXICITY": 0.0021648407,
+        "THREAT": 0.01750142,
+        "TOXICITY": 0.07687678,
+        "text": " Well, I did already answer this a little bit.  I said freedom of speech, it's all currently like right this very second is coming under attack"
+    },
+    {
+        "IDENTITY_ATTACK": 0.038167715,
+        "INSULT": 0.02264188,
+        "PROFANITY": 0.013131939,
+        "SEVERE_TOXICITY": 0.0016880035,
+        "THREAT": 0.008065036,
+        "TOXICITY": 0.07845957,
+        "text": " Freedom of religion, of course, has already been under attack for a long time.  And this year in particular, the idea that you could go to a pot shop, a head shop because it was an essential service in Los Angeles"
+    },
+    {
+        "IDENTITY_ATTACK": 0.030691283,
+        "INSULT": 0.012452906,
+        "PROFANITY": 0.011184863,
+        "SEVERE_TOXICITY": 0.0011110306,
+        "THREAT": 0.0060260775,
+        "TOXICITY": 0.040430736,
+        "text": " But you couldn't go to church is a reflection of that social inversion.  And it's not even, by the way, necessarily an abridgment of freedom of religion so much as a shifting of the religious standards"
+    },
+    {
+        "IDENTITY_ATTACK": 0.033269364,
+        "INSULT": 0.022577424,
+        "PROFANITY": 0.014088398,
+        "SEVERE_TOXICITY": 0.0015735626,
+        "THREAT": 0.0068869707,
+        "TOXICITY": 0.069754265,
+        "text": " Because for the left, going to the head shop and buying some really, really high quality, medicinal stuff is a sort of religious matter.  Cardinal Manning has this great line, which is that all politics, all human conflict is ultimately theological"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0065856185,
+        "INSULT": 0.009906891,
+        "PROFANITY": 0.016103793,
+        "SEVERE_TOXICITY": 0.0012111664,
+        "THREAT": 0.007624879,
+        "TOXICITY": 0.02035702,
+        "text": " And I think that's true.  We always hear there are all these kinds of different expressions on this point"
+    },
+    {
+        "IDENTITY_ATTACK": 0.044870727,
+        "INSULT": 0.017936565,
+        "PROFANITY": 0.01535229,
+        "SEVERE_TOXICITY": 0.0015163422,
+        "THREAT": 0.006356194,
+        "TOXICITY": 0.06896287,
+        "text": " The politics is downstream of culture.  You know, culture is downstream of religion because cult and culture come from the same root word"
+    },
+    {
+        "IDENTITY_ATTACK": 0.15517195,
+        "INSULT": 0.34314156,
+        "PROFANITY": 0.16869035,
+        "SEVERE_TOXICITY": 0.012130737,
+        "THREAT": 0.008039144,
+        "TOXICITY": 0.35186127,
+        "text": " Sure, however you want to say it at the root of these things are religious differences.  If you really believe that we are just meat puppets, we're meat sacs"
+    },
+    {
+        "IDENTITY_ATTACK": 0.029402243,
+        "INSULT": 0.013402912,
+        "PROFANITY": 0.014361672,
+        "SEVERE_TOXICITY": 0.0013923645,
+        "THREAT": 0.006550381,
+        "TOXICITY": 0.044141594,
+        "text": " Our purpose on this life is to get as much pleasure as we possibly can.  And the purpose of politics is to make sure that the greatest number of people can get the most pleasure most of the time, then you're going to have that is a religious view"
+    },
+    {
+        "IDENTITY_ATTACK": 0.11744241,
+        "INSULT": 0.02567133,
+        "PROFANITY": 0.02208166,
+        "SEVERE_TOXICITY": 0.00333786,
+        "THREAT": 0.011379151,
+        "TOXICITY": 0.13388206,
+        "text": " And you're going to have a very different society than if you have the sort of society that we were founded as, which is broadly speaking, a Christian society.  So that's already under attack"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009471451,
+        "INSULT": 0.03235855,
+        "PROFANITY": 0.03339528,
+        "SEVERE_TOXICITY": 0.0037574768,
+        "THREAT": 0.03718498,
+        "TOXICITY": 0.15048122,
+        "text": " That's been under attack for a very, very long time.  It's almost certainly going to get worse from DeCek"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0058086636,
+        "INSULT": 0.009507888,
+        "PROFANITY": 0.0166845,
+        "SEVERE_TOXICITY": 0.0016498566,
+        "THREAT": 0.008945347,
+        "TOXICITY": 0.016964182,
+        "text": " Hey, Michael.  I'm a big fan of the show and all the daily wires content"
+    },
+    {
+        "IDENTITY_ATTACK": 0.029402243,
+        "INSULT": 0.029934563,
+        "PROFANITY": 0.015967157,
+        "SEVERE_TOXICITY": 0.0020885468,
+        "THREAT": 0.010550622,
+        "TOXICITY": 0.10566349,
+        "text": " I'm becoming disillusioned from the Republican Party in recent months.  And after the riot at Capitol Hill, I'm not sure where to put myself"
+    },
+    {
+        "IDENTITY_ATTACK": 0.038167715,
+        "INSULT": 0.44802538,
+        "PROFANITY": 0.09195647,
+        "SEVERE_TOXICITY": 0.008583069,
+        "THREAT": 0.009048914,
+        "TOXICITY": 0.39987978,
+        "text": " I found the riot to be disgusting, but I also find it very hypocritical that everyone is acting like it's the worst thing that's ever happened in America after a summer of riots.  I'm becoming less of a Trump fan with him not conceding"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0064006294,
+        "INSULT": 0.013896915,
+        "PROFANITY": 0.01261955,
+        "SEVERE_TOXICITY": 0.0008583069,
+        "THREAT": 0.0070164283,
+        "TOXICITY": 0.02826718,
+        "text": " But although he did just concede, so maybe you would change that view now, but I also do not believe this was a fair election fair enough.  I don't see Trump being the leader of the party anymore, but I don't want to go back to the old establishment types either"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0040327664,
+        "INSULT": 0.011540901,
+        "PROFANITY": 0.011970525,
+        "SEVERE_TOXICITY": 0.0006723404,
+        "THREAT": 0.006162008,
+        "TOXICITY": 0.021549871,
+        "text": " Where do you see the party going? Oh, is that all you want to know? I think a lot of people agree with you.  I think the vast, vast, vast majority of conservatives agree with you"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009286462,
+        "INSULT": 0.02982438,
+        "PROFANITY": 0.017914234,
+        "SEVERE_TOXICITY": 0.0021457672,
+        "THREAT": 0.008311004,
+        "TOXICITY": 0.11036996,
+        "text": " We don't like what happened at the Capitol.  That was very bad"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00621564,
+        "INSULT": 0.032689095,
+        "PROFANITY": 0.017026093,
+        "SEVERE_TOXICITY": 0.0033950806,
+        "THREAT": 0.03235042,
+        "TOXICITY": 0.11171334,
+        "text": " We think it's preposterous that it's being called Pearl Harbor part two when no one's making mention of the summer of burning down the country.  We like Trump a lot"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0102854045,
+        "INSULT": 0.061976057,
+        "PROFANITY": 0.014122557,
+        "SEVERE_TOXICITY": 0.0016498566,
+        "THREAT": 0.007935578,
+        "TOXICITY": 0.11181668,
+        "text": " We think he's a lot better than the GOP establishment.  He's not a perfect guy, and he's made some mistakes and had some self-inflicted wounds, and that's very unfortunate"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003348306,
+        "INSULT": 0.011730902,
+        "PROFANITY": 0.012243799,
+        "SEVERE_TOXICITY": 0.0009822845,
+        "THREAT": 0.0077802283,
+        "TOXICITY": 0.026028076,
+        "text": " So what happens now? Well, all I will say, it's too early to predict who the presidential nominee is going to be in four years.  Trump could run again"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003884775,
+        "INSULT": 0.024897853,
+        "PROFANITY": 0.015420608,
+        "SEVERE_TOXICITY": 0.001077652,
+        "THREAT": 0.006686311,
+        "TOXICITY": 0.045378547,
+        "text": " He's sort of signaled that he might.  However, one thing to look to, I think, is who are the media going after right now? Who is big tech going after right now? Who is some juicer going after right now? Guys like Holly, guys like Cruz, guys like Rhonda Santos"
+    },
+    {
+        "IDENTITY_ATTACK": 0.026810925,
+        "INSULT": 0.03070583,
+        "PROFANITY": 0.016752819,
+        "SEVERE_TOXICITY": 0.0032043457,
+        "THREAT": 0.053330876,
+        "TOXICITY": 0.11378009,
+        "text": " You're noticing a sort of training of the left-wing scopes on them right now.  All the attacks are coming at them"
+    },
+    {
+        "IDENTITY_ATTACK": 0.013646871,
+        "INSULT": 0.022255141,
+        "PROFANITY": 0.01764096,
+        "SEVERE_TOXICITY": 0.002412796,
+        "THREAT": 0.021472665,
+        "TOXICITY": 0.09785384,
+        "text": " You're not seeing many attacks on Mitt Romney.  Well, of course not"
+    },
+    {
+        "IDENTITY_ATTACK": 0.2764353,
+        "INSULT": 0.16802633,
+        "PROFANITY": 0.019075647,
+        "SEVERE_TOXICITY": 0.0076293945,
+        "THREAT": 0.012337137,
+        "TOXICITY": 0.2854903,
+        "text": " Mitt Romney marched with Black Lives Matter, and now he's getting out there and lecturing all those Republicans and all those Trump supporters, lecturing his colleagues in the Senate.  Mitt Romney has affiliated with a far more violent, far more radical, far more anti-American group than anything we've seen in recent weeks"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00828752,
+        "INSULT": 0.035553806,
+        "PROFANITY": 0.012141321,
+        "SEVERE_TOXICITY": 0.0011539459,
+        "THREAT": 0.00704232,
+        "TOXICITY": 0.0926474,
+        "text": " And yet he's going to get the credit as the adult in the room, the really important, serious Republican.  The future is not him"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0074365693,
+        "INSULT": 0.21368977,
+        "PROFANITY": 0.03840541,
+        "SEVERE_TOXICITY": 0.003929138,
+        "THREAT": 0.009644418,
+        "TOXICITY": 0.2553839,
+        "text": " The future never was that guy, that guy is a joke.  The future is going to be the guys who you can tell by their enemies, who you can tell by the people going after them"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0040327664,
+        "INSULT": 0.0103248935,
+        "PROFANITY": 0.014839902,
+        "SEVERE_TOXICITY": 0.0011825562,
+        "THREAT": 0.0082074385,
+        "TOXICITY": 0.022256956,
+        "text": " Who is it going to be in particular? I couldn't tell you that.  It's just so early"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0044582416,
+        "INSULT": 0.012566907,
+        "PROFANITY": 0.011663092,
+        "SEVERE_TOXICITY": 0.0007867813,
+        "THREAT": 0.0070552654,
+        "TOXICITY": 0.023317585,
+        "text": " Would you have picked Donald Trump in 2012? Very few people would have done that.  But I do think that's going to be the principle by which we're going to figure out who it is"
+    },
+    {
+        "IDENTITY_ATTACK": 0.018369852,
+        "INSULT": 0.010818896,
+        "PROFANITY": 0.013951761,
+        "SEVERE_TOXICITY": 0.0016975403,
+        "THREAT": 0.008401625,
+        "TOXICITY": 0.030034892,
+        "text": " From Bryce, Hey, Michael.  I'm in RCA, right of Catholic initiation for adults, preparing to be baptized this Easter season"
+    },
+    {
+        "IDENTITY_ATTACK": 0.037909906,
+        "INSULT": 0.015264924,
+        "PROFANITY": 0.01127026,
+        "SEVERE_TOXICITY": 0.0012302399,
+        "THREAT": 0.006220264,
+        "TOXICITY": 0.045873325,
+        "text": " Thanks and no small part to you and Matt.  My question is, if the Jesuits are the order that tends toward the liberal side of the church, is there an order of priests that is the ultra conservative side of the church? I want to help build orthodoxy in the faith"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0052166977,
+        "INSULT": 0.008519882,
+        "PROFANITY": 0.015318131,
+        "SEVERE_TOXICITY": 0.0014019012,
+        "THREAT": 0.008013252,
+        "TOXICITY": 0.014890783,
+        "text": " What can I do as a member of the lady? Love the show.  Thanks"
+    },
+    {
+        "IDENTITY_ATTACK": 0.08749158,
+        "INSULT": 0.032028005,
+        "PROFANITY": 0.031391226,
+        "SEVERE_TOXICITY": 0.0037574768,
+        "THREAT": 0.0071588317,
+        "TOXICITY": 0.14082454,
+        "text": " It's too bad.  The Jesuits used to be pretty good"
+    },
+    {
+        "IDENTITY_ATTACK": 0.13805299,
+        "INSULT": 0.076502606,
+        "PROFANITY": 0.030890211,
+        "SEVERE_TOXICITY": 0.0046157837,
+        "THREAT": 0.006543908,
+        "TOXICITY": 0.18459146,
+        "text": " In recent years, a lot of the more prominent Kooky type of priests have been Jesuits for a Jesuitical.  Great work"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01465176,
+        "INSULT": 0.011768902,
+        "PROFANITY": 0.014190876,
+        "SEVERE_TOXICITY": 0.0012493134,
+        "THREAT": 0.00675104,
+        "TOXICITY": 0.030270588,
+        "text": " Well, first, you've got to check out the priestly fraternity of St.  Peter, FSSP, very conservative, wonderful organization"
+    },
+    {
+        "IDENTITY_ATTACK": 0.022188433,
+        "INSULT": 0.012338906,
+        "PROFANITY": 0.013576009,
+        "SEVERE_TOXICITY": 0.0013446808,
+        "THREAT": 0.0066733654,
+        "TOXICITY": 0.034041706,
+        "text": " They are such terrific defenders of the traditional Latin Mass.  Brilliant priests"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008583503,
+        "INSULT": 0.011274899,
+        "PROFANITY": 0.017845914,
+        "SEVERE_TOXICITY": 0.0017738342,
+        "THREAT": 0.007689608,
+        "TOXICITY": 0.027677942,
+        "text": " I just really can't speak highly enough.  I've always enjoyed going to FSSP parishes"
+    },
+    {
+        "IDENTITY_ATTACK": 0.14019285,
+        "INSULT": 0.029383656,
+        "PROFANITY": 0.022696527,
+        "SEVERE_TOXICITY": 0.0032997131,
+        "THREAT": 0.007832011,
+        "TOXICITY": 0.14429577,
+        "text": " There are other good ones.  You'll find some good Dominicans here there"
+    },
+    {
+        "IDENTITY_ATTACK": 0.018671319,
+        "INSULT": 0.0105148945,
+        "PROFANITY": 0.011902207,
+        "SEVERE_TOXICITY": 0.0008249283,
+        "THREAT": 0.0063950317,
+        "TOXICITY": 0.02685301,
+        "text": " You'll find some all sorts of different orders.  You can also look for individual priests, many who recommend themselves"
+    },
+    {
+        "IDENTITY_ATTACK": 0.022992345,
+        "INSULT": 0.01648093,
+        "PROFANITY": 0.012551232,
+        "SEVERE_TOXICITY": 0.0012779236,
+        "THREAT": 0.0068416605,
+        "TOXICITY": 0.044636376,
+        "text": " I'd recommend checking out crisis magazine is good.  Good to find some good priests there"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.021481665,
+        "PROFANITY": 0.017845914,
+        "SEVERE_TOXICITY": 0.0025939941,
+        "THREAT": 0.0064015044,
+        "TOXICITY": 0.1100022,
+        "text": " Some other number of other places.  However, Catholicism isn't enacted in flesh, sacramental religion"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008139528,
+        "INSULT": 0.007930879,
+        "PROFANITY": 0.011697251,
+        "SEVERE_TOXICITY": 0.0008249283,
+        "THREAT": 0.006097279,
+        "TOXICITY": 0.017843807,
+        "text": " So much of it is about the liturgy.  So much of it is about accessing the sacraments"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0041992567,
+        "INSULT": 0.012452906,
+        "PROFANITY": 0.0113215,
+        "SEVERE_TOXICITY": 0.0008392334,
+        "THREAT": 0.0068869707,
+        "TOXICITY": 0.02343543,
+        "text": " It's hard to beat the beauty and the seriousness in the reverence with which the FSSP treat that.  Final question"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003903274,
+        "INSULT": 0.009241886,
+        "PROFANITY": 0.014532468,
+        "SEVERE_TOXICITY": 0.0012683868,
+        "THREAT": 0.008789998,
+        "TOXICITY": 0.01834645,
+        "text": " Andrew says, hey, Michael, I'm thinking about creating a screen print for my car.  15 days to slow the spread, but crossing it out with the number to make it 297, which is today"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011469335,
+        "INSULT": 0.04969218,
+        "PROFANITY": 0.043165036,
+        "SEVERE_TOXICITY": 0.004711151,
+        "THREAT": 0.016638106,
+        "TOXICITY": 0.16098402,
+        "text": " What are your thoughts? Well, buddy, you better make sure that it's a dry erase wrap because that number is going to go up and up and up.  I'm Michael Noles"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0034408006,
+        "INSULT": 0.010096892,
+        "PROFANITY": 0.013302735,
+        "SEVERE_TOXICITY": 0.0012302399,
+        "THREAT": 0.008155655,
+        "TOXICITY": 0.01859777,
+        "text": " This is the Michael Noles Show.  See you next week"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0063266335,
+        "INSULT": 0.010096892,
+        "PROFANITY": 0.016889455,
+        "SEVERE_TOXICITY": 0.001335144,
+        "THREAT": 0.00899713,
+        "TOXICITY": 0.02048268,
+        "text": " We're available on Apple Podcasts, Spotify and wherever else you listen to podcasts.  Also, be sure to check out the other daily wire podcasts, including the Ben Shapiro Show, The Andrew Cleven Show, and the Matt Walsh Show"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0024788564,
+        "INSULT": 0.0072088744,
+        "PROFANITY": 0.0108774295,
+        "SEVERE_TOXICITY": 0.000667572,
+        "THREAT": 0.006550381,
+        "TOXICITY": 0.008544922,
+        "text": " The Michael Noles Show is produced by Ben Davies, executive producer Jeremy Boren.  Our technical director is Austin Stevens, supervising producers, Mathis Glover and Robert Sterling, production manager, Pavel Vidowski, editor and associate producer Danny D'Amico, audio mixer, Mike Coramina, hair and makeup by Nika Geneva and production assistant McKenna Waters"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0034962974,
+        "INSULT": 0.008348881,
+        "PROFANITY": 0.01220964,
+        "SEVERE_TOXICITY": 0.00094890594,
+        "THREAT": 0.0072882893,
+        "TOXICITY": 0.012817383,
+        "text": " The Michael Noles Show is a daily wire production.  Copyright, daily wire 2021"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004069764,
+        "INSULT": 0.045007613,
+        "PROFANITY": 0.013302735,
+        "SEVERE_TOXICITY": 0.0015544891,
+        "THREAT": 0.00899713,
+        "TOXICITY": 0.10566349,
+        "text": " Today on the Ben Shapiro Show, President Trump acknowledges his defeat and pledges the peaceful transition of power and Joe Biden and Kamala Harris, they completely destroy any possibility of unity just right away.  Tune in to the Ben Shapiro Show today"
+    }
+]

@@ -1,0 +1,1793 @@
+[
+    {
+        "IDENTITY_ATTACK": 0.038167715,
+        "INSULT": 0.09270445,
+        "PROFANITY": 0.37854016,
+        "SEVERE_TOXICITY": 0.023599008,
+        "THREAT": 0.017846745,
+        "TOXICITY": 0.46186632,
+        "text": " You're in the Freedom Hot.  This is the Buck's Sex and Show podcast"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009360458,
+        "INSULT": 0.24928534,
+        "PROFANITY": 0.15724123,
+        "SEVERE_TOXICITY": 0.009231567,
+        "THREAT": 0.0079873605,
+        "TOXICITY": 0.35186127,
+        "text": " Get more from Buck by following him on social media at Buck's Sex and on Facebook, Twitter, and Instagram.  All of us are faced with two choices, both of which are lousy"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00621564,
+        "INSULT": 0.020708188,
+        "PROFANITY": 0.01174849,
+        "SEVERE_TOXICITY": 0.0009727478,
+        "THREAT": 0.007094103,
+        "TOXICITY": 0.043399423,
+        "text": " One choice is vote against the objection.  And tens of millions of Americans will see a vote against the objection as a statement that voter fraud doesn't matter isn't real and shouldn't be taken seriously"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0021366263,
+        "INSULT": 0.008899884,
+        "PROFANITY": 0.010450439,
+        "SEVERE_TOXICITY": 0.0005555153,
+        "THREAT": 0.0065050707,
+        "TOXICITY": 0.014011159,
+        "text": " And a great many of us don't believe that.  On the other hand, most if not all of us believe we should not set aside the results of an election just because our candidate may not have prevailed"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0025343532,
+        "INSULT": 0.011236899,
+        "PROFANITY": 0.010211324,
+        "SEVERE_TOXICITY": 0.00059366226,
+        "THREAT": 0.0065050707,
+        "TOXICITY": 0.019100413,
+        "text": " And so I endeavor to look for door number three, a third option.  And for that I look to history to the President of the 1876 election, the Hayes Tilden election where this Congress appointed an electoral commission to examine claims of voter fraud, five House members, five Senators, five Supreme Court justices, examine the evidence and render to judgment"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0014706649,
+        "INSULT": 0.0073798755,
+        "PROFANITY": 0.009869732,
+        "SEVERE_TOXICITY": 0.00051021576,
+        "THREAT": 0.006653947,
+        "TOXICITY": 0.009990019,
+        "text": " And what I would urge of this body is that we do the same.  That we appointed electoral commission to conduct a 10-day emergency audit, consider the evidence and resolve the claims"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004088263,
+        "INSULT": 0.011958904,
+        "PROFANITY": 0.010177165,
+        "SEVERE_TOXICITY": 0.00061511993,
+        "THREAT": 0.0065568537,
+        "TOXICITY": 0.021785567,
+        "text": " For those on the Democratic aisle who says, say, there is no evidence they've been rejected, then you should rest in comfort.  If that's the case, an electoral commission would reject those claims"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0047172266,
+        "INSULT": 0.058475737,
+        "PROFANITY": 0.016342908,
+        "SEVERE_TOXICITY": 0.005645752,
+        "THREAT": 0.061412923,
+        "TOXICITY": 0.16851899,
+        "text": " But for those who respect the voters simply telling the voters, go jump in a lake, the fact that you have deep concerns is of no moment to us that jeopardizes, I believe, the legitimacy of this and subsequent elections.  We can handle the truth"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0028673338,
+        "INSULT": 0.009089886,
+        "PROFANITY": 0.011236101,
+        "SEVERE_TOXICITY": 0.00059843063,
+        "THREAT": 0.006246155,
+        "TOXICITY": 0.014702292,
+        "text": " And ultimately the truth is what this is all about, getting to it, finding out what is real, what is not, what actually happened in this election.  It is essential our entire system rests on the premise that we believe there is a good faith and there is a fairness in the operating procedures of this Republic"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0027193425,
+        "INSULT": 0.016024929,
+        "PROFANITY": 0.011902207,
+        "SEVERE_TOXICITY": 0.0007724762,
+        "THREAT": 0.0064015044,
+        "TOXICITY": 0.03109552,
+        "text": " Senator Ted Cruz there speaking well to that point.  And yet do we feel any better about it today than we did yesterday? No, of course, we feel most likely considerably worse"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008176526,
+        "INSULT": 0.010856897,
+        "PROFANITY": 0.017026093,
+        "SEVERE_TOXICITY": 0.0014305115,
+        "THREAT": 0.008712323,
+        "TOXICITY": 0.02873857,
+        "text": " Why is that? Let's first start with why people were marching in DC yesterday.  Let's start on that issue because it's many things"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0034223017,
+        "INSULT": 0.028722567,
+        "PROFANITY": 0.011970525,
+        "SEVERE_TOXICITY": 0.0008869171,
+        "THREAT": 0.006485652,
+        "TOXICITY": 0.055768944,
+        "text": " The media and the focus is on those who believe that this was a stolen election.  And that is certainly a big part, perhaps a majority of all of the concern and anger out there on the streets"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0046247323,
+        "INSULT": 0.012072904,
+        "PROFANITY": 0.011441057,
+        "SEVERE_TOXICITY": 0.0008201599,
+        "THREAT": 0.006492125,
+        "TOXICITY": 0.024260364,
+        "text": " But what else was motivating this? Why do people feel the need to take time out of their lives in a very difficult year with a lot of stresses around us because of COVID and everything else? Why would hundreds of thousands of people gather together in DC to make their voices heard? We have been drifting as a nation toward a culture politically, socially, where there is no middle ground allowed.  There's no dissent allowed"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0060676485,
+        "INSULT": 0.028392024,
+        "PROFANITY": 0.018324144,
+        "SEVERE_TOXICITY": 0.0012016296,
+        "THREAT": 0.006738094,
+        "TOXICITY": 0.063423134,
+        "text": " The rights of political minorities are increasingly trampled on.  And there is an incredibly powerful system, one that even goes beyond what you've seen and some of the other authoritarian regimes of history in that it is entirely capable of leveraging information technology, the global marketplace, wealth on his scale that human beings have never seen to brainwash, to control, to determine"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003921773,
+        "INSULT": 0.020772645,
+        "PROFANITY": 0.022013342,
+        "SEVERE_TOXICITY": 0.0015830994,
+        "THREAT": 0.007689608,
+        "TOXICITY": 0.050573748,
+        "text": " And it feels like a rigged gate.  It feels as though what we do does not really change very much"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0047727237,
+        "INSULT": 0.01617693,
+        "PROFANITY": 0.0157622,
+        "SEVERE_TOXICITY": 0.0011062622,
+        "THREAT": 0.0074565844,
+        "TOXICITY": 0.037105743,
+        "text": " And it feels as though we're not allowed to even raise that up anymore and talk about it publicly for fear of being ostracized by these social media companies that I know that we have to get used to this idea.  Social media is not something that kids use now just to say hi to each other and communicate"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0045692353,
+        "INSULT": 0.008557882,
+        "PROFANITY": 0.011355659,
+        "SEVERE_TOXICITY": 0.000667572,
+        "THREAT": 0.0062914654,
+        "TOXICITY": 0.014073989,
+        "text": " Social media is a dominant force in the flow of information in this country and around the world.  It is more powerful than the traditional media because it determines what traditional media you get to see"
+    },
+    {
+        "IDENTITY_ATTACK": 0.019475231,
+        "INSULT": 0.025800243,
+        "PROFANITY": 0.012517073,
+        "SEVERE_TOXICITY": 0.0013923645,
+        "THREAT": 0.0065050707,
+        "TOXICITY": 0.067380086,
+        "text": " Wokeness.  This is another way of describing political orthodoxy of the left and wokeness is ever evolving because ultimately its true goal is not changing society so that everybody is equal"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.24561718,
+        "PROFANITY": 0.04291453,
+        "SEVERE_TOXICITY": 0.0046157837,
+        "THREAT": 0.007145886,
+        "TOXICITY": 0.27412915,
+        "text": " Its true goal is just power and then it will figure out what it decides to do because it doesn't even know what it wants.  Why does it feel like there is an inherent schizophrenia in the Democrat left's woke ideology because there is"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010507392,
+        "INSULT": 0.02708937,
+        "PROFANITY": 0.011765569,
+        "SEVERE_TOXICITY": 0.001168251,
+        "THREAT": 0.0076119336,
+        "TOXICITY": 0.05799546,
+        "text": " There are multiple personalities at war with each other inside of the Democrat mind on this issue because you can never be sure that you're woken up.  It has to constantly evolve and seek out new targets"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003884775,
+        "INSULT": 0.030595649,
+        "PROFANITY": 0.016411226,
+        "SEVERE_TOXICITY": 0.0014019012,
+        "THREAT": 0.0077672824,
+        "TOXICITY": 0.08716487,
+        "text": " It's effectively a colonial project for the mind.  It is dominating your consciousness"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008435511,
+        "INSULT": 0.039151907,
+        "PROFANITY": 0.02522431,
+        "SEVERE_TOXICITY": 0.0022125244,
+        "THREAT": 0.007301235,
+        "TOXICITY": 0.09785384,
+        "text": " That's what it seeks to do and that it can entirely control you and then figure out how to create an entirely equal society and what would that even look like as we know societies that put the greatest emphasis on achieving absolute equality, achieve the exact opposite and history speaks very clearly on that.  So people are upset because of all of these things and then also we have suffered through the single worst year in terms of our individual freedoms, in terms of government overreach, of my lifetime"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0039402717,
+        "INSULT": 0.011540901,
+        "PROFANITY": 0.011458136,
+        "SEVERE_TOXICITY": 0.000910759,
+        "THREAT": 0.0066733654,
+        "TOXICITY": 0.021785567,
+        "text": " But they use this idea that the government can protect you from COVID to justify all of it.  They use the notion that if you only listen, you'll be saving lives, you'll be protecting people"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0027563404,
+        "INSULT": 0.013744914,
+        "PROFANITY": 0.011116544,
+        "SEVERE_TOXICITY": 0.00094890594,
+        "THREAT": 0.008272167,
+        "TOXICITY": 0.030741978,
+        "text": " And if you're not willing to listen, if you want to dissent, you are putting people at risk.  This was a recipe for absolute control and they've edged closer and closer to that this year than I thought would be possible honestly in my lifetime"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003903274,
+        "INSULT": 0.014580919,
+        "PROFANITY": 0.012141321,
+        "SEVERE_TOXICITY": 0.0012207031,
+        "THREAT": 0.007327127,
+        "TOXICITY": 0.03592727,
+        "text": " And for what? Are we safer from COVID with think of all the government mandates and shutdowns that everything they've done does anyone look at what's happening right now in the country with hospitalizations and cases and think anything other than the virus is going to virus.  It spreads"
+    },
+    {
+        "IDENTITY_ATTACK": 0.002552852,
+        "INSULT": 0.01648093,
+        "PROFANITY": 0.01084327,
+        "SEVERE_TOXICITY": 0.0008773804,
+        "THREAT": 0.006757513,
+        "TOXICITY": 0.032156147,
+        "text": " You do your best to stay healthy and stay away from it, but the government cannot protect you.  Am I missing something? Where's the example of great government success in this? You had Operation Warp Speed, which is a success, but the distribution of this vaccine is already a cluster"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0029043318,
+        "INSULT": 0.012528907,
+        "PROFANITY": 0.0108774295,
+        "SEVERE_TOXICITY": 0.000705719,
+        "THREAT": 0.0064532873,
+        "TOXICITY": 0.023199737,
+        "text": " And then you look at all the lockdown, the masking, all these policies, they have instituted.  And for what? Does it feel like the journalists who are supposed to be speaking truth to power, these media companies that have gotten in many cases, especially the social media companies, wealthier, more influential during lockdown, because we are now replacing human contact and living life with screens"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00362579,
+        "INSULT": 0.011084898,
+        "PROFANITY": 0.01220964,
+        "SEVERE_TOXICITY": 0.00077724457,
+        "THREAT": 0.006485652,
+        "TOXICITY": 0.019603057,
+        "text": " We all live our life now.  If you're working remotely, unless you're an essential and you have to actually go into your job, we're living our life just in front of these screens"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004846719,
+        "INSULT": 0.030265106,
+        "PROFANITY": 0.023516348,
+        "SEVERE_TOXICITY": 0.0020980835,
+        "THREAT": 0.011223801,
+        "TOXICITY": 0.09481675,
+        "text": " We're being bombarded with information that's destructive often, that's false, that's vicious, and that has an agenda, and that's really almost all the time.  And we're replacing those basic bonds of human contact that remind us all that we are in this together, and we are all on borrowed time"
+    },
+    {
+        "IDENTITY_ATTACK": 0.026408968,
+        "INSULT": 0.026058068,
+        "PROFANITY": 0.017299367,
+        "SEVERE_TOXICITY": 0.0014686584,
+        "THREAT": 0.0063497215,
+        "TOXICITY": 0.07608539,
+        "text": " And when we're talking about Americans, our fellow Americans, we're losing sight of the fact that we live in the greatest country in the history of the planet.  That's an amazing statement, isn't it? And I'm sorry if it sounds a little hokey today"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0068076057,
+        "INSULT": 0.020063626,
+        "PROFANITY": 0.022149978,
+        "SEVERE_TOXICITY": 0.001373291,
+        "THREAT": 0.0067769317,
+        "TOXICITY": 0.04686289,
+        "text": " I'm sorry if it's a little bit corny to some of you, but we right now are living in the greatest country in the greatest wealthiest, happiest time in human history.  And we are lucky to be here"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0042177555,
+        "INSULT": 0.008994885,
+        "PROFANITY": 0.01309778,
+        "SEVERE_TOXICITY": 0.0013065338,
+        "THREAT": 0.010395273,
+        "TOXICITY": 0.025203144,
+        "text": " And we need to preserve it.  Yes, we need to fight for it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.028016793,
+        "INSULT": 0.12159709,
+        "PROFANITY": 0.059447967,
+        "SEVERE_TOXICITY": 0.008583069,
+        "THREAT": 0.13549154,
+        "TOXICITY": 0.25727063,
+        "text": " We don't understand what's so great about it.  But what I see out there right now is this, this ideological cancer of destroy, destroy the dissenters, destroy those who believe in liberty, in limitations on government, destroy those who think the Constitution is supposed to prevent all the great plans is that the experts are conjuring up for us"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006622616,
+        "INSULT": 0.017485369,
+        "PROFANITY": 0.014293353,
+        "SEVERE_TOXICITY": 0.0011968613,
+        "THREAT": 0.0074306927,
+        "TOXICITY": 0.04067813,
+        "text": " Isn't this year of the lockdown? Isn't 2020, I know we're in 2021 now, but I'm thinking about the last 12 months, isn't it a repudiation of the elites and of government control? It doesn't feel like they think that that's for sure.  We were very aware of that, but anybody who's being honest about it would say, we need a return to first principles here in this country"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0038477771,
+        "INSULT": 0.007835878,
+        "PROFANITY": 0.012858666,
+        "SEVERE_TOXICITY": 0.000872612,
+        "THREAT": 0.007145886,
+        "TOXICITY": 0.013068704,
+        "text": " We need an understanding of what it is that we are seeking to create in our society every day.  And for us to get there, we need to have a combination of things all come together at once"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0031263188,
+        "INSULT": 0.012300906,
+        "PROFANITY": 0.011628932,
+        "SEVERE_TOXICITY": 0.0008010864,
+        "THREAT": 0.007094103,
+        "TOXICITY": 0.025085296,
+        "text": " We need a relentless, unapologetic search for the truth.  We need the courage and bravery to stand for our principles"
+    },
+    {
+        "IDENTITY_ATTACK": 0.042550452,
+        "INSULT": 0.25800487,
+        "PROFANITY": 0.10054382,
+        "SEVERE_TOXICITY": 0.0050735474,
+        "THREAT": 0.007598988,
+        "TOXICITY": 0.2854699,
+        "text": " And we have to remember that at the end of the day, what we're all trying to do.  All of us who are approaching this in good faith with love and reverence for the history of this country, for this amazing nation, is to make this a better place for all of us, even the wackos, even the people of Antifa"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011469335,
+        "INSULT": 0.011084898,
+        "PROFANITY": 0.013576009,
+        "SEVERE_TOXICITY": 0.0011825562,
+        "THREAT": 0.007922632,
+        "TOXICITY": 0.029327808,
+        "text": " I want a better America that they are fortunate to live in because our ideas prevail.  And I know that can be a hard thing"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011543332,
+        "INSULT": 0.029163294,
+        "PROFANITY": 0.036651865,
+        "SEVERE_TOXICITY": 0.009994507,
+        "THREAT": 0.34804323,
+        "TOXICITY": 0.25084448,
+        "text": " You want to think about about destroying your enemy sometimes.  You want to think about defeating the other side"
+    },
+    {
+        "IDENTITY_ATTACK": 0.052490227,
+        "INSULT": 0.5723624,
+        "PROFANITY": 0.12374964,
+        "SEVERE_TOXICITY": 0.01159668,
+        "THREAT": 0.009230154,
+        "TOXICITY": 0.5024724,
+        "text": " And we want to win at the ballot box.  We want to win on the battlefield of ideas, but isn't it this beautiful thing about this country, that victory achieved the right way means that it's a better country for all of us, even the leftists, even the losers, even the crazies"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008065533,
+        "INSULT": 0.009127886,
+        "PROFANITY": 0.011509376,
+        "SEVERE_TOXICITY": 0.0010633469,
+        "THREAT": 0.0068999166,
+        "TOXICITY": 0.019100413,
+        "text": " It's a better America that's more secure, more rule of law, more prosperity, more individual liberty.  That is what that's why I show up every day"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0044767405,
+        "INSULT": 0.013820915,
+        "PROFANITY": 0.018324144,
+        "SEVERE_TOXICITY": 0.0012397766,
+        "THREAT": 0.008375733,
+        "TOXICITY": 0.032156147,
+        "text": " That's why we do this thing that we're doing here on this show.  So I think a return to those first principles for all of us at this moment, when I know so many feel, dejected, feel like they have been cast aside and feel like we had a momentum"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0021181274,
+        "INSULT": 0.008006879,
+        "PROFANITY": 0.010433359,
+        "SEVERE_TOXICITY": 0.0007390976,
+        "THREAT": 0.00636914,
+        "TOXICITY": 0.013257195,
+        "text": " We had a moment and it lasted for three years.  The COVID year was something else"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008139528,
+        "INSULT": 0.010932897,
+        "PROFANITY": 0.010689554,
+        "SEVERE_TOXICITY": 0.00086307526,
+        "THREAT": 0.00666042,
+        "TOXICITY": 0.023553278,
+        "text": " The COVID year through the whole project of making America great again into this different cycle.  We were just all locked down and trying to stay alive, trying to do what we can to help our neighbors and prevent the government from shutting down more businesses and more churches than they already were"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0065486208,
+        "INSULT": 0.08582769,
+        "PROFANITY": 0.021466793,
+        "SEVERE_TOXICITY": 0.001964569,
+        "THREAT": 0.007754337,
+        "TOXICITY": 0.15932569,
+        "text": " There's a lot of anger out there and that's not going to go away, but we have to explore together honestly what is working for us, what can we do, and what does the future look like? The reasons for the march yesterday in DC were patriotic and decent and I support them and I'm with them and we have to also know that we maintain principles even in the face of the most vicious, underhanded, cheating, maniacal opposition.  We cannot become that which we seek to defeat"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00673361,
+        "INSULT": 0.011958904,
+        "PROFANITY": 0.020510335,
+        "SEVERE_TOXICITY": 0.0015544891,
+        "THREAT": 0.008841781,
+        "TOXICITY": 0.03109552,
+        "text": " And I don't think we're even close to it and we're going to talk about the double standards and all this.  We're going to discuss all that through that on the show"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0093974555,
+        "INSULT": 0.0113889,
+        "PROFANITY": 0.014566627,
+        "SEVERE_TOXICITY": 0.0012302399,
+        "THREAT": 0.007314181,
+        "TOXICITY": 0.026970858,
+        "text": " But let's all just take this moment to remember why it is that we do what we do and what makes us who we are as patriots, conservatives, Americans.  What is it that is so special about all? Or else why not just go live in New Zealand? Why not just move to some other place? Right? No, we understand that there's something special about this and we continue to fight for it and we'll do everything we can to preserve it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004643231,
+        "INSULT": 0.0113509,
+        "PROFANITY": 0.013780965,
+        "SEVERE_TOXICITY": 0.0012683868,
+        "THREAT": 0.010265815,
+        "TOXICITY": 0.032156147,
+        "text": " When or lose my friends, that is our mentality.  We are warriors for the cause of our ideological battles knowing that there is no guaranteed result, but that the fight is worth having anyway"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0046247323,
+        "INSULT": 0.00971689,
+        "PROFANITY": 0.015386449,
+        "SEVERE_TOXICITY": 0.0014019012,
+        "THREAT": 0.008582866,
+        "TOXICITY": 0.01834645,
+        "text": " Thanks for listening to the Buck Sexton Show podcast.  Get the latest news and information from Buck by heading to Bucksexton"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0026453468,
+        "INSULT": 0.0069048726,
+        "PROFANITY": 0.010655395,
+        "SEVERE_TOXICITY": 0.00056266785,
+        "THREAT": 0.0064015044,
+        "TOXICITY": 0.008482091,
+        "text": "com.  And we will always be grateful to the men and women who stayed at their posts to defend this historic place"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008879486,
+        "INSULT": 0.027218282,
+        "PROFANITY": 0.013712646,
+        "SEVERE_TOXICITY": 0.003376007,
+        "THREAT": 0.038220957,
+        "TOXICITY": 0.11192002,
+        "text": " To those who wreaked havoc in our capital today, you did not win.  Violence never wins"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0029598286,
+        "INSULT": 0.009032886,
+        "PROFANITY": 0.010740792,
+        "SEVERE_TOXICITY": 0.0008916855,
+        "THREAT": 0.006977591,
+        "TOXICITY": 0.016210219,
+        "text": " Freedom wins.  And this is still the people's house"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0066596144,
+        "INSULT": 0.015568925,
+        "PROFANITY": 0.014088398,
+        "SEVERE_TOXICITY": 0.0014781952,
+        "THREAT": 0.009929225,
+        "TOXICITY": 0.045625936,
+        "text": " And as we reconvene in this chamber, the world will again witness the resilience and strength of our democracy for even in the wake of unprecedented violence and vandalism at this capital.  The elected representatives of the people of the United States have assembled again on the very same day to support and defend the Constitution of the United States"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009619443,
+        "INSULT": 0.031256735,
+        "PROFANITY": 0.026044132,
+        "SEVERE_TOXICITY": 0.0022125244,
+        "THREAT": 0.008375733,
+        "TOXICITY": 0.085582085,
+        "text": " Let me ask you, do you think that vice president Pence is a good man? Do you think that he loves this country? Do you think that he knows as well as really anyone with perhaps the exception of the president himself? How much is it stake here and how much could have been done for the good of the country had this election outcome been different? I think we have to approach some of these some of these questions in a systematic way so we can all ground ourselves here at a moment of particular disappointment and all this frenzy of people that are now pointing fingers at each other and everything else.  What's really happened here, my friends, is we've come to a recognition and it's one that I've been trying to to edge us toward here and I appreciate so much that all of you know that what I'm telling you, I think this thing is going to happen"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0041067624,
+        "INSULT": 0.019483518,
+        "PROFANITY": 0.013371054,
+        "SEVERE_TOXICITY": 0.0010299683,
+        "THREAT": 0.00704232,
+        "TOXICITY": 0.039935954,
+        "text": " It's not what I'm talking about the Biden Harris presidency, which is happening.  When I say that it's not to antagonize, it's not because I like taking some kind of a sour position or anything else, it's because we need to get ready for what's coming psychologically and emotionally"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003884775,
+        "INSULT": 0.011768902,
+        "PROFANITY": 0.01402008,
+        "SEVERE_TOXICITY": 0.0011920929,
+        "THREAT": 0.008440462,
+        "TOXICITY": 0.031684756,
+        "text": " We need to be prepared for this because it's happening.  I've been saying it for weeks and there are a lot of people out there and I don't like to do this"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0028673338,
+        "INSULT": 0.015188923,
+        "PROFANITY": 0.0127561875,
+        "SEVERE_TOXICITY": 0.00091552734,
+        "THREAT": 0.0065568537,
+        "TOXICITY": 0.032863233,
+        "text": " Oh, you know, the other hosts and so there are a lot of people that are playing this game and they're pretending that there was some last-minute secret that was going to save us from this.  I'm sorry"
+    },
+    {
+        "IDENTITY_ATTACK": 0.023796257,
+        "INSULT": 0.03070583,
+        "PROFANITY": 0.043415543,
+        "SEVERE_TOXICITY": 0.005607605,
+        "THREAT": 0.063999176,
+        "TOXICITY": 0.15711457,
+        "text": " I look at you, my fellow Americans, my friendly patriots, team buck.  I see all of you across the country and I feel like I'm here with you waiting for this onslaught"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0057346676,
+        "INSULT": 0.023221988,
+        "PROFANITY": 0.022218296,
+        "SEVERE_TOXICITY": 0.0030708313,
+        "THREAT": 0.01698343,
+        "TOXICITY": 0.09611836,
+        "text": " I'm not going to promise you that the cavalry is going to come over.  They hill and we're not even going to have to take any losses metaphorically speaking"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0032188136,
+        "INSULT": 0.0118069025,
+        "PROFANITY": 0.012961143,
+        "SEVERE_TOXICITY": 0.0007247925,
+        "THREAT": 0.0065050707,
+        "TOXICITY": 0.023671126,
+        "text": " I'm not going to make that promise because I don't believe it because it's not true.  Vice President Pence, I think you would agree with me, is a good man who has been very loyal to this president, very loyal to the manga agenda and he is doing his best for America under the circumstances"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0017296498,
+        "INSULT": 0.014580919,
+        "PROFANITY": 0.010945748,
+        "SEVERE_TOXICITY": 0.000603199,
+        "THREAT": 0.006194372,
+        "TOXICITY": 0.024613906,
+        "text": " And he has been put in a very difficult position.  The people who are turning on vice president Pence right now, I think, are forgetting that the actions up to this point of individuals should have already shown us what, you know, the totality of the actions of people like Mike Pence should show us that we've done what we can"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0023863618,
+        "INSULT": 0.015948927,
+        "PROFANITY": 0.014703264,
+        "SEVERE_TOXICITY": 0.00096321106,
+        "THREAT": 0.007909686,
+        "TOXICITY": 0.041172907,
+        "text": " It is possible.  And I, if I can, it's almost painful to say this out loud"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005105704,
+        "INSULT": 0.012072904,
+        "PROFANITY": 0.017162729,
+        "SEVERE_TOXICITY": 0.0013637543,
+        "THREAT": 0.009566744,
+        "TOXICITY": 0.035220183,
+        "text": " It is possible friends that we gave it.  Everything we had and we're fighting with everything we've got through all the mechanisms at our disposal and we still lost"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0043102503,
+        "INSULT": 0.06285016,
+        "PROFANITY": 0.023379711,
+        "SEVERE_TOXICITY": 0.0020885468,
+        "THREAT": 0.00713294,
+        "TOXICITY": 0.1460314,
+        "text": " And whether it's lost through cheating or lost through through legitimate victory, even with some degree of cheating, which is assured.  Of course, I mean, so please don't, you don't need to tell me, but you don't think there was, you know, of course, there was cheating"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0029783275,
+        "INSULT": 0.031146556,
+        "PROFANITY": 0.020851927,
+        "SEVERE_TOXICITY": 0.0014019012,
+        "THREAT": 0.0068287146,
+        "TOXICITY": 0.09611836,
+        "text": " I don't know how much cheating.  I suspect it was substantial, but if you can't prove it, it doesn't matter"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0047727237,
+        "INSULT": 0.009982891,
+        "PROFANITY": 0.013029462,
+        "SEVERE_TOXICITY": 0.0010156631,
+        "THREAT": 0.008362788,
+        "TOXICITY": 0.022964042,
+        "text": " We are dealing with that sense of loss now, but with that loss also comes a recognition that we do have so much left to fight for and so much more ahead of us.  And also see the way the other side is seizing upon this moment and understand that we're in for a whole new level of fight, my friends"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0045507364,
+        "INSULT": 0.0116169015,
+        "PROFANITY": 0.013268576,
+        "SEVERE_TOXICITY": 0.00082969666,
+        "THREAT": 0.007145886,
+        "TOXICITY": 0.026735162,
+        "text": " I'm not afraid of conflict by peaceful means.  The peaceful people in my state, no glom, I want their questions answered, but they don't want this"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003921773,
+        "INSULT": 0.009032886,
+        "PROFANITY": 0.013302735,
+        "SEVERE_TOXICITY": 0.0009059906,
+        "THREAT": 0.00713294,
+        "TOXICITY": 0.017592486,
+        "text": " What happened today? They want to do the right thing and they also want to do it the right way.  They want to answer on the constitutional process, but they also want to have debate about election security because they want to make sure it's right, which is why it's an important issue that still needs to be resolved"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0022661188,
+        "INSULT": 0.00817788,
+        "PROFANITY": 0.01086035,
+        "SEVERE_TOXICITY": 0.00058174133,
+        "THREAT": 0.0063367756,
+        "TOXICITY": 0.012000589,
+        "text": " Transparency and government just doesn't seem like a bad idea.  Obviously, the commission that we have asked for is not going to happen at this point and understand that, and we're headed towards tonight towards the certification of Joe Biden to be the president of the United States, and we will work together in this body to be able to set a peaceful example the days ahead"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0023493639,
+        "INSULT": 0.00821588,
+        "PROFANITY": 0.010467518,
+        "SEVERE_TOXICITY": 0.0006198883,
+        "THREAT": 0.0066151097,
+        "TOXICITY": 0.011937759,
+        "text": " That was GOP Senator James Langford, who was addressing the Congress last night on the floor of the Senate when he was saying, there's not going to be some commission and this is it.  This election is done"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0029783275,
+        "INSULT": 0.019483518,
+        "PROFANITY": 0.016616182,
+        "SEVERE_TOXICITY": 0.0009870529,
+        "THREAT": 0.006485652,
+        "TOXICITY": 0.048594624,
+        "text": " That's where we are.  I understand that that's so disappointed to hear"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009175468,
+        "INSULT": 0.0777699,
+        "PROFANITY": 0.2564132,
+        "SEVERE_TOXICITY": 0.0063323975,
+        "THREAT": 0.008712323,
+        "TOXICITY": 0.23415339,
+        "text": " For those who are, and look, I always welcome the criticism from people that I consider to be my side, my own team when it's in good faith.  When people write in with all caps, lots of curse words and say terrible things about me, I'm like, what is that accomplishing? But anybody who has a valid or a, I shouldn't even say valid has a good faith criticism"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004587734,
+        "INSULT": 0.010552894,
+        "PROFANITY": 0.01490822,
+        "SEVERE_TOXICITY": 0.0010299683,
+        "THREAT": 0.007547205,
+        "TOXICITY": 0.02107848,
+        "text": " I welcome it in sometimes.  Sometimes people write into this show and I read in the first thing I think when I read their comments about something that I've said or about a direction we've gone editorially is they're right"
+    },
+    {
+        "IDENTITY_ATTACK": 0.002330865,
+        "INSULT": 0.008956885,
+        "PROFANITY": 0.012482914,
+        "SEVERE_TOXICITY": 0.00084877014,
+        "THREAT": 0.007094103,
+        "TOXICITY": 0.016964182,
+        "text": " That does happen.  That does, I would admit that to you"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006881601,
+        "INSULT": 0.011122898,
+        "PROFANITY": 0.016821137,
+        "SEVERE_TOXICITY": 0.0013160706,
+        "THREAT": 0.00756015,
+        "TOXICITY": 0.026145924,
+        "text": " I know that there's a whole a kind of radio industry built around people who are never, never wrong.  I don't do that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0046247323,
+        "INSULT": 0.013364912,
+        "PROFANITY": 0.016342908,
+        "SEVERE_TOXICITY": 0.0012159348,
+        "THREAT": 0.0072753434,
+        "TOXICITY": 0.031684756,
+        "text": " So that does happen.  So don't think that I read these things and don't realize that's a completely valid point or even more than that that they're, they're right in I'm wrong"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006770608,
+        "INSULT": 0.010476895,
+        "PROFANITY": 0.016889455,
+        "SEVERE_TOXICITY": 0.0012779236,
+        "THREAT": 0.008492245,
+        "TOXICITY": 0.02402467,
+        "text": " So for those who were telling me, and I think we have to have this, this is like a family discussion.  Now that's how I view this"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006511623,
+        "INSULT": 0.011008898,
+        "PROFANITY": 0.02303812,
+        "SEVERE_TOXICITY": 0.0017547607,
+        "THREAT": 0.008686432,
+        "TOXICITY": 0.024967449,
+        "text": " I sit here talking to all of you as I would if there had been some incident, you know, with with my my cousins or something, and we're all sitting down at the table to have a a discussion about what's gone on so we can move forward in the, in the most positive fashion because not only am I on your team, I want to be a leader on your team.  I want to be somebody you can always count on that you know is there for you"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003385304,
+        "INSULT": 0.0113889,
+        "PROFANITY": 0.013985921,
+        "SEVERE_TOXICITY": 0.001168251,
+        "THREAT": 0.007586042,
+        "TOXICITY": 0.024613906,
+        "text": " You can trust me.  I tell you the truth"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004384246,
+        "INSULT": 0.018323302,
+        "PROFANITY": 0.010330882,
+        "SEVERE_TOXICITY": 0.0007009506,
+        "THREAT": 0.0062332097,
+        "TOXICITY": 0.032627538,
+        "text": " I stand on the principles we share and I even will show some courage and public about difficult issues, but sometimes courage means telling people things that aren't necessarily going to appeal to them.  And I think one of the one of the challenges that we've had in the Trump era on the right is that there has been very little space for that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009545447,
+        "INSULT": 0.056133457,
+        "PROFANITY": 0.027547138,
+        "SEVERE_TOXICITY": 0.0024604797,
+        "THREAT": 0.00746953,
+        "TOXICITY": 0.11036996,
+        "text": " There's really been, and I'll just say there's really been almost no market for trying to criticize the Trump agenda from or rather from a Trump administration, not the agenda, the Trump administration from a perspective of how can we be more effective in achieving goals that this presidency set out for? How can we do a better job of getting these things? Now, we created a bit of a, a bit of a silo where all of the public commentary went into this one place and it was Trump is awesome and he's doing all these amazing things.  And we weren't allowed to say Trump is awesome, but I wish he would or Trump is doing a great job on this, but you sit here and you say, well, one place and for those you were wondering what have you said about this book, that would be an example of this"
+    },
+    {
+        "IDENTITY_ATTACK": 0.019475231,
+        "INSULT": 0.46476576,
+        "PROFANITY": 0.085167445,
+        "SEVERE_TOXICITY": 0.008621216,
+        "THREAT": 0.0077802283,
+        "TOXICITY": 0.40614098,
+        "text": " Trump's picks for his advisors and for some of his White House personnel was, was abominable.  I mean, it was truly awful"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0027378413,
+        "INSULT": 0.018774498,
+        "PROFANITY": 0.014464149,
+        "SEVERE_TOXICITY": 0.0010728836,
+        "THREAT": 0.0065244893,
+        "TOXICITY": 0.039462693,
+        "text": " And there was a lot of, a lot of well, he can't trust anybody or well, you know, he meets family members around him or all these things.  You know, at some point, you can kind of justify anything in this realm"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0037922803,
+        "INSULT": 0.017420914,
+        "PROFANITY": 0.012995303,
+        "SEVERE_TOXICITY": 0.0008010864,
+        "THREAT": 0.0064079775,
+        "TOXICITY": 0.034984488,
+        "text": " Is it serving the president to do that? Is it serving the agenda? Is it serving all of us? What the president of being in the office? I know he was entertaining and he is tweets, we're amazing, but ultimately he was trying to achieve things for you and for me.  Some of them he did, but some of them he didn't"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0037367835,
+        "INSULT": 0.011996903,
+        "PROFANITY": 0.015830519,
+        "SEVERE_TOXICITY": 0.0012683868,
+        "THREAT": 0.007301235,
+        "TOXICITY": 0.026263772,
+        "text": " Is anybody want to argue now that we have a big beautiful wall from sea to, uh, sea to shining sea? We do not.  And I know that there are all these reasons in there, but we would have been more effective in getting some of these things done if there had been more room to, to be able to say, I'm on the team, but, you know, this needs to be done differently"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0037182847,
+        "INSULT": 0.0140109155,
+        "PROFANITY": 0.014600786,
+        "SEVERE_TOXICITY": 0.0010585785,
+        "THREAT": 0.006265574,
+        "TOXICITY": 0.029799197,
+        "text": " I'm sure many of you have played team sports.  Many of you have, you know, you've been on a football team or a basketball or lacrosse or whatever"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008546505,
+        "INSULT": 0.022899706,
+        "PROFANITY": 0.035649836,
+        "SEVERE_TOXICITY": 0.0033569336,
+        "THREAT": 0.010214032,
+        "TOXICITY": 0.08320791,
+        "text": " And you know, you all come together in the huddle.  Is it, is it a good thing to say guys, we're down by, we're down by a lot at halftime, but you know what? We're amazing"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004920715,
+        "INSULT": 0.014504919,
+        "PROFANITY": 0.0118338885,
+        "SEVERE_TOXICITY": 0.0009775162,
+        "THREAT": 0.0069387536,
+        "TOXICITY": 0.03015274,
+        "text": " Let's do everything exactly the same way we're doing.  Let's say that there was a lot of that within the GOP and you know that you know, I'm telling you the truth"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0032928092,
+        "INSULT": 0.014580919,
+        "PROFANITY": 0.01309778,
+        "SEVERE_TOXICITY": 0.0012016296,
+        "THREAT": 0.0071847234,
+        "TOXICITY": 0.03357032,
+        "text": " Every single one of you knows that I'm telling you the truth right now.  There was a lot of that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0050687063,
+        "INSULT": 0.013402912,
+        "PROFANITY": 0.019348921,
+        "SEVERE_TOXICITY": 0.001707077,
+        "THREAT": 0.010239923,
+        "TOXICITY": 0.032156147,
+        "text": " It was well, hold on a second.  Maybe, maybe we need a greater focus on this or, you know, hold on"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0025343532,
+        "INSULT": 0.01306091,
+        "PROFANITY": 0.011389818,
+        "SEVERE_TOXICITY": 0.0006389618,
+        "THREAT": 0.0062785195,
+        "TOXICITY": 0.023906821,
+        "text": " Maybe the, the outreach that Kim Jong-un isn't, isn't a worthwhile expenditure of presidential time and resources.  And, you know, I'm not even saying that that was true or not"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00932346,
+        "INSULT": 0.02982438,
+        "PROFANITY": 0.017709278,
+        "SEVERE_TOXICITY": 0.0017356873,
+        "THREAT": 0.009307829,
+        "TOXICITY": 0.081625134,
+        "text": " I'm just pointing out if you said that you were shouted down.  If you, if you said that people thought that you were no longer on the team and, you know, the Democrats legally outmaneuvered"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0019146391,
+        "INSULT": 0.0075508766,
+        "PROFANITY": 0.010125926,
+        "SEVERE_TOXICITY": 0.00049829483,
+        "THREAT": 0.006194372,
+        "TOXICITY": 0.009047564,
+        "text": " And when I see legally, I don't mean that what they did was necessarily legal, but they understood that changing these processes for mail and balloting in these states, they knew that that was going to give them an enormous advantage going into the election.  And there needed to be legal challenges brought and put the mechanisms in place for accountability and integrity before the election"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0044767405,
+        "INSULT": 0.026831545,
+        "PROFANITY": 0.012312118,
+        "SEVERE_TOXICITY": 0.0009393692,
+        "THREAT": 0.0066927844,
+        "TOXICITY": 0.056016337,
+        "text": " The RNC and yes, the Trump campaign were asleep at the wheel on this.  Again, I know it's not comforting"
+    },
+    {
+        "IDENTITY_ATTACK": 0.002848835,
+        "INSULT": 0.01625293,
+        "PROFANITY": 0.016035475,
+        "SEVERE_TOXICITY": 0.0012397766,
+        "THREAT": 0.0082074385,
+        "TOXICITY": 0.0414203,
+        "text": " I am telling you the truth.  I know it's not exciting"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003644289,
+        "INSULT": 0.015036922,
+        "PROFANITY": 0.020920247,
+        "SEVERE_TOXICITY": 0.0018978119,
+        "THREAT": 0.008052089,
+        "TOXICITY": 0.049089402,
+        "text": " And, you know, it doesn't make us all feel warm and fuzzy.  This is what happened"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0027378413,
+        "INSULT": 0.012604907,
+        "PROFANITY": 0.012175481,
+        "SEVERE_TOXICITY": 0.0009012222,
+        "THREAT": 0.007314181,
+        "TOXICITY": 0.024260364,
+        "text": " And I think yesterday in a lot of ways, I don't mean the incident, even at Capitol Hill, I just mean the whole the takeaway from the day with the certification and everything else.  And all the people gathered in the DC was we now have to stare truth right in the face and handle it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009915425,
+        "INSULT": 0.012148905,
+        "PROFANITY": 0.02249157,
+        "SEVERE_TOXICITY": 0.0022697449,
+        "THREAT": 0.010369381,
+        "TOXICITY": 0.031684756,
+        "text": " We're there, friends.  We're there"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0039772694,
+        "INSULT": 0.007930879,
+        "PROFANITY": 0.010467518,
+        "SEVERE_TOXICITY": 0.00066280365,
+        "THREAT": 0.00675104,
+        "TOXICITY": 0.01237757,
+        "text": " The Democrats won these two Senate seats.  Democrats are going to be the next president and vice president have the presidency for the next four years"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004347248,
+        "INSULT": 0.011692902,
+        "PROFANITY": 0.010433359,
+        "SEVERE_TOXICITY": 0.00061035156,
+        "THREAT": 0.006246155,
+        "TOXICITY": 0.0201057,
+        "text": " The Democrats have control of the House, Nancy Pelosi and Chuck Schumer are going to be the two most powerful elected legislative officials in the country.  That's where we are"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0025713511,
+        "INSULT": 0.008766884,
+        "PROFANITY": 0.010228404,
+        "SEVERE_TOXICITY": 0.00071048737,
+        "THREAT": 0.0067963502,
+        "TOXICITY": 0.013445686,
+        "text": " And now we can get a little bit into the tactics here, the decision making.  Let's all understand this marching in DC"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008213525,
+        "INSULT": 0.076502606,
+        "PROFANITY": 0.028093686,
+        "SEVERE_TOXICITY": 0.0022506714,
+        "THREAT": 0.0067834044,
+        "TOXICITY": 0.15213956,
+        "text": " I am I was so pleased that people were overwhelmingly marching.  And this whole thing about being a peaceful, marginal, let's let's set a different standard, a law abiding march"
+    },
+    {
+        "IDENTITY_ATTACK": 0.04332388,
+        "INSULT": 0.36798462,
+        "PROFANITY": 0.058946952,
+        "SEVERE_TOXICITY": 0.0052261353,
+        "THREAT": 0.009540852,
+        "TOXICITY": 0.3389984,
+        "text": " Because remember, if we're going to have marches that don't abide by the laws, first of all, we're hypocrites because of the, do you know anybody that hammered BLM more than me in in June or in June of this year? I really ask you that a lot of Republicans are running scared.  Didn't want to be called"
+    },
+    {
+        "IDENTITY_ATTACK": 0.27662867,
+        "INSULT": 0.16831873,
+        "PROFANITY": 0.057944927,
+        "SEVERE_TOXICITY": 0.009498596,
+        "THREAT": 0.008738215,
+        "TOXICITY": 0.32128486,
+        "text": " Oh, that's racist.  Don't criticize BLM"
+    },
+    {
+        "IDENTITY_ATTACK": 0.029917859,
+        "INSULT": 0.022448512,
+        "PROFANITY": 0.022013342,
+        "SEVERE_TOXICITY": 0.0022888184,
+        "THREAT": 0.008789998,
+        "TOXICITY": 0.07845957,
+        "text": " Did I ever back down on that one? Was I ever saying, oh, you know, you know, be BLM.  We should we should concede to this group and everything else"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003921773,
+        "INSULT": 0.0140109155,
+        "PROFANITY": 0.013131939,
+        "SEVERE_TOXICITY": 0.0007343292,
+        "THREAT": 0.006530962,
+        "TOXICITY": 0.026617315,
+        "text": " No.  But we have to establish what our principles and I know that sounds a little a whole monitorish sometimes right? Oh, another person, another person in the media that's telling us about how we have their principles"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003866276,
+        "INSULT": 0.009165886,
+        "PROFANITY": 0.016616182,
+        "SEVERE_TOXICITY": 0.001335144,
+        "THREAT": 0.007340072,
+        "TOXICITY": 0.021196328,
+        "text": " Well, I try to conduct myself publicly, you know, as in a way where I'm proud of what I do.  And I can always look my family members and loved ones"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0051797,
+        "INSULT": 0.02051482,
+        "PROFANITY": 0.027410502,
+        "SEVERE_TOXICITY": 0.0013637543,
+        "THREAT": 0.007327127,
+        "TOXICITY": 0.058737632,
+        "text": " And people that matter most me in the eye and feel like I'm proud and they're proud of me because the way I conduct myself.  So I don't do, you know, I don't say horrific things to people"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0055866763,
+        "INSULT": 0.026444806,
+        "PROFANITY": 0.025907494,
+        "SEVERE_TOXICITY": 0.0019454956,
+        "THREAT": 0.008712323,
+        "TOXICITY": 0.083999306,
+        "text": " I don't go after people in deeply vicious personal ways and all this stuff.  I try to establish some boundaries"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0042732526,
+        "INSULT": 0.020385906,
+        "PROFANITY": 0.039657943,
+        "SEVERE_TOXICITY": 0.0023078918,
+        "THREAT": 0.009696201,
+        "TOXICITY": 0.079250954,
+        "text": " I try to work through, through my day to day of doing a show many, many hours of content, as you know, extemporaneous.  It's all just flowing out of my brain every day"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0050317086,
+        "INSULT": 0.009906891,
+        "PROFANITY": 0.017777596,
+        "SEVERE_TOXICITY": 0.0013160706,
+        "THREAT": 0.008026198,
+        "TOXICITY": 0.020960633,
+        "text": " And I try to do it in a way that is advancing things and making, I try to do things that make it better.  You know, that's, that's my approach"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010655383,
+        "INSULT": 0.024640027,
+        "PROFANITY": 0.038154904,
+        "SEVERE_TOXICITY": 0.003452301,
+        "THREAT": 0.010680079,
+        "TOXICITY": 0.09655223,
+        "text": " Now let's talk.  So why am I giving this preamble? Now let's talk about what happened at Capitol Hill because I had a lot of people, you know, I lost, you know, Twitter followers yesterday, not all of them obviously, but I like probably thousands of them and I had people that are writing to me saying, you know, what is the establishment done to get to me? Okay, just put aside everything else for a second, but put put aside that, you know, like so many others in my generation"
+    },
+    {
+        "IDENTITY_ATTACK": 0.024801146,
+        "INSULT": 0.0279513,
+        "PROFANITY": 0.034146797,
+        "SEVERE_TOXICITY": 0.004005432,
+        "THREAT": 0.020264024,
+        "TOXICITY": 0.12260055,
+        "text": " Instead of going to Wall Street, I joined the CIA so I could, I could quite literally be involved in the hunt for Osama bin Laden.  I mean, put aside that I, I actually try to put my money where my mouth is on, on different issues professionally and in my life, it's not about me"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006770608,
+        "INSULT": 0.018516673,
+        "PROFANITY": 0.035148825,
+        "SEVERE_TOXICITY": 0.0034332275,
+        "THREAT": 0.011482717,
+        "TOXICITY": 0.08004235,
+        "text": " Let's just look at this tactically.  We're having, we're having a hot wash here, friends"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0024418586,
+        "INSULT": 0.013896915,
+        "PROFANITY": 0.01127026,
+        "SEVERE_TOXICITY": 0.0010156631,
+        "THREAT": 0.007417747,
+        "TOXICITY": 0.030270588,
+        "text": " We're having a, an after action report.  What was the point of people going inside the Capitol yesterday, breaking the law, breaking windows and, and engaging in that behavior? What was that for, for, and I'm saying put, put aside whether you think that this is called for or not for a second"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005512681,
+        "INSULT": 0.026831545,
+        "PROFANITY": 0.02433617,
+        "SEVERE_TOXICITY": 0.0021457672,
+        "THREAT": 0.008414571,
+        "TOXICITY": 0.07371122,
+        "text": " And I have been very clear that I think that this was, I've called it a blunder.  I call it a blunder on Tucker Carlson show last night with four million people watching"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0068446035,
+        "INSULT": 0.022964163,
+        "PROFANITY": 0.018187506,
+        "SEVERE_TOXICITY": 0.0016593933,
+        "THREAT": 0.00823333,
+        "TOXICITY": 0.05799546,
+        "text": " But what was it going to accomplish? And I know it, I, it's we, we can't make people looking me there.  Oh, and some are, some are going to turn off, they're going to turn off the radio, right? No, the Trump podcast"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009434453,
+        "INSULT": 0.012414906,
+        "PROFANITY": 0.021535112,
+        "SEVERE_TOXICITY": 0.0025177002,
+        "THREAT": 0.010602405,
+        "TOXICITY": 0.031684756,
+        "text": " I am your friend.  We are in this together"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00414376,
+        "INSULT": 0.009640889,
+        "PROFANITY": 0.0157622,
+        "SEVERE_TOXICITY": 0.0011348724,
+        "THREAT": 0.0073918556,
+        "TOXICITY": 0.0201057,
+        "text": " And I'm speaking to you with respect and honesty because this audience, the, the, the greatest honor of my, my life to date has been the people to listen to this show in the numbers that they do with the trust and the respect that they do now going on many years.  And so I speak to you with that in mind"
+    },
+    {
+        "IDENTITY_ATTACK": 0.042550452,
+        "INSULT": 0.15414265,
+        "PROFANITY": 0.36230123,
+        "SEVERE_TOXICITY": 0.023076924,
+        "THREAT": 0.023544617,
+        "TOXICITY": 0.45921504,
+        "text": " And those of you who have met me in public, no, I, I light up.  I love when anybody from team buck comes up to me and says, Hey, are you bucks sex? Then I like your show or something"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00621564,
+        "INSULT": 0.009906891,
+        "PROFANITY": 0.021398475,
+        "SEVERE_TOXICITY": 0.0016498566,
+        "THREAT": 0.008285114,
+        "TOXICITY": 0.022728346,
+        "text": " It makes, every time it happens, it makes my day.  Every time it happens, it makes me feel like what I'm doing here is work well because invariably all, all the people that do listen to show that I meet in real life and that reach out to me and that I talk to and everything"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0071405866,
+        "INSULT": 0.0115029,
+        "PROFANITY": 0.018187506,
+        "SEVERE_TOXICITY": 0.001373291,
+        "THREAT": 0.007521313,
+        "TOXICITY": 0.024849601,
+        "text": " They're such good people.  There's that there's a fundamental decency and kindness and they're just solid"
+    },
+    {
+        "IDENTITY_ATTACK": 0.013646871,
+        "INSULT": 0.012756908,
+        "PROFANITY": 0.014600786,
+        "SEVERE_TOXICITY": 0.0012493134,
+        "THREAT": 0.006822242,
+        "TOXICITY": 0.03062413,
+        "text": " They're just solid Americans.  And so that's how I view everybody listens to the show"
+    },
+    {
+        "IDENTITY_ATTACK": 0.015053716,
+        "INSULT": 0.06337463,
+        "PROFANITY": 0.052934792,
+        "SEVERE_TOXICITY": 0.004119873,
+        "THREAT": 0.011586283,
+        "TOXICITY": 0.1373533,
+        "text": " And so that's why I also speak to the same way as I said, I would have there been some incident within my own family.  What was it going to accomplish to have the stormy capital Hill? It was going to do what? I mean, and for anybody who, I know a lot of you agree with me, by the way, and a lot of you feel like I'm, but there, there's, there's a contingent out there of people who are going to be listening right now and their approach will be, Oh, buck has gone soft or, Oh, I thought you supported this and, and I look out, I'll take all that heat and that's fine and, you know, all of you are more than entitled to your opinions"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01656105,
+        "INSULT": 0.016632931,
+        "PROFANITY": 0.019963788,
+        "SEVERE_TOXICITY": 0.0018310547,
+        "THREAT": 0.010032792,
+        "TOXICITY": 0.0466155,
+        "text": " But I'm going to, I'm speaking to those people now who disagree with me on this, but at least open to hearing my, my reasoning on it, or at least open to hearing why it is that I'm taking the position that I do.  What was it going to accomplish? So, so I can take a step back, what does BLM and what do Antifa think they accomplish by doing what they do? So we'll put a hold on even answering the question"
+    },
+    {
+        "IDENTITY_ATTACK": 0.028016793,
+        "INSULT": 0.06407392,
+        "PROFANITY": 0.023243073,
+        "SEVERE_TOXICITY": 0.005340576,
+        "THREAT": 0.035803676,
+        "TOXICITY": 0.16591948,
+        "text": " What does BLM and Antifa, what do they think they get out of, burning down stores, looting, rioting? And yes, I know they over the Kavanaugh hearing that, you know, flooded into the heart Senate building, uh, protesters, you know, went in there and huge numbers and this, this happened.  They took over the Capitol building in, uh, and was constant years ago, leftling protesters"
+    },
+    {
+        "IDENTITY_ATTACK": 0.035589635,
+        "INSULT": 0.029934563,
+        "PROFANITY": 0.02167175,
+        "SEVERE_TOXICITY": 0.002336502,
+        "THREAT": 0.012854968,
+        "TOXICITY": 0.11140333,
+        "text": " I know, but all that, why do they do that? They do it to intimidate people.  They do it so that every day Americans are scared to oppose them"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010137413,
+        "INSULT": 0.053791173,
+        "PROFANITY": 0.05393682,
+        "SEVERE_TOXICITY": 0.012574885,
+        "THREAT": 0.34876925,
+        "TOXICITY": 0.2854869,
+        "text": " It is about fear.  That is why they loot and burn down and destroy it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009360458,
+        "INSULT": 0.03566399,
+        "PROFANITY": 0.020920247,
+        "SEVERE_TOXICITY": 0.0021076202,
+        "THREAT": 0.009048914,
+        "TOXICITY": 0.11140333,
+        "text": " And it's about exercising their own feelings of rage and, and it's about self, it's self gratification and intimidation.  That's why they do it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00569767,
+        "INSULT": 0.012756908,
+        "PROFANITY": 0.019212283,
+        "SEVERE_TOXICITY": 0.0012588501,
+        "THREAT": 0.008285114,
+        "TOXICITY": 0.03592727,
+        "text": " I'm just going to say it.  That's not who we are"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0061046463,
+        "INSULT": 0.03588435,
+        "PROFANITY": 0.052183274,
+        "SEVERE_TOXICITY": 0.0028038025,
+        "THREAT": 0.012699619,
+        "TOXICITY": 0.14082454,
+        "text": " That's not who we are.  And everyone can get to get mad at me and everything else"
+    },
+    {
+        "IDENTITY_ATTACK": 0.047706615,
+        "INSULT": 0.09416737,
+        "PROFANITY": 0.10920923,
+        "SEVERE_TOXICITY": 0.02402156,
+        "THREAT": 0.5356442,
+        "TOXICITY": 0.4269174,
+        "text": " Uh, I would ask you this, would, would any of you ever think if I was with you at a march that I would say or that I would even in my own, go run up and, and smash a window and punch a police officer in the face because I'm upset about politics, that's what was happening yesterday.  Okay"
+    },
+    {
+        "IDENTITY_ATTACK": 0.028418748,
+        "INSULT": 0.030485468,
+        "PROFANITY": 0.015010698,
+        "SEVERE_TOXICITY": 0.0019168854,
+        "THREAT": 0.007301235,
+        "TOXICITY": 0.09568449,
+        "text": " So we know why BLM, we know why these, these groups do what they do and why it's wrong.  What was the purpose yesterday of going? And I, it wasn't an insurrection"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007954539,
+        "INSULT": 0.015568925,
+        "PROFANITY": 0.02023706,
+        "SEVERE_TOXICITY": 0.0034713745,
+        "THREAT": 0.038220957,
+        "TOXICITY": 0.08241652,
+        "text": " It wasn't a terrorist attack.  I understand all of that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.002885833,
+        "INSULT": 0.01632893,
+        "PROFANITY": 0.014395831,
+        "SEVERE_TOXICITY": 0.00092983246,
+        "THREAT": 0.0065180166,
+        "TOXICITY": 0.03309893,
+        "text": " Of course, and we'll talk about the media double standards.  What was it going to accomplish? The sad part of it is, you know what it did? You know, because you know, it didn't change"
+    },
+    {
+        "IDENTITY_ATTACK": 0.012240025,
+        "INSULT": 0.2659317,
+        "PROFANITY": 0.026180768,
+        "SEVERE_TOXICITY": 0.0039863586,
+        "THREAT": 0.008440462,
+        "TOXICITY": 0.28548008,
+        "text": " It's not going to change the election.  It's not going to change anything except it emboldens our worst, most dishonorable opposition"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010433395,
+        "INSULT": 0.023221988,
+        "PROFANITY": 0.015864678,
+        "SEVERE_TOXICITY": 0.0015354156,
+        "THREAT": 0.009644418,
+        "TOXICITY": 0.062236045,
+        "text": " It emboldens the left and we are going to be paying a price for this now on the battlefield of ideas for some time.  You know, I'm telling you the truth and you know that there is a lot of double standard out there about this and yes, we should address that and we will in a moment"
+    },
+    {
+        "IDENTITY_ATTACK": 0.050443888,
+        "INSULT": 0.07491849,
+        "PROFANITY": 0.02973333,
+        "SEVERE_TOXICITY": 0.004272461,
+        "THREAT": 0.011146127,
+        "TOXICITY": 0.16098402,
+        "text": " Everything things through the walls of our capital, our property, going inside the capital, sitting in a speaker poloses office, casually take pictures of themselves, have that played on Fox News, they know that they are not in jeopardy because the cops are taking selfies with them, walking them down the steps to make sure they're not hurt, taking care with their bodies, not like they treated Freddie Gray's body.  Why Americans aren't afraid of the cops? Why Americans are never afraid of the cops, even when they're committing insurrection, even when they're engaged in attempting to occupy our capital to steal the votes of people who look like me, because in their minds, they own this country, they own that capital, they own the cops, the cops work for them, and people like me have no damn right to try to elect a president because we don't get to pick the president, they get to pick the president, they own the president, they own the White House, they own this country"
+    },
+    {
+        "IDENTITY_ATTACK": 0.021183543,
+        "INSULT": 0.6109131,
+        "PROFANITY": 0.17287734,
+        "SEVERE_TOXICITY": 0.023076924,
+        "THREAT": 0.009903334,
+        "TOXICITY": 0.6027529,
+        "text": " Disgusting.  I mean, you need to hear that though, disgusting"
+    },
+    {
+        "IDENTITY_ATTACK": 0.018872296,
+        "INSULT": 0.024511116,
+        "PROFANITY": 0.026180768,
+        "SEVERE_TOXICITY": 0.0064086914,
+        "THREAT": 0.17648515,
+        "TOXICITY": 0.16851899,
+        "text": " Did she not have access, she works in a news organization, did she not have access to the internet? A woman was killed among the people entering capital shot in the neck and there's a video of it and it's graphic and I do not see the need for the use of lethal force under the circumstances.  I don't see it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00847251,
+        "INSULT": 0.03412145,
+        "PROFANITY": 0.043916557,
+        "SEVERE_TOXICITY": 0.008926392,
+        "THREAT": 0.32350776,
+        "TOXICITY": 0.22980402,
+        "text": " I've talked to, I've talked to a friend's mind, a law enforcement, I'm saying, you know, what is there some, you know, barricaded public official exception or something? I, I, she wasn't an imminent threat to anybody.  He was killed shot in the neck through a door, but they still go with the preferred narrative about this"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.42567953,
+        "PROFANITY": 0.15635987,
+        "SEVERE_TOXICITY": 0.012833111,
+        "THREAT": 0.01086132,
+        "TOXICITY": 0.38434127,
+        "text": " We have now we have to disassemble the lies of the left around what happened yesterday.  Where we were, what we were doing when we turned on the television and watched the events yesterday, it is searing in my view and I for one will never look at a maggot hat again without thinking of this day"
+    },
+    {
+        "IDENTITY_ATTACK": 0.18158256,
+        "INSULT": 0.3470427,
+        "PROFANITY": 0.13432594,
+        "SEVERE_TOXICITY": 0.01483436,
+        "THREAT": 0.016810767,
+        "TOXICITY": 0.36043653,
+        "text": " And if you are a decent American, put away your maggot hat, put away your Trump flag, remember what those symbols were used for on this day.  As this is settled down there, buddy, it's not a 9-11 moment"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010581387,
+        "INSULT": 0.01632893,
+        "PROFANITY": 0.016957775,
+        "SEVERE_TOXICITY": 0.004272461,
+        "THREAT": 0.030278467,
+        "TOXICITY": 0.09568449,
+        "text": " There are 3,000 people died on 9-11.  Good, good heavens"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0032743104,
+        "INSULT": 0.016784932,
+        "PROFANITY": 0.014122557,
+        "SEVERE_TOXICITY": 0.0018024445,
+        "THREAT": 0.012285355,
+        "TOXICITY": 0.054779384,
+        "text": " This was, this was people making a bad decision to run on capital grounds and destroy property and someone lost her, one person lost her life as a result of what happened yesterday.  And I'm, I'm still waiting to hear what the justify, I've seen the video"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006770608,
+        "INSULT": 0.017420914,
+        "PROFANITY": 0.02795705,
+        "SEVERE_TOXICITY": 0.005340576,
+        "THREAT": 0.1366716,
+        "TOXICITY": 0.1460314,
+        "text": " The video to me does not look like a justified shooting at all.  But I, there, this was a particular circumstance, you know, if you were, if you were barricaded in your home, and there was a mob outside coming through the door in the window, that's one thing"
+    },
+    {
+        "IDENTITY_ATTACK": 0.020279141,
+        "INSULT": 0.054376744,
+        "PROFANITY": 0.04141149,
+        "SEVERE_TOXICITY": 0.02116089,
+        "THREAT": 0.5195707,
+        "TOXICITY": 0.34328604,
+        "text": " If you're in the halls of Congress, I, I'm open, I'm open to being told I'm wrong on this from what I see, not a justified shooting.  And, and think about this, if that person could be shot, could you open fire on all the, on all the riders? Would you open fire on all of them? Because the, the standard would seem to still be in place that any person that's smashing windows and going through doors, you can shoot them if you're capital, he'll police"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011099357,
+        "INSULT": 0.043250903,
+        "PROFANITY": 0.02522431,
+        "SEVERE_TOXICITY": 0.00289917,
+        "THREAT": 0.0115345,
+        "TOXICITY": 0.10870059,
+        "text": " So that, that needs to be looked at much more thoroughly than what we've seen so far in the public discourse around it.  But this is where I tell you about the tactic, the tactics part of all of this and the assessment that we have to do now of what, what, we, what was lost as a result of this for the movement, they, they are going to play this, they're going to exaggerate it and they're going to pretend that this is the only political violence we've seen in this country is that in raging? Yes, it is"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008916483,
+        "INSULT": 0.07555214,
+        "PROFANITY": 0.04516909,
+        "SEVERE_TOXICITY": 0.003452301,
+        "THREAT": 0.008039144,
+        "TOXICITY": 0.19893374,
+        "text": " Is it a lie? It absolutely is.  But as, as we look at this, we also have to say, you know, take me back to the, the initial premise here, what was gained by any of this, the answer is nothing"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0038292783,
+        "INSULT": 0.017872108,
+        "PROFANITY": 0.014771583,
+        "SEVERE_TOXICITY": 0.0009059906,
+        "THREAT": 0.006440342,
+        "TOXICITY": 0.041172907,
+        "text": " The answer is nothing.  And I, I don't really understand the mentality why people feel like it's, we, we are not allowed to now say that we do we draw any lines"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004680229,
+        "INSULT": 0.0129089095,
+        "PROFANITY": 0.015728042,
+        "SEVERE_TOXICITY": 0.0009202957,
+        "THREAT": 0.0074565844,
+        "TOXICITY": 0.029092113,
+        "text": " I just want to know what, what would be for those, for those out there who think that this was a, in any way, understandable.  And there's this fine line between, I understand all the anger, but I don't understand doing this"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005364689,
+        "INSULT": 0.012262905,
+        "PROFANITY": 0.011611853,
+        "SEVERE_TOXICITY": 0.001001358,
+        "THREAT": 0.007948523,
+        "TOXICITY": 0.028974265,
+        "text": " No, can't, can't do it.  And the left is now going to use this in everywhere"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011173353,
+        "INSULT": 0.047349896,
+        "PROFANITY": 0.029596692,
+        "SEVERE_TOXICITY": 0.00667572,
+        "THREAT": 0.13815513,
+        "TOXICITY": 0.20032968,
+        "text": " They're going to ram this down our throats for more authoritarianism.  And, and for what? Right, there was, there was no gain from it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0060676485,
+        "INSULT": 0.02173949,
+        "PROFANITY": 0.026727317,
+        "SEVERE_TOXICITY": 0.0015735626,
+        "THREAT": 0.008336896,
+        "TOXICITY": 0.06817148,
+        "text": " I know people get mad at me.  I'm, I'm telling the truth"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004236255,
+        "INSULT": 0.010438894,
+        "PROFANITY": 0.01490822,
+        "SEVERE_TOXICITY": 0.0012874603,
+        "THREAT": 0.008298059,
+        "TOXICITY": 0.02449606,
+        "text": " And this, if someone wanted to baby on this, we'll have to be at any person on this issue.  Because it's important that we get this right"
+    },
+    {
+        "IDENTITY_ATTACK": 0.002885833,
+        "INSULT": 0.012376905,
+        "PROFANITY": 0.01127026,
+        "SEVERE_TOXICITY": 0.0006389618,
+        "THREAT": 0.0061425893,
+        "TOXICITY": 0.025203144,
+        "text": " We either have principles or we don't.  Right"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007029593,
+        "INSULT": 0.012300906,
+        "PROFANITY": 0.02030538,
+        "SEVERE_TOXICITY": 0.0023555756,
+        "THREAT": 0.021127338,
+        "TOXICITY": 0.05205809,
+        "text": " We either, and people are going to tell me, oh, we have to fight the way that they fight really? Do we want, I mean, and let's let's then, let's then take that.  Let's step further"
+    },
+    {
+        "IDENTITY_ATTACK": 0.044870727,
+        "INSULT": 0.07840354,
+        "PROFANITY": 0.050930742,
+        "SEVERE_TOXICITY": 0.0064468384,
+        "THREAT": 0.049451493,
+        "TOXICITY": 0.1996317,
+        "text": " Do we want a, a right wing antifa? Do we want a right wing group that goes around destroying stores, attacking people, the, the answers of course not.  But if you were going to say that sometimes we just got to break into a building because there's, there's no options left or if you're going to tell me that, well, then where does that, when does that go away? When, when are we able to do that? And I, I have to say now, now we need to understand we need each other more than ever because the stuff that the left is going to be saying about this for a long time to come is they're going to leverage this one a lot"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005660672,
+        "INSULT": 0.019676886,
+        "PROFANITY": 0.014225035,
+        "SEVERE_TOXICITY": 0.0011587143,
+        "THREAT": 0.007741391,
+        "TOXICITY": 0.050326355,
+        "text": " I would, I wouldn't be surprised, you know, social media has already, you know, they've done this.  They have banned Trump from Twitter, the president of the United States, they have banned him from Twitter"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003884775,
+        "INSULT": 0.012984909,
+        "PROFANITY": 0.012961143,
+        "SEVERE_TOXICITY": 0.0010919571,
+        "THREAT": 0.009955117,
+        "TOXICITY": 0.03828422,
+        "text": " They have banned him from Instagram and they have banned him from Facebook as of today.  And they're going to keep the bans in place until the transition of power happens"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0035887922,
+        "INSULT": 0.012110904,
+        "PROFANITY": 0.0108774295,
+        "SEVERE_TOXICITY": 0.0007390976,
+        "THREAT": 0.0074306927,
+        "TOXICITY": 0.024260364,
+        "text": " That's right.  You have media companies now openly and actively saying they are suppressing the sitting president of the United States until there's the transition of power"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006696612,
+        "INSULT": 0.082866095,
+        "PROFANITY": 0.049678206,
+        "SEVERE_TOXICITY": 0.004711151,
+        "THREAT": 0.009981008,
+        "TOXICITY": 0.23090743,
+        "text": " This, this is where we are now.  There's, there's all this talk about invoking the 25th amendment and there's that's by the way, a terrible, I mean, a terrible idea, a terrible idea"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0024788564,
+        "INSULT": 0.008823884,
+        "PROFANITY": 0.012380436,
+        "SEVERE_TOXICITY": 0.0006866455,
+        "THREAT": 0.0066927844,
+        "TOXICITY": 0.016964182,
+        "text": " All right, that there's no, there's no need to do that.  There's no reason to do that at this point"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0033298072,
+        "INSULT": 0.009336887,
+        "PROFANITY": 0.013063621,
+        "SEVERE_TOXICITY": 0.0010681152,
+        "THREAT": 0.0077284453,
+        "TOXICITY": 0.017341165,
+        "text": " We are heading toward a transition and an inauguration within two weeks.  And I, I view it as people would, would just think that, you know, the fix was even more in"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008139528,
+        "INSULT": 0.024382202,
+        "PROFANITY": 0.013473531,
+        "SEVERE_TOXICITY": 0.0015163422,
+        "THREAT": 0.0091524795,
+        "TOXICITY": 0.067380086,
+        "text": " You can't let, you can't let Trump be president for two more weeks.  So friends, I, I don't know, I would, I would like to be pointed toward the, the conservative, the conservative media person out there"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004643231,
+        "INSULT": 0.027730936,
+        "PROFANITY": 0.015693882,
+        "SEVERE_TOXICITY": 0.0012779236,
+        "THREAT": 0.0066280556,
+        "TOXICITY": 0.05898502,
+        "text": " If for those of you again who, who are, and I know some of you are so, it's, it's, some of you are very frustrated that I'm telling you these things and have been for the last, last 24 hours.  Well, really, I've been saying for weeks now that, uh, this is where we're heading in terms of the Biden transition and Biden's going to be president"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0055866763,
+        "INSULT": 0.042665333,
+        "PROFANITY": 0.014395831,
+        "SEVERE_TOXICITY": 0.0013065338,
+        "THREAT": 0.0063950317,
+        "TOXICITY": 0.09525062,
+        "text": " We've known this.  And I, I think the president, the president saying that there is, that there is election fraud is true"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0025713511,
+        "INSULT": 0.01961243,
+        "PROFANITY": 0.0128245065,
+        "SEVERE_TOXICITY": 0.00079631805,
+        "THREAT": 0.0061425893,
+        "TOXICITY": 0.038519915,
+        "text": " The president saying that we have unanswered questions about the election fraud is completely fair and proper.  Um, but taking it to this point now where there's a belief that the, the election that we don't, we no longer have to respect the results of the system as they stand"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0030523231,
+        "INSULT": 0.009469888,
+        "PROFANITY": 0.01265371,
+        "SEVERE_TOXICITY": 0.0008392334,
+        "THREAT": 0.006925808,
+        "TOXICITY": 0.019980038,
+        "text": " Well, now we're talking about rejection of the system wholesale.  And let's all be very clear about that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.002830336,
+        "INSULT": 0.01640493,
+        "PROFANITY": 0.012551232,
+        "SEVERE_TOXICITY": 0.001411438,
+        "THREAT": 0.009799767,
+        "TOXICITY": 0.046120718,
+        "text": " And if that's where you want to go, you're heading down a very dark and very dangerous path.  And that's not what we want"
+    },
+    {
+        "IDENTITY_ATTACK": 0.015355183,
+        "INSULT": 0.018129934,
+        "PROFANITY": 0.016889455,
+        "SEVERE_TOXICITY": 0.0015926361,
+        "THREAT": 0.0071199946,
+        "TOXICITY": 0.04711028,
+        "text": " Um, that's not what we should have in our, in our country.  Um, yes, BLM and Antifa are treated entirely differently by the press"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006622616,
+        "INSULT": 0.023995465,
+        "PROFANITY": 0.01893901,
+        "SEVERE_TOXICITY": 0.0031089783,
+        "THREAT": 0.05430072,
+        "TOXICITY": 0.10609736,
+        "text": " Yes, they burn things down.  And the journalists go outside and they say, well, why does it mostly be, there's a mostly peaceful pro town"
+    },
+    {
+        "IDENTITY_ATTACK": 0.059311368,
+        "INSULT": 0.16875735,
+        "PROFANITY": 0.04366605,
+        "SEVERE_TOXICITY": 0.0104522705,
+        "THREAT": 0.13700877,
+        "TOXICITY": 0.30319387,
+        "text": " Oh, I have the ducking while their multi off cocktails are flying past their heads.  The left gets away with political violence"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0036812867,
+        "INSULT": 0.018323302,
+        "PROFANITY": 0.017914234,
+        "SEVERE_TOXICITY": 0.0014019012,
+        "THREAT": 0.0070164283,
+        "TOXICITY": 0.056758508,
+        "text": " It's not fair.  It's wrong"
+    },
+    {
+        "IDENTITY_ATTACK": 0.11396073,
+        "INSULT": 0.47384647,
+        "PROFANITY": 0.08710717,
+        "SEVERE_TOXICITY": 0.010528564,
+        "THREAT": 0.0077025536,
+        "TOXICITY": 0.4274071,
+        "text": " But the way we win is by convincing and showing enough of our fellow Americans that this is disgusting.  It's disgraceful"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008176526,
+        "INSULT": 0.02567133,
+        "PROFANITY": 0.013985921,
+        "SEVERE_TOXICITY": 0.0011587143,
+        "THREAT": 0.006530962,
+        "TOXICITY": 0.063027434,
+        "text": " And it is entirely coddled if not supported by the Democrat party.  And this makes it all much harder to do that, which is why I don't, I mean, I don't approve of it morally"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0030708222,
+        "INSULT": 0.0129089095,
+        "PROFANITY": 0.01627459,
+        "SEVERE_TOXICITY": 0.0011348724,
+        "THREAT": 0.008039144,
+        "TOXICITY": 0.035220183,
+        "text": " I don't approve of it tactically.  And for people who are are going to tell me, oh, but, look what they're willing to do"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0032003147,
+        "INSULT": 0.013402912,
+        "PROFANITY": 0.013610168,
+        "SEVERE_TOXICITY": 0.0009441376,
+        "THREAT": 0.006874025,
+        "TOXICITY": 0.025792383,
+        "text": " I mean, I've, I wanted, there's a special counsel for Russia collusion that Attorney General Barr has, has already put in place.  I wanted a special counsel for Hunter Biden"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0031633168,
+        "INSULT": 0.00819688,
+        "PROFANITY": 0.012995303,
+        "SEVERE_TOXICITY": 0.0008535385,
+        "THREAT": 0.0074306927,
+        "TOXICITY": 0.015770407,
+        "text": " I want us to do what they did within the confines of the law.  That's where we, you know, we have to draw a line and we have to all be united in that one"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.5678696,
+        "PROFANITY": 0.19278693,
+        "SEVERE_TOXICITY": 0.023076924,
+        "THREAT": 0.026652548,
+        "TOXICITY": 0.568186,
+        "text": " And is it, is it hypocritical? Is it a degree of madness for people who were cheering on the left as they did their maniacal, you know, destruction campaigns is, is, of course, it's disgusting.  I absolutely hate it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.06249457,
+        "INSULT": 0.6308392,
+        "PROFANITY": 0.3033754,
+        "SEVERE_TOXICITY": 0.023076924,
+        "THREAT": 0.009929225,
+        "TOXICITY": 0.57271194,
+        "text": " I think they're cowards.  I think they're frauds"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0066596144,
+        "INSULT": 0.011046898,
+        "PROFANITY": 0.022901481,
+        "SEVERE_TOXICITY": 0.001964569,
+        "THREAT": 0.009230154,
+        "TOXICITY": 0.030388435,
+        "text": " But one thing that I will tell you, and this is, and at the end of the day, I actually spoke to my, I spoke to my family about this last night.  So let's just let them know, it is because I respect this audience so much"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0030338243,
+        "INSULT": 0.008728883,
+        "PROFANITY": 0.013029462,
+        "SEVERE_TOXICITY": 0.0010585785,
+        "THREAT": 0.0077154995,
+        "TOXICITY": 0.0201057,
+        "text": " And because I respect what I do, that I will tell you the truth.  And that's what I think I'm, I'm, I think I do it every day"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010729378,
+        "INSULT": 0.047349896,
+        "PROFANITY": 0.06746418,
+        "SEVERE_TOXICITY": 0.005340576,
+        "THREAT": 0.03165977,
+        "TOXICITY": 0.19219314,
+        "text": " But today that involves saying things that are going to make some of you upset with me, you're going to make some of you unfollow me.  And, and maybe, you know, you'll take a break from listening to show"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0051797,
+        "INSULT": 0.03599453,
+        "PROFANITY": 0.026317406,
+        "SEVERE_TOXICITY": 0.0021743774,
+        "THREAT": 0.009747985,
+        "TOXICITY": 0.1182615,
+        "text": " I, I can't change that.  I won't lie to you"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004680229,
+        "INSULT": 0.014390918,
+        "PROFANITY": 0.016342908,
+        "SEVERE_TOXICITY": 0.0011396408,
+        "THREAT": 0.0074954215,
+        "TOXICITY": 0.034041706,
+        "text": " And I hope, I hope you appreciate where that comes from.  That doesn't mean I'm always right"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008361516,
+        "INSULT": 0.0314771,
+        "PROFANITY": 0.027547138,
+        "SEVERE_TOXICITY": 0.0022697449,
+        "THREAT": 0.009437286,
+        "TOXICITY": 0.11057663,
+        "text": " If you think I'm wrong, fine.  If you think that I don't understand the full scale of what's going on here and the way this system is, uh, that's you're, you're completely entitled that opinion"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009286462,
+        "INSULT": 0.033680726,
+        "PROFANITY": 0.021740068,
+        "SEVERE_TOXICITY": 0.0020313263,
+        "THREAT": 0.007417747,
+        "TOXICITY": 0.09915545,
+        "text": " But I would hope that, that those of you who, and I don't know, I don't know who, who agrees with drawing a line and the unhelpful nature of yesterday, what percentage of, of folks listening across the country, you're with me? I mean, I would guess it's maybe 50, 50, 60, 40.  I, I don't know"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0037367835,
+        "INSULT": 0.015036922,
+        "PROFANITY": 0.018665737,
+        "SEVERE_TOXICITY": 0.0014972687,
+        "THREAT": 0.009799767,
+        "TOXICITY": 0.03875561,
+        "text": " That's, that would be my estimate and we'll never have an answer for that.  But that's just, you know, where my head is on this"
+    },
+    {
+        "IDENTITY_ATTACK": 0.022188433,
+        "INSULT": 0.02122384,
+        "PROFANITY": 0.015932998,
+        "SEVERE_TOXICITY": 0.0016307831,
+        "THREAT": 0.0075083673,
+        "TOXICITY": 0.05280026,
+        "text": " But for those who think that, um, it's wrong to criticize the illegal and, and that's a completely separate thing than the hundred, 50,000 or whatever it was people marching through the streets protesting.  Those are my brothers and sisters"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01374736,
+        "INSULT": 0.014238917,
+        "PROFANITY": 0.027410502,
+        "SEVERE_TOXICITY": 0.0026512146,
+        "THREAT": 0.010680079,
+        "TOXICITY": 0.04240986,
+        "text": " Those are my people.  They listen to this show"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009545447,
+        "INSULT": 0.011692902,
+        "PROFANITY": 0.020646973,
+        "SEVERE_TOXICITY": 0.0018119812,
+        "THREAT": 0.008401625,
+        "TOXICITY": 0.025910228,
+        "text": " They support me.  They're the reason I have a job"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0057346676,
+        "INSULT": 0.0118069025,
+        "PROFANITY": 0.017845914,
+        "SEVERE_TOXICITY": 0.0010585785,
+        "THREAT": 0.0076119336,
+        "TOXICITY": 0.025910228,
+        "text": " It's like a nothing but love and respect for them.  But I, I tell people, even the people closest to me when I think that they've made a mistake"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008398513,
+        "INSULT": 0.012072904,
+        "PROFANITY": 0.02303812,
+        "SEVERE_TOXICITY": 0.0021743774,
+        "THREAT": 0.009696201,
+        "TOXICITY": 0.034748793,
+        "text": " And I owe that to all you and I said to my family last night and they got blessed and they backed me up.  I said, guys, I've, I've got to be Prince of, I've got to be true to myself to this work, to the audience to be principal at this point"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0042732526,
+        "INSULT": 0.011692902,
+        "PROFANITY": 0.015591404,
+        "SEVERE_TOXICITY": 0.0012874603,
+        "THREAT": 0.00789674,
+        "TOXICITY": 0.027677942,
+        "text": " And, and that means, uh, staring, staring into what, what is happening now and telling them what I, what I see happening.  I don't think that you would find a radio hose to a scene more things, more trends, big trends coming in, in recent months than I have, particularly when you look at lockdowns and masks and all these things"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0063266335,
+        "INSULT": 0.011540901,
+        "PROFANITY": 0.018802373,
+        "SEVERE_TOXICITY": 0.0013828278,
+        "THREAT": 0.008194493,
+        "TOXICITY": 0.024378212,
+        "text": " You know, it's interesting.  I actually went on Michael Malice's show who is quite an interesting, quite an interesting guy"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0065486208,
+        "INSULT": 0.012870909,
+        "PROFANITY": 0.011628932,
+        "SEVERE_TOXICITY": 0.0008392334,
+        "THREAT": 0.007301235,
+        "TOXICITY": 0.026028076,
+        "text": " I wanted to show maybe almost exactly 12 months ago now.  And I said that Democrats would refuse to certify the election"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0073995716,
+        "INSULT": 0.014428918,
+        "PROFANITY": 0.011902207,
+        "SEVERE_TOXICITY": 0.0007867813,
+        "THREAT": 0.0066927844,
+        "TOXICITY": 0.028149333,
+        "text": " That was my prediction on his show.  And here we are with a lot of Republicans who don't want to certify the election"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0052166977,
+        "INSULT": 0.009279887,
+        "PROFANITY": 0.015591404,
+        "SEVERE_TOXICITY": 0.0011444092,
+        "THREAT": 0.008090926,
+        "TOXICITY": 0.019100413,
+        "text": " So I saw something.  I just didn't see which side it would be coming from"
+    }
+]

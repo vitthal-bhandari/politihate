@@ -1,0 +1,2675 @@
+[
+    {
+        "IDENTITY_ATTACK": 0.007954539,
+        "INSULT": 0.17237684,
+        "PROFANITY": 0.017162729,
+        "SEVERE_TOXICITY": 0.0024604797,
+        "THREAT": 0.007340072,
+        "TOXICITY": 0.2312681,
+        "text": " It's a day that ends in why which means that President Trump is doing something to irritate the media, which means that in the words of the apparently immortal journalist, Carl Bernstein, whatever Trump is doing is worse than Watergate.  It's not Deja vu"
+    },
+    {
+        "IDENTITY_ATTACK": 0.043839492,
+        "INSULT": 0.44464502,
+        "PROFANITY": 0.043916557,
+        "SEVERE_TOXICITY": 0.011138916,
+        "THREAT": 0.018710058,
+        "TOXICITY": 0.4014846,
+        "text": " This is something far worse than occurred in Watergate.  We have both a criminal president of the United States, the Donald Trump and a subversive president of the United this is the ultimate smoking gun tape"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004347248,
+        "INSULT": 0.03423163,
+        "PROFANITY": 0.011628932,
+        "SEVERE_TOXICITY": 0.0014400482,
+        "THREAT": 0.008103873,
+        "TOXICITY": 0.08795626,
+        "text": " It is the tape with the evidence of what this president is willing to do to undermine the electoral system and illegally, improperly, and the immorally try to instigate a coup in any other presidency.  This tape would be evidence enough to result in the impeachment of the president of the United States and really an immediate call by the members of Congress, including of his own party, that he resigned immediately"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007288578,
+        "INSULT": 0.04032305,
+        "PROFANITY": 0.018255826,
+        "SEVERE_TOXICITY": 0.0018596649,
+        "THREAT": 0.00756015,
+        "TOXICITY": 0.104361884,
+        "text": " And we need that call because this of course is worse than Watergate, just like in September when Bob would or when Carl Bernstein rather said that President Trump downplaying COVID was worse than Watergate or 2019 when he said that President Trump's phone call with Ukraine was worse than Watergate or in 2017 when Bernstein said the Russia probe felt worse than Watergate.  Most things I think are worse than Watergate"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008361516,
+        "INSULT": 0.011236899,
+        "PROFANITY": 0.01893901,
+        "SEVERE_TOXICITY": 0.0019550323,
+        "THREAT": 0.009023022,
+        "TOXICITY": 0.024613906,
+        "text": " I'm Michael Knowles.  This is the Michael Knowles Show"
+    },
+    {
+        "IDENTITY_ATTACK": 0.22783615,
+        "INSULT": 0.07301756,
+        "PROFANITY": 0.055940874,
+        "SEVERE_TOXICITY": 0.007171631,
+        "THREAT": 0.0086087575,
+        "TOXICITY": 0.22177623,
+        "text": " Welcome back to the show.  My favorite comment from yesterday's from Jeremy's rans who said didn't Kamala say she was Jewish to she's literally celebrating every holiday, pandering"
+    },
+    {
+        "IDENTITY_ATTACK": 0.022188433,
+        "INSULT": 0.06494803,
+        "PROFANITY": 0.016821137,
+        "SEVERE_TOXICITY": 0.0022888184,
+        "THREAT": 0.0066733654,
+        "TOXICITY": 0.12520397,
+        "text": " Yes, of course she is and now she also is apparently stealing lines from Martin Luther King and anecdotes from Martin Luther King and pretending that that was her own childhood.  The issue with celebrating every holiday, of course, and you see this from so many liberals who say, oh, happy Christmas, Hanukkah, Kwan's, uh, some solstice, a festival, all these sort of things, the problem with celebrating every holiday is then you are celebrating"
+    },
+    {
+        "IDENTITY_ATTACK": 0.11047905,
+        "INSULT": 0.03599453,
+        "PROFANITY": 0.027683776,
+        "SEVERE_TOXICITY": 0.0041007996,
+        "THREAT": 0.0069387536,
+        "TOXICITY": 0.15600902,
+        "text": " No holidays, really what you're celebrating is a kind of liberal multiculturalism.  That's the real religion you're celebrating because if you're celebrating Christmas, then you are not celebrating the pagan holiday of if you're celebrating Hanukkah, you're not celebrating Kwan'sa"
+    },
+    {
+        "IDENTITY_ATTACK": 0.04925346,
+        "INSULT": 0.025284592,
+        "PROFANITY": 0.014600786,
+        "SEVERE_TOXICITY": 0.0016307831,
+        "THREAT": 0.006259101,
+        "TOXICITY": 0.08716487,
+        "text": " You got to, when you make one choice about religion, when you have one religious vision, that necessarily excludes the other visions, but pandering Kamala Harris doesn't, doesn't want to do that sort of thing because the real religion on the left is secular liberalism.  Not very, uh, not very good for our country does not make us feel very confident about the future, does not make us feel very secure in our beliefs"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0029413297,
+        "INSULT": 0.0105148945,
+        "PROFANITY": 0.011389818,
+        "SEVERE_TOXICITY": 0.0007390976,
+        "THREAT": 0.0069646453,
+        "TOXICITY": 0.02035702,
+        "text": " Very often doesn't make us feel secure even in our own data in person, which is why you got to check out lifelock.  It is important to understand how cybercrime and identity theft are affecting our lives"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0026638457,
+        "INSULT": 0.012186904,
+        "PROFANITY": 0.011970525,
+        "SEVERE_TOXICITY": 0.0013637543,
+        "THREAT": 0.010938995,
+        "TOXICITY": 0.033806015,
+        "text": " You can miss certain identity threats by just monitoring your credit.  Good thing, there's lifelock lifelock detects wide range of identity threats"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0032743104,
+        "INSULT": 0.010590895,
+        "PROFANITY": 0.012448754,
+        "SEVERE_TOXICITY": 0.0010251999,
+        "THREAT": 0.0086087575,
+        "TOXICITY": 0.026735162,
+        "text": " For instance, your social security number for sale on the dark web, if they detect your information has potentially been compromised, they will send you an alert.  Very, very important"
+    },
+    {
+        "IDENTITY_ATTACK": 0.002192123,
+        "INSULT": 0.012604907,
+        "PROFANITY": 0.011970525,
+        "SEVERE_TOXICITY": 0.0010871887,
+        "THREAT": 0.008582866,
+        "TOXICITY": 0.027324399,
+        "text": " No one can prevent all identity theft or monitor all transactions and all businesses, but lifelock can see threats that you might miss on your own.  I were a very long time thought that nobody was after my dad"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0041992567,
+        "INSULT": 0.009355888,
+        "PROFANITY": 0.015557245,
+        "SEVERE_TOXICITY": 0.0009965897,
+        "THREAT": 0.006925808,
+        "TOXICITY": 0.019728716,
+        "text": " I thought, oh, that's just for other people.  No, it's okay"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0027933381,
+        "INSULT": 0.011692902,
+        "PROFANITY": 0.012107162,
+        "SEVERE_TOXICITY": 0.0010061264,
+        "THREAT": 0.0072365063,
+        "TOXICITY": 0.02638162,
+        "text": " Seriously, an ounce of prevention is worth a pound of cure here.  People are after your data"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0018868907,
+        "INSULT": 0.013782915,
+        "PROFANITY": 0.012038844,
+        "SEVERE_TOXICITY": 0.0011825562,
+        "THREAT": 0.007301235,
+        "TOXICITY": 0.03015274,
+        "text": " You can join right now and save up to 25% off your first year.  Go to lifelock"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0042547537,
+        "INSULT": 0.018967867,
+        "PROFANITY": 0.026863953,
+        "SEVERE_TOXICITY": 0.0032424927,
+        "THREAT": 0.010731863,
+        "TOXICITY": 0.059479803,
+        "text": "com slash noils.  Can or W L E S at is lifelock"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0027008436,
+        "INSULT": 0.011084898,
+        "PROFANITY": 0.014327513,
+        "SEVERE_TOXICITY": 0.001206398,
+        "THREAT": 0.00704232,
+        "TOXICITY": 0.02308189,
+        "text": "com slash noils can or W L E S for 25% off.  You know how fabulous lifelock is"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0023678627,
+        "INSULT": 0.012148905,
+        "PROFANITY": 0.0128245065,
+        "SEVERE_TOXICITY": 0.0010728836,
+        "THREAT": 0.008453408,
+        "TOXICITY": 0.027560094,
+        "text": " We've been talking about them for a very long time.  Go over there, protect yourself today"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0048097214,
+        "INSULT": 0.034562174,
+        "PROFANITY": 0.015079016,
+        "SEVERE_TOXICITY": 0.0012683868,
+        "THREAT": 0.0062914654,
+        "TOXICITY": 0.07845957,
+        "text": " CNN would save a lot of money on contributor fees.  If instead of paying coral Bernstein, whatever they've been paying him for 50 years, they or however long CNN's been around I guess 40 years, they just had a wind up doll and it looks like coral Bernstein and then they pull the tab and then when when they let go, it's at worst on Watergate because that is the only reason that he is employed by these networks"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0047727237,
+        "INSULT": 0.019676886,
+        "PROFANITY": 0.015864678,
+        "SEVERE_TOXICITY": 0.0012111664,
+        "THREAT": 0.008065036,
+        "TOXICITY": 0.044388983,
+        "text": " I'm not I'm not nearly making fun of coral Bernstein.  That is actually the media strategy"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0025713511,
+        "INSULT": 0.03070583,
+        "PROFANITY": 0.01442999,
+        "SEVERE_TOXICITY": 0.0012969971,
+        "THREAT": 0.0077154995,
+        "TOXICITY": 0.067380086,
+        "text": " The only reason that guy has a job is so that every six months or a year they can trot him out on TV and his jaw, the role that has been scripted for him is for him to say that whatever non-troversive today is out there is worse than Watergate.  In this case, we as president Trump had a phone call with Secretary of State of Georgia and said, there to be ballot security"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003607291,
+        "INSULT": 0.032248367,
+        "PROFANITY": 0.016069634,
+        "SEVERE_TOXICITY": 0.0013065338,
+        "THREAT": 0.007301235,
+        "TOXICITY": 0.09112182,
+        "text": " I look, there was tens of thousands of ballots that look very fraudulent to me and we're only down by whatever it is, 11,000 or 12,000.  So look into those ballots"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005438685,
+        "INSULT": 0.07998765,
+        "PROFANITY": 0.02167175,
+        "SEVERE_TOXICITY": 0.0021076202,
+        "THREAT": 0.0079873605,
+        "TOXICITY": 0.15822013,
+        "text": " Otherwise, this election could be one through fraud on the part of Joe Biden and then they leaked the phone call and then they take one little two second clip out of it and then Bernstein goes on and says worse than Watergate.  The reason I got a little flubbed up in the introduction"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0026823445,
+        "INSULT": 0.024640027,
+        "PROFANITY": 0.014600786,
+        "SEVERE_TOXICITY": 0.0010347366,
+        "THREAT": 0.007068211,
+        "TOXICITY": 0.049089402,
+        "text": " I said, Woodward accidentally instead of Bernstein because those were the two journalists.  Bob Woodward and Carl Bernstein and Bernstein, who's the one they trot out more often, is sort of like the Ben Affleck to Bob Woodward's Matt Damon"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0069185994,
+        "INSULT": 0.08558089,
+        "PROFANITY": 0.016342908,
+        "SEVERE_TOXICITY": 0.0014591217,
+        "THREAT": 0.006375613,
+        "TOXICITY": 0.15490346,
+        "text": " You know, Bob Woodward is the one who has at least some talent and Carl Bernstein just kind of kind of went along for the ride.  Beyond all of the nonsensical allegations of worse than Watergate that we hear from Bernstein every six months, think about some of the scandals on the left"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0040142676,
+        "INSULT": 0.05262003,
+        "PROFANITY": 0.017845914,
+        "SEVERE_TOXICITY": 0.0020980835,
+        "THREAT": 0.007249452,
+        "TOXICITY": 0.11357342,
+        "text": " Watergate has been blown up into this massive, massive, the worst possible scandal ever.  It wasn't actually in the grand scope of presidential scandals"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0031263188,
+        "INSULT": 0.028392024,
+        "PROFANITY": 0.011936366,
+        "SEVERE_TOXICITY": 0.00086307526,
+        "THREAT": 0.006822242,
+        "TOXICITY": 0.05255287,
+        "text": " It wasn't all that big a deal compared to say allegations that John Kennedy stuff the ballot boxes through the daily machine in Illinois in 1960 to steal that election, perhaps from Richard Nixon, LBJ famously stealing his Senate seat in 1948 in Texas.  That one went all the way up to the Supreme Court and the court simply wouldn't hear the case"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005660672,
+        "INSULT": 0.06634661,
+        "PROFANITY": 0.019895468,
+        "SEVERE_TOXICITY": 0.0042533875,
+        "THREAT": 0.06593887,
+        "TOXICITY": 0.18649188,
+        "text": " They didn't even rule on it.  And that is what landed in the vice presidency and then after Kennedy's assassination in the presidency"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007991537,
+        "INSULT": 0.06442356,
+        "PROFANITY": 0.014874061,
+        "SEVERE_TOXICITY": 0.0018310547,
+        "THREAT": 0.007365964,
+        "TOXICITY": 0.11739369,
+        "text": " How about Barack Obama spying on the Trump campaign in 2016? That seems worse than Watergate.  How about Hillary Clinton's campaign colluding with a foreign adversary, ironically colluding with Russia to put together the bogus steel dossier to try to subvert the Trump campaign? What about that? That's certainly worse than Watergate"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003144818,
+        "INSULT": 0.018838953,
+        "PROFANITY": 0.016411226,
+        "SEVERE_TOXICITY": 0.0016212463,
+        "THREAT": 0.009540852,
+        "TOXICITY": 0.058737632,
+        "text": " Give me a break.  I don't want to hear it anymore"
+    },
+    {
+        "IDENTITY_ATTACK": 0.049989145,
+        "INSULT": 0.48627716,
+        "PROFANITY": 0.04366605,
+        "SEVERE_TOXICITY": 0.0065994263,
+        "THREAT": 0.008220384,
+        "TOXICITY": 0.4269174,
+        "text": " I don't want to hear anymore from the left.  You'll hear about how Nixon was the most corrupt president"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007917541,
+        "INSULT": 0.15840563,
+        "PROFANITY": 0.018665737,
+        "SEVERE_TOXICITY": 0.0020599365,
+        "THREAT": 0.006427396,
+        "TOXICITY": 0.19409354,
+        "text": " Nixon was nothing compared to Barack Obama.  Nixon was, you think Nixon was dishonest? That guy's nothing compared to Joe Biden, who at least would appear to be about to ascend to the presidency"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005401687,
+        "INSULT": 0.028722567,
+        "PROFANITY": 0.01402008,
+        "SEVERE_TOXICITY": 0.0013256073,
+        "THREAT": 0.0067057298,
+        "TOXICITY": 0.06896287,
+        "text": " Nothing compared to Hillary Clinton.  Give me a break"
+    },
+    {
+        "IDENTITY_ATTACK": 0.025806036,
+        "INSULT": 0.3493834,
+        "PROFANITY": 0.054437835,
+        "SEVERE_TOXICITY": 0.005493164,
+        "THREAT": 0.0074306927,
+        "TOXICITY": 0.3250515,
+        "text": " They do this also with McCarthy.  You'll always hear about McCarthyism and this awful McCarthyism during the early 20th century when this awful senator pretended that there were communists working in the federal government"
+    },
+    {
+        "IDENTITY_ATTACK": 0.018269362,
+        "INSULT": 0.014428918,
+        "PROFANITY": 0.014122557,
+        "SEVERE_TOXICITY": 0.0012683868,
+        "THREAT": 0.00666042,
+        "TOXICITY": 0.035220183,
+        "text": " There were communists working in the federal government.  There was a communist to help found the United Nations, his name was Alger his, and he was a very high level employee at the State Department"
+    },
+    {
+        "IDENTITY_ATTACK": 0.034300596,
+        "INSULT": 0.070799805,
+        "PROFANITY": 0.017777596,
+        "SEVERE_TOXICITY": 0.0021743774,
+        "THREAT": 0.0069516995,
+        "TOXICITY": 0.13041082,
+        "text": " He was at the DOJ before that.  He was a convicted communist"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0032373124,
+        "INSULT": 0.010856897,
+        "PROFANITY": 0.012517073,
+        "SEVERE_TOXICITY": 0.0007534027,
+        "THREAT": 0.0070552654,
+        "TOXICITY": 0.019980038,
+        "text": " I suppose it was after the statute of limitations that run it.  There's all book about this called witness, but Whitaker Chambers"
+    },
+    {
+        "IDENTITY_ATTACK": 0.014852738,
+        "INSULT": 0.09855611,
+        "PROFANITY": 0.01535229,
+        "SEVERE_TOXICITY": 0.0018501282,
+        "THREAT": 0.006537435,
+        "TOXICITY": 0.16158698,
+        "text": " It's the book that turned Reagan from a liberal into a conservative.  For all of McCarthy's flaws, for all of Nixon's flaws, they were men with flaws like everybody else to posit them as the kind of supreme evil of political scandal"
+    },
+    {
+        "IDENTITY_ATTACK": 0.014551271,
+        "INSULT": 0.5130944,
+        "PROFANITY": 0.17287734,
+        "SEVERE_TOXICITY": 0.010604858,
+        "THREAT": 0.0077154995,
+        "TOXICITY": 0.47622904,
+        "text": " It's completely ridiculous.  And it's a way to distract from the legitimate democratic scandals"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008546505,
+        "INSULT": 0.06285016,
+        "PROFANITY": 0.023994578,
+        "SEVERE_TOXICITY": 0.002231598,
+        "THREAT": 0.0074565844,
+        "TOXICITY": 0.11171334,
+        "text": " You know, we've been hearing a a lot over the past few days about how Ted Cruz and Josh Hawley and better dozen senators, along with a hundred to 150 Republican members of Congress are going to object to the certification of the electoral college results.  And what this means is you had the vote on election day, then who knew there was a long process in some of these states where they just kept finding votes under a rock underneath the dresser, or lift up the couch cushions, they find some more votes"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0052166977,
+        "INSULT": 0.022964163,
+        "PROFANITY": 0.011936366,
+        "SEVERE_TOXICITY": 0.0010585785,
+        "THREAT": 0.006550381,
+        "TOXICITY": 0.04686289,
+        "text": " And then there were some questions about how these votes were counted, transparency, poll watchers in Pennsylvania, the violation of the state constitution pretty blatant.  And so then it goes to the electoral college, the electoral college voted"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0022661188,
+        "INSULT": 0.008348881,
+        "PROFANITY": 0.010689554,
+        "SEVERE_TOXICITY": 0.0005745888,
+        "THREAT": 0.006874025,
+        "TOXICITY": 0.0143253105,
+        "text": " And then finally, the electoral college votes are red before the House and the Senate.  And you can object to this"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01656105,
+        "INSULT": 0.03566399,
+        "PROFANITY": 0.022354934,
+        "SEVERE_TOXICITY": 0.0020313263,
+        "THREAT": 0.008531082,
+        "TOXICITY": 0.103060275,
+        "text": " This has happened many times, Democrats have done it much more often than Republicans have even very recently.  And so now that Republicans want to do it, the left is throwing a big hissy fit"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008509507,
+        "INSULT": 0.018645585,
+        "PROFANITY": 0.011970525,
+        "SEVERE_TOXICITY": 0.0008773804,
+        "THREAT": 0.007094103,
+        "TOXICITY": 0.038519915,
+        "text": " Some Republicans are raising objections to and I want to take those objections seriously because I think they merit consideration, even though they're not very good.  Liz Cheney and Tom Cotton are coming out and saying they oppose the objection to these, this is a certification because it sets a dangerous precedent"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006178642,
+        "INSULT": 0.010742896,
+        "PROFANITY": 0.010450439,
+        "SEVERE_TOXICITY": 0.00067710876,
+        "THREAT": 0.006874025,
+        "TOXICITY": 0.021196328,
+        "text": " The argument is if Republicans are going to object to the certification of the electoral college vote, then Democrats might do that to us in the future.  And I would be willing to entertain this argument"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004088263,
+        "INSULT": 0.00979289,
+        "PROFANITY": 0.010911589,
+        "SEVERE_TOXICITY": 0.0006341934,
+        "THREAT": 0.0062914654,
+        "TOXICITY": 0.016587202,
+        "text": " If it were not the case that the Democrats already do that, they've done that, they did it last time.  They did it a couple of times before that, they did it before that, they have done it multiple times in the 20th century, 21st century"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0027378413,
+        "INSULT": 0.0081208795,
+        "PROFANITY": 0.011082385,
+        "SEVERE_TOXICITY": 0.0006723404,
+        "THREAT": 0.0069387536,
+        "TOXICITY": 0.013634177,
+        "text": " And famously, we had this issue in 1876 and which a result in the compromise of 1877 more over.  They're going to do it again"
+    },
+    {
+        "IDENTITY_ATTACK": 0.055673428,
+        "INSULT": 0.1669316,
+        "PROFANITY": 0.04291453,
+        "SEVERE_TOXICITY": 0.0031280518,
+        "THREAT": 0.00780612,
+        "TOXICITY": 0.23739935,
+        "text": " So you're telling me I've got to forget about what the Democrats are doing right now, present tense because it might set a bad precedent for the future, even though the Democrats are already doing it right now.  This reminds me of what what we always hear from the squishy Republicans on big tech censorship"
+    },
+    {
+        "IDENTITY_ATTACK": 0.030691283,
+        "INSULT": 0.0811385,
+        "PROFANITY": 0.027137227,
+        "SEVERE_TOXICITY": 0.0028800964,
+        "THREAT": 0.00933372,
+        "TOXICITY": 0.16591948,
+        "text": " They say, we can't ever use the government to stop the left from censoring conservatives right now in the here and now because if we do that, then they might use it to censor us in the future.  Even though they're already censoring us in the present, well, then I don't care about that hypothetical"
+    },
+    {
+        "IDENTITY_ATTACK": 0.013847848,
+        "INSULT": 0.028722567,
+        "PROFANITY": 0.019143965,
+        "SEVERE_TOXICITY": 0.002155304,
+        "THREAT": 0.010084574,
+        "TOXICITY": 0.09655223,
+        "text": " I care about what's happening right now.  I'm not going to give the left an actual victory right now so that I can maybe win a hypothetical victory in the future after I've already lost right now"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0037552824,
+        "INSULT": 0.013782915,
+        "PROFANITY": 0.015864678,
+        "SEVERE_TOXICITY": 0.0011396408,
+        "THREAT": 0.0069516995,
+        "TOXICITY": 0.034277402,
+        "text": " That doesn't make any sense.  I'm worried about the present tense, not the precedents"
+    },
+    {
+        "IDENTITY_ATTACK": 0.029144434,
+        "INSULT": 0.013554913,
+        "PROFANITY": 0.014498309,
+        "SEVERE_TOXICITY": 0.0016975403,
+        "THREAT": 0.0071588317,
+        "TOXICITY": 0.046120718,
+        "text": " Can I get an amen to that? We ask it in the name of the monotheistic God, Rahmah, and God known by many names, by many different faiths.  Amen and a woman"
+    },
+    {
+        "IDENTITY_ATTACK": 0.2854555,
+        "INSULT": 0.6308392,
+        "PROFANITY": 0.18786818,
+        "SEVERE_TOXICITY": 0.017610285,
+        "THREAT": 0.007534259,
+        "TOXICITY": 0.5885171,
+        "text": " Amen and a woman.  That is some silly democratic representative"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006955597,
+        "INSULT": 0.015948927,
+        "PROFANITY": 0.013302735,
+        "SEVERE_TOXICITY": 0.0008916855,
+        "THREAT": 0.006485652,
+        "TOXICITY": 0.032627538,
+        "text": " I don't even remember his name.  This democratic representative was giving this sort of prayerful invocation"
+    },
+    {
+        "IDENTITY_ATTACK": 0.013144426,
+        "INSULT": 0.019419061,
+        "PROFANITY": 0.011611853,
+        "SEVERE_TOXICITY": 0.0009393692,
+        "THREAT": 0.005948403,
+        "TOXICITY": 0.050821137,
+        "text": " And of course, he doesn't know the meaning of the word amen.  Amen does not have anything to do with the male or female"
+    },
+    {
+        "IDENTITY_ATTACK": 0.035847444,
+        "INSULT": 0.024382202,
+        "PROFANITY": 0.124631,
+        "SEVERE_TOXICITY": 0.005760193,
+        "THREAT": 0.0072235605,
+        "TOXICITY": 0.22980402,
+        "text": " It's a very ancient Hebrew word and it has has nothing to do with sex whatsoever.  Okay, fair enough"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006030651,
+        "INSULT": 0.031036375,
+        "PROFANITY": 0.020988565,
+        "SEVERE_TOXICITY": 0.002298355,
+        "THREAT": 0.008246276,
+        "TOXICITY": 0.08241652,
+        "text": " So we're all laughing at this guy.  We're all correcting him"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004439743,
+        "INSULT": 0.017356457,
+        "PROFANITY": 0.018255826,
+        "SEVERE_TOXICITY": 0.0013923645,
+        "THREAT": 0.007624879,
+        "TOXICITY": 0.04735767,
+        "text": " I think that's the wrong strategy.  I think that completely misunderstands what's happening"
+    },
+    {
+        "IDENTITY_ATTACK": 0.029917859,
+        "INSULT": 0.10148193,
+        "PROFANITY": 0.021056883,
+        "SEVERE_TOXICITY": 0.0026130676,
+        "THREAT": 0.008026198,
+        "TOXICITY": 0.19504376,
+        "text": " Conservatives are getting this all wrong in the same way that they get political correctness wrong more generally.  It is not enough to laugh at these guys"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011691323,
+        "INSULT": 0.54471385,
+        "PROFANITY": 0.1413768,
+        "SEVERE_TOXICITY": 0.010681152,
+        "THREAT": 0.0077284453,
+        "TOXICITY": 0.4850187,
+        "text": " While we're busy laughing and correcting these guys on these silly redefinitions and ridiculous etymology's, their scoring victories.  That's what I remember"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0048837173,
+        "INSULT": 0.031146556,
+        "PROFANITY": 0.014088398,
+        "SEVERE_TOXICITY": 0.001039505,
+        "THREAT": 0.0066215824,
+        "TOXICITY": 0.071337044,
+        "text": " Let, let Tnex let Tnex remember how we all joked about that.  Remember how we all joked about turning chairman into chairperson or chairwoman"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0038107792,
+        "INSULT": 0.014390918,
+        "PROFANITY": 0.016069634,
+        "SEVERE_TOXICITY": 0.001115799,
+        "THREAT": 0.0077284453,
+        "TOXICITY": 0.034277402,
+        "text": " That was the little, I guess I was in the 90s, people joked about that.  Then it happened"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004347248,
+        "INSULT": 0.015872927,
+        "PROFANITY": 0.013644327,
+        "SEVERE_TOXICITY": 0.0010824203,
+        "THREAT": 0.0068287146,
+        "TOXICITY": 0.030506283,
+        "text": " The let Tnex thing is being totally mainstreamed.  He or her, sir, being totally mainstreamed, the singular they, being totally mainstreamed"
+    },
+    {
+        "IDENTITY_ATTACK": 0.039972372,
+        "INSULT": 0.03522326,
+        "PROFANITY": 0.024199532,
+        "SEVERE_TOXICITY": 0.0024223328,
+        "THREAT": 0.0073789097,
+        "TOXICITY": 0.11652588,
+        "text": " What happens is the left doesn't care about these etymologies.  The left doesn't care"
+    },
+    {
+        "IDENTITY_ATTACK": 0.036878675,
+        "INSULT": 0.027347196,
+        "PROFANITY": 0.04216301,
+        "SEVERE_TOXICITY": 0.0025939941,
+        "THREAT": 0.008065036,
+        "TOXICITY": 0.10609736,
+        "text": " They're not going to feel embarrassed if you say, wait, actually, a man has nothing to do with men or women.  You're going to say, yeah, whatever"
+    },
+    {
+        "IDENTITY_ATTACK": 0.016360072,
+        "INSULT": 0.01465692,
+        "PROFANITY": 0.012243799,
+        "SEVERE_TOXICITY": 0.001077652,
+        "THREAT": 0.00713294,
+        "TOXICITY": 0.041172907,
+        "text": " Now it's political.  Now you better say a man or a woman"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0065856185,
+        "INSULT": 0.010628895,
+        "PROFANITY": 0.016957775,
+        "SEVERE_TOXICITY": 0.0013923645,
+        "THREAT": 0.008582866,
+        "TOXICITY": 0.02308189,
+        "text": " I have a strong hunch that this phrase is actually going to be mainstreamed.  Beyond that, listen to the new standard"
+    },
+    {
+        "IDENTITY_ATTACK": 0.06658725,
+        "INSULT": 0.020643732,
+        "PROFANITY": 0.02119352,
+        "SEVERE_TOXICITY": 0.0024795532,
+        "THREAT": 0.007534259,
+        "TOXICITY": 0.08083374,
+        "text": " He says, he invokes the monotheistic God, the name of the monotheistic God, Brahma.  Brahma is not the monotheistic God"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.031256735,
+        "PROFANITY": 0.032894265,
+        "SEVERE_TOXICITY": 0.004196167,
+        "THREAT": 0.00713294,
+        "TOXICITY": 0.11171334,
+        "text": " Brahma is the name of the pagan deity from South Asia that is a foreign deity in the United States.  But there's the establishment of a new standard"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008435511,
+        "INSULT": 0.012072904,
+        "PROFANITY": 0.011116544,
+        "SEVERE_TOXICITY": 0.0008535385,
+        "THREAT": 0.006375613,
+        "TOXICITY": 0.024731753,
+        "text": " And this new standard is secular liberalism.  And the new standard is enforced by politically correct speech codes and politically correct behavior codes"
+    },
+    {
+        "IDENTITY_ATTACK": 0.020178653,
+        "INSULT": 0.05203446,
+        "PROFANITY": 0.019485557,
+        "SEVERE_TOXICITY": 0.0016784668,
+        "THREAT": 0.0078449575,
+        "TOXICITY": 0.11098998,
+        "text": " And we giggle and we correct them and they enforce the standard.  There is a way around this, but conservatives don't quite know how to do it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0034777985,
+        "INSULT": 0.0114269,
+        "PROFANITY": 0.012004685,
+        "SEVERE_TOXICITY": 0.0007867813,
+        "THREAT": 0.006815769,
+        "TOXICITY": 0.022139108,
+        "text": " They can't quite see it.  And if you want to see really well, you've got to go to coastal at coastal"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00155391,
+        "INSULT": 0.00647737,
+        "PROFANITY": 0.010262563,
+        "SEVERE_TOXICITY": 0.0005531311,
+        "THREAT": 0.006576272,
+        "TOXICITY": 0.008796243,
+        "text": "com.  You can get prescription glasses starting at $9 with free shipping and 30 day risk free returns"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0016001574,
+        "INSULT": 0.013174911,
+        "PROFANITY": 0.01174849,
+        "SEVERE_TOXICITY": 0.00064373016,
+        "THREAT": 0.006220264,
+        "TOXICITY": 0.023671126,
+        "text": " I didn't say $900.  Sometimes you see glasses like nine, I didn't say $90"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0014891637,
+        "INSULT": 0.0072468747,
+        "PROFANITY": 0.010792031,
+        "SEVERE_TOXICITY": 0.0005245209,
+        "THREAT": 0.0062396824,
+        "TOXICITY": 0.009236055,
+        "text": " I said $9 plus they have the most advanced virtual trion technology that you will find anywhere with coastal.  You don't have to spend hours at the store or hundreds of dollars to get a new style"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0034777985,
+        "INSULT": 0.00971689,
+        "PROFANITY": 0.013883443,
+        "SEVERE_TOXICITY": 0.0011110306,
+        "THREAT": 0.008065036,
+        "TOXICITY": 0.023317585,
+        "text": " Just go to coastal. com, pick the frames that you want, enter your prescription details and your glasses will arrive in just a few days"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00466173,
+        "INSULT": 0.010818896,
+        "PROFANITY": 0.016411226,
+        "SEVERE_TOXICITY": 0.0010442734,
+        "THREAT": 0.0069905366,
+        "TOXICITY": 0.02343543,
+        "text": " I love it.  I've never seen anything like it because this is the trouble with buying glasses online"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0043102503,
+        "INSULT": 0.04442204,
+        "PROFANITY": 0.022696527,
+        "SEVERE_TOXICITY": 0.0027275085,
+        "THREAT": 0.012906751,
+        "TOXICITY": 0.113263406,
+        "text": " You just don't know really how they're going to look and usually it's just like a kind of picture and you put your face there.  No, with coastal, you can see you can turn your head"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0018036455,
+        "INSULT": 0.0094128875,
+        "PROFANITY": 0.011970525,
+        "SEVERE_TOXICITY": 0.00064373016,
+        "THREAT": 0.006259101,
+        "TOXICITY": 0.013885498,
+        "text": " You can see how they look on the side is really, really impressive stuff so helpful when you want to buy glasses and you can't beat the prices.  For a limited time, they are offering our listeners the best deal they have got going anywhere"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0013411723,
+        "INSULT": 0.0069713728,
+        "PROFANITY": 0.00998929,
+        "SEVERE_TOXICITY": 0.0005722046,
+        "THREAT": 0.0063497215,
+        "TOXICITY": 0.009173225,
+        "text": " 50% off your first pair of glasses at coastal. com slash Michael get free shipping, 30 day risk free returns and 50% off at coastal"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0076955543,
+        "INSULT": 0.019419061,
+        "PROFANITY": 0.02836696,
+        "SEVERE_TOXICITY": 0.0031661987,
+        "THREAT": 0.012906751,
+        "TOXICITY": 0.06421452,
+        "text": "com slash Michael is only for a limited time.  C O A S T A L dot com slash Michael some restrictions apply"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0048837173,
+        "INSULT": 0.014504919,
+        "PROFANITY": 0.010911589,
+        "SEVERE_TOXICITY": 0.00074863434,
+        "THREAT": 0.0070164283,
+        "TOXICITY": 0.026499467,
+        "text": " Great way to get very affordable good looking glasses, which you should go check out immediately.  There is a way around this, but it's going to be very difficult for conservatives"
+    },
+    {
+        "IDENTITY_ATTACK": 0.06294931,
+        "INSULT": 0.04032305,
+        "PROFANITY": 0.015454767,
+        "SEVERE_TOXICITY": 0.0020503998,
+        "THREAT": 0.007301235,
+        "TOXICITY": 0.11450345,
+        "text": " The way that the left is able to trample the culture and establish these new standards and get people to start saying a woman, which they're actually going to do.  Remember they changed rest in peace to rest in power"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0102854045,
+        "INSULT": 0.02012808,
+        "PROFANITY": 0.012312118,
+        "SEVERE_TOXICITY": 0.0011348724,
+        "THREAT": 0.006848133,
+        "TOXICITY": 0.0438942,
+        "text": " Rest in power doesn't make any sense, but the left goal says it now.  So I mean, I could either the left changed Christmas trees into holiday trees"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0075845607,
+        "INSULT": 0.0142009165,
+        "PROFANITY": 0.013234417,
+        "SEVERE_TOXICITY": 0.001077652,
+        "THREAT": 0.0065568537,
+        "TOXICITY": 0.031213367,
+        "text": " What holiday are they talking about? The only holiday that has a tree is Christmas, but still people now talk about it.  Holiday trees"
+    },
+    {
+        "IDENTITY_ATTACK": 0.02439919,
+        "INSULT": 0.03235855,
+        "PROFANITY": 0.024472807,
+        "SEVERE_TOXICITY": 0.0020980835,
+        "THREAT": 0.008129764,
+        "TOXICITY": 0.10870059,
+        "text": " How? How do they do it? Because the left is willing to defend their new politically correct standards.  They're willing to go out on a limb and say, you need to use the language that we want you to use"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0056236745,
+        "INSULT": 0.025413504,
+        "PROFANITY": 0.013336895,
+        "SEVERE_TOXICITY": 0.0015258789,
+        "THREAT": 0.009281937,
+        "TOXICITY": 0.07608539,
+        "text": " And the only way conservatives has responded is, hey, we're not going to tell you that you should say a certain thing or behave in a certain way.  We would never impose on you"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0031633168,
+        "INSULT": 0.023093075,
+        "PROFANITY": 0.013985921,
+        "SEVERE_TOXICITY": 0.0011444092,
+        "THREAT": 0.0072882893,
+        "TOXICITY": 0.06184035,
+        "text": " We would never force our views on you.  You can't legislate those sort of things"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0039587705,
+        "INSULT": 0.011084898,
+        "PROFANITY": 0.016035475,
+        "SEVERE_TOXICITY": 0.0011301041,
+        "THREAT": 0.007301235,
+        "TOXICITY": 0.026028076,
+        "text": " But we just, just please don't make us do it.  Not how it works, folks"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007954539,
+        "INSULT": 0.016632931,
+        "PROFANITY": 0.017709278,
+        "SEVERE_TOXICITY": 0.0016212463,
+        "THREAT": 0.007637825,
+        "TOXICITY": 0.04315203,
+        "text": " Not how speech codes work, not how language works, not how behavior works.  Either the Christmas tree is going to be, you're going to call it a Christmas tree or you're going to call it a holiday tree, but you're going to call it something"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008509507,
+        "INSULT": 0.014960921,
+        "PROFANITY": 0.011253181,
+        "SEVERE_TOXICITY": 0.0010538101,
+        "THREAT": 0.007909686,
+        "TOXICITY": 0.03357032,
+        "text": " It's going to have a name.  And the left is trying to push this view"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0543092,
+        "INSULT": 0.017163089,
+        "PROFANITY": 0.016957775,
+        "SEVERE_TOXICITY": 0.0022220612,
+        "THREAT": 0.0077025536,
+        "TOXICITY": 0.075294,
+        "text": " Either we're going to pray to God or we're going to pray to Brahma.  You're not going to pray to both"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0093974555,
+        "INSULT": 0.023479814,
+        "PROFANITY": 0.014054239,
+        "SEVERE_TOXICITY": 0.0014019012,
+        "THREAT": 0.008841781,
+        "TOXICITY": 0.06579731,
+        "text": " You can't you can't pray to both actually.  And so the way political correctness advances is they destroy the old standards"
+    },
+    {
+        "IDENTITY_ATTACK": 0.029917859,
+        "INSULT": 0.021546122,
+        "PROFANITY": 0.014976538,
+        "SEVERE_TOXICITY": 0.0019264221,
+        "THREAT": 0.0071199946,
+        "TOXICITY": 0.079250954,
+        "text": " They say, you're not allowed to say chairman, you're not allowed to pray to God.  You're not allowed to say amen"
+    },
+    {
+        "IDENTITY_ATTACK": 0.017163984,
+        "INSULT": 0.06250052,
+        "PROFANITY": 0.02303812,
+        "SEVERE_TOXICITY": 0.0036621094,
+        "THREAT": 0.007974415,
+        "TOXICITY": 0.1883923,
+        "text": " You're not allowed to call it a Christmas tree.  You're not allowed you're not allowed"
+    },
+    {
+        "IDENTITY_ATTACK": 0.016762028,
+        "INSULT": 0.089778624,
+        "PROFANITY": 0.05017922,
+        "SEVERE_TOXICITY": 0.008964539,
+        "THREAT": 0.011586283,
+        "TOXICITY": 0.28857216,
+        "text": " You're not allowed you're not allowed.  You're not allowed"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0061046463,
+        "INSULT": 0.026702631,
+        "PROFANITY": 0.024472807,
+        "SEVERE_TOXICITY": 0.0024414063,
+        "THREAT": 0.008815889,
+        "TOXICITY": 0.11181668,
+        "text": " That's offensive.  That's wrong"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009212466,
+        "INSULT": 0.015340924,
+        "PROFANITY": 0.016752819,
+        "SEVERE_TOXICITY": 0.0012493134,
+        "THREAT": 0.00814271,
+        "TOXICITY": 0.038519915,
+        "text": " And And because they believe in their new standard, they're willing to enforce it.  We don't really believe in it anymore"
+    },
+    {
+        "IDENTITY_ATTACK": 0.062039822,
+        "INSULT": 0.020450363,
+        "PROFANITY": 0.025770858,
+        "SEVERE_TOXICITY": 0.002708435,
+        "THREAT": 0.009256045,
+        "TOXICITY": 0.08795626,
+        "text": " The way to actually fight back against this is to publicly say amen a lot and really believe it.  The way to fight back against this is to actually have a robust, I suppose you'd say traditional culture, which is heavily, heavily Christian culture, and actually believe in it and actually be willing to make claims about it and actually say there is one God, his name is God"
+    },
+    {
+        "IDENTITY_ATTACK": 0.099072486,
+        "INSULT": 0.027347196,
+        "PROFANITY": 0.019348921,
+        "SEVERE_TOXICITY": 0.002784729,
+        "THREAT": 0.0065697995,
+        "TOXICITY": 0.11212669,
+        "text": " And that's the God that we worship in the United States.  And we don't worship a bunch of other gods"
+    },
+    {
+        "IDENTITY_ATTACK": 0.06749674,
+        "INSULT": 0.037980765,
+        "PROFANITY": 0.024199532,
+        "SEVERE_TOXICITY": 0.0031089783,
+        "THREAT": 0.007948523,
+        "TOXICITY": 0.14256015,
+        "text": " Are you willing to make that claim? Are you willing to go out there and exert those standards? Are you willing to say, Hey, not only is it not the case that men can become women, but it is disordered that men should behave like women and we should discourage them from doing.  Are you willing to go that far? Are you willing to actually? And by the way, when I say that far, I mean, the thing everyone would have agreed on 10 years ago"
+    },
+    {
+        "IDENTITY_ATTACK": 0.25986546,
+        "INSULT": 0.097093195,
+        "PROFANITY": 0.036401358,
+        "SEVERE_TOXICITY": 0.00541687,
+        "THREAT": 0.007314181,
+        "TOXICITY": 0.2524482,
+        "text": " The idea that men are not women because the the the rut that conservatives in the right are stuck in is they'll say, Hey, I don't want to make any claims.  Look, if you want, if you're a man and you want to pretend to be a woman, that's totally fine"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0058086636,
+        "INSULT": 0.015188923,
+        "PROFANITY": 0.022901481,
+        "SEVERE_TOXICITY": 0.0017642975,
+        "THREAT": 0.009566744,
+        "TOXICITY": 0.045131154,
+        "text": " It's fine.  Just don't make me do it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.053399716,
+        "INSULT": 0.030816011,
+        "PROFANITY": 0.017777596,
+        "SEVERE_TOXICITY": 0.002155304,
+        "THREAT": 0.006259101,
+        "TOXICITY": 0.11088664,
+        "text": " Just don't well in that case, you've established the principle that a man really can become a woman or that it's totally normal or totally acceptable.  You've established the principle that a Christmas tree, yeah, maybe it's not a Christmas tree"
+    },
+    {
+        "IDENTITY_ATTACK": 0.060675595,
+        "INSULT": 0.1823172,
+        "PROFANITY": 0.052934792,
+        "SEVERE_TOXICITY": 0.0041007996,
+        "THREAT": 0.0076507707,
+        "TOXICITY": 0.2412222,
+        "text": " You've established the principle that maybe the God that that our nation has historically worshiped that we can find reference to him in the Declaration of Independence and in state constitutions and in the Connecticut code and in the writings of all of our forefathers, that that maybe that God's actually Brahma, right? Maybe it's not though.  And unless we are willing to make substantive moral claims, which frankly, I think most conservatives are not because I think we're cowardly and we think it's impolite or something and we don't even really believe it much ourselves"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0052166977,
+        "INSULT": 0.009545889,
+        "PROFANITY": 0.014225035,
+        "SEVERE_TOXICITY": 0.0017547607,
+        "THREAT": 0.009877442,
+        "TOXICITY": 0.026617315,
+        "text": " Unless we're going to do that, you're going to get amen.  You're going to get it just amen"
+    },
+    {
+        "IDENTITY_ATTACK": 0.06658725,
+        "INSULT": 0.036325075,
+        "PROFANITY": 0.024609445,
+        "SEVERE_TOXICITY": 0.0040626526,
+        "THREAT": 0.010550622,
+        "TOXICITY": 0.16331999,
+        "text": " You're going to get a woman.  You're going to get political correctness"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0046987277,
+        "INSULT": 0.02425329,
+        "PROFANITY": 0.017026093,
+        "SEVERE_TOXICITY": 0.0013446808,
+        "THREAT": 0.0067834044,
+        "TOXICITY": 0.05750068,
+        "text": " This is why political correctness advances.  We laugh at it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0045137387,
+        "INSULT": 0.023866551,
+        "PROFANITY": 0.015932998,
+        "SEVERE_TOXICITY": 0.0014209747,
+        "THREAT": 0.0077154995,
+        "TOXICITY": 0.059727192,
+        "text": " We joke about it and they get the wins.  New standards"
+    },
+    {
+        "IDENTITY_ATTACK": 0.052944973,
+        "INSULT": 0.097093195,
+        "PROFANITY": 0.048175167,
+        "SEVERE_TOXICITY": 0.0050735474,
+        "THREAT": 0.009256045,
+        "TOXICITY": 0.20242359,
+        "text": " You know, it was a little bizarre the other day because I saw that a figure on the left, this entertainer, James Corden, he hosts one of the late shows.  James Corden is overweight"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006696612,
+        "INSULT": 0.021610579,
+        "PROFANITY": 0.01620627,
+        "SEVERE_TOXICITY": 0.0017166138,
+        "THREAT": 0.0067898775,
+        "TOXICITY": 0.049336795,
+        "text": " He doesn't doesn't look super healthy.  And he came out and he posted a video and he said, you know, I'm going to partner with Weight Watchers now, which I think has since renamed themselves"
+    },
+    {
+        "IDENTITY_ATTACK": 0.024198212,
+        "INSULT": 0.02193286,
+        "PROFANITY": 0.013439372,
+        "SEVERE_TOXICITY": 0.0015735626,
+        "THREAT": 0.006440342,
+        "TOXICITY": 0.057748068,
+        "text": " I think they're now called WW because these new changing standards say you're not allowed to criticize being overweight.  You're not allowed to suggest that's better to be a healthy weight than an unhealthy weight"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0059936526,
+        "INSULT": 0.013402912,
+        "PROFANITY": 0.01442999,
+        "SEVERE_TOXICITY": 0.0011253357,
+        "THREAT": 0.006861079,
+        "TOXICITY": 0.030388435,
+        "text": " So they changed their name.  He says, anyway, I'm going to partner with Weight Watchers because I feel unhealthy and I want to be healthier"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006030651,
+        "INSULT": 0.010210892,
+        "PROFANITY": 0.016342908,
+        "SEVERE_TOXICITY": 0.0014591217,
+        "THREAT": 0.0071588317,
+        "TOXICITY": 0.021785567,
+        "text": " And I felt it was so refreshing.  It was so traditional"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0027378413,
+        "INSULT": 0.010058892,
+        "PROFANITY": 0.01261955,
+        "SEVERE_TOXICITY": 0.0011825562,
+        "THREAT": 0.007598988,
+        "TOXICITY": 0.019603057,
+        "text": " It was so sane.  Take a listen"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0040512653,
+        "INSULT": 0.008937885,
+        "PROFANITY": 0.014805742,
+        "SEVERE_TOXICITY": 0.0012159348,
+        "THREAT": 0.007948523,
+        "TOXICITY": 0.018095128,
+        "text": " I've realized that every year for the past decades, probably even 15 years, on January 1st, I've told myself and anyone that would listen that this is it.  This is the year"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010581387,
+        "INSULT": 0.013326911,
+        "PROFANITY": 0.023106437,
+        "SEVERE_TOXICITY": 0.0025939941,
+        "THREAT": 0.012233571,
+        "TOXICITY": 0.06421452,
+        "text": " I'm going on a diet.  I'm going to lose a load of weight"
+    },
+    {
+        "IDENTITY_ATTACK": 0.019676208,
+        "INSULT": 0.06459839,
+        "PROFANITY": 0.08096472,
+        "SEVERE_TOXICITY": 0.004673004,
+        "THREAT": 0.00756015,
+        "TOXICITY": 0.19694418,
+        "text": " I'm fed up with the way I look.  I'm fed up with being unhealthy and this is it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0032743104,
+        "INSULT": 0.008462882,
+        "PROFANITY": 0.014669105,
+        "SEVERE_TOXICITY": 0.0012397766,
+        "THREAT": 0.0074954215,
+        "TOXICITY": 0.017341165,
+        "text": " This is the year I'm doing it.  And because of that, I've over Christmas eaten everything that's in the fridge because in my head in January, I'm starting this diet and it'll be a success"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0036627878,
+        "INSULT": 0.012148905,
+        "PROFANITY": 0.018529098,
+        "SEVERE_TOXICITY": 0.0012588501,
+        "THREAT": 0.007935578,
+        "TOXICITY": 0.029327808,
+        "text": " And as you can see, well, it hasn't.  And it started to get me down in a way that I've just sort of never really been able to stick to anything like that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0073255757,
+        "INSULT": 0.027218282,
+        "PROFANITY": 0.030639706,
+        "SEVERE_TOXICITY": 0.0022125244,
+        "THREAT": 0.008103873,
+        "TOXICITY": 0.091913216,
+        "text": " And I think I've just probably spent a long time just accepting that this is my body and that's it.  But I really am sick and tired really of just doing the same thing every year"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0027748393,
+        "INSULT": 0.009032886,
+        "PROFANITY": 0.012004685,
+        "SEVERE_TOXICITY": 0.0006580353,
+        "THREAT": 0.006382086,
+        "TOXICITY": 0.015393426,
+        "text": " Totally understandable, totally normal feeling.  You're thinking a lot of us have felt it various times"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0034223017,
+        "INSULT": 0.011920903,
+        "PROFANITY": 0.0166845,
+        "SEVERE_TOXICITY": 0.0010204315,
+        "THREAT": 0.00704232,
+        "TOXICITY": 0.028974265,
+        "text": " I'm just not, I'm not feeling good.  I should do something to better myself"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006030651,
+        "INSULT": 0.012642908,
+        "PROFANITY": 0.018392462,
+        "SEVERE_TOXICITY": 0.0012302399,
+        "THREAT": 0.0069905366,
+        "TOXICITY": 0.029563503,
+        "text": " I'm not perfect the way that I am.  None of us is"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0029413297,
+        "INSULT": 0.008899884,
+        "PROFANITY": 0.011902207,
+        "SEVERE_TOXICITY": 0.0008869171,
+        "THREAT": 0.006848133,
+        "TOXICITY": 0.016838523,
+        "text": " And we can always do things to maybe improve our lives and practice and virtues and exercise sure.  Okay"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009471451,
+        "INSULT": 0.014048916,
+        "PROFANITY": 0.017982552,
+        "SEVERE_TOXICITY": 0.0015640259,
+        "THREAT": 0.008893564,
+        "TOXICITY": 0.039462693,
+        "text": " So he says that therefore I'm going to go start start up with weight watchers.  But they won't use that word"
+    },
+    {
+        "IDENTITY_ATTACK": 0.017063495,
+        "INSULT": 0.021417208,
+        "PROFANITY": 0.013985921,
+        "SEVERE_TOXICITY": 0.0016021729,
+        "THREAT": 0.0070164283,
+        "TOXICITY": 0.055026773,
+        "text": " Wait for that term.  Weight watchers because there's a new standard, which says you don't need to be thin and healthy to be thin and healthy"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.15627414,
+        "PROFANITY": 0.023584666,
+        "SEVERE_TOXICITY": 0.004787445,
+        "THREAT": 0.0065244893,
+        "TOXICITY": 0.2396185,
+        "text": " No, actually, these are covers from Cosmo Magazine.  Cover says this is healthy and it's an obviously very overweight woman who's obviously not healthy"
+    },
+    {
+        "IDENTITY_ATTACK": 0.023796257,
+        "INSULT": 0.018452216,
+        "PROFANITY": 0.0137468055,
+        "SEVERE_TOXICITY": 0.0012779236,
+        "THREAT": 0.0063432488,
+        "TOXICITY": 0.054037213,
+        "text": " 11 women on why wellness doesn't have to be one size fits all.  Now here, here I guess is one of these tricks posed by political correctness"
+    },
+    {
+        "IDENTITY_ATTACK": 0.1508922,
+        "INSULT": 0.16766082,
+        "PROFANITY": 0.020920247,
+        "SEVERE_TOXICITY": 0.004501343,
+        "THREAT": 0.0068999166,
+        "TOXICITY": 0.25462922,
+        "text": " Conservatives want to be polite.  If you saw either of these women on the cover of Cosmo, either of these unhealthy women who it says this is healthy"
+    },
+    {
+        "IDENTITY_ATTACK": 0.23391083,
+        "INSULT": 0.43158367,
+        "PROFANITY": 0.1110661,
+        "SEVERE_TOXICITY": 0.015544481,
+        "THREAT": 0.0084793,
+        "TOXICITY": 0.4014846,
+        "text": " If you saw either of them on the street, would you walk up to them and say, hey, you're you're on health at your fat.  You're unhealthy"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0025713511,
+        "INSULT": 0.008785884,
+        "PROFANITY": 0.012243799,
+        "SEVERE_TOXICITY": 0.00081062317,
+        "THREAT": 0.006763986,
+        "TOXICITY": 0.016838523,
+        "text": " No, nobody would do that.  That's in polite"
+    },
+    {
+        "IDENTITY_ATTACK": 0.048995655,
+        "INSULT": 0.039444692,
+        "PROFANITY": 0.017982552,
+        "SEVERE_TOXICITY": 0.001964569,
+        "THREAT": 0.006492125,
+        "TOXICITY": 0.11067997,
+        "text": " We don't want to be in polite.  It is the left that is making us say things that are uncomfortable and might seem in polite because they're not merely saying, hey, be nice to people who have certain deficiencies or people who have certain health problems or whatever"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0043102503,
+        "INSULT": 0.016024929,
+        "PROFANITY": 0.017777596,
+        "SEVERE_TOXICITY": 0.001411438,
+        "THREAT": 0.007883795,
+        "TOXICITY": 0.03875561,
+        "text": " Yeah, of course, no one needs to tell you that.  They're walking up to us and they're saying, hey, hey, two plus two equals five, right? You need to say that two plus two equals five"
+    },
+    {
+        "IDENTITY_ATTACK": 0.027413858,
+        "INSULT": 0.40698266,
+        "PROFANITY": 0.08710717,
+        "SEVERE_TOXICITY": 0.0075531006,
+        "THREAT": 0.0073918556,
+        "TOXICITY": 0.38434127,
+        "text": " If you don't say the two plus two equals five, you're a bigot.  And we look at that and we say, look, man, I don't care"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01857083,
+        "INSULT": 0.019934712,
+        "PROFANITY": 0.01805087,
+        "SEVERE_TOXICITY": 0.0015449524,
+        "THREAT": 0.0074954215,
+        "TOXICITY": 0.059479803,
+        "text": " You know, if the lady, whatever, she's got her own struggles or whatever, but two plus two does not equal five.  And that is not healthy"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008176526,
+        "INSULT": 0.019161236,
+        "PROFANITY": 0.016821137,
+        "SEVERE_TOXICITY": 0.0011491776,
+        "THREAT": 0.0064015044,
+        "TOXICITY": 0.049831573,
+        "text": " That is an inversion of standards.  It's what political correctness always does because the whole, because it is a purely negative movement"
+    },
+    {
+        "IDENTITY_ATTACK": 0.06749674,
+        "INSULT": 0.026702631,
+        "PROFANITY": 0.024882717,
+        "SEVERE_TOXICITY": 0.0025749207,
+        "THREAT": 0.007819066,
+        "TOXICITY": 0.10826672,
+        "text": " And I think the A man, a women thing is kind of waking some people up to this.  It's a purely negative movement to overturn everything we once thought was true, to remake the world"
+    },
+    {
+        "IDENTITY_ATTACK": 0.015053716,
+        "INSULT": 0.060927123,
+        "PROFANITY": 0.025360947,
+        "SEVERE_TOXICITY": 0.002632141,
+        "THREAT": 0.009204263,
+        "TOXICITY": 0.11202335,
+        "text": " You know, at John Kennedy, popularized this phrase when he was president and he was referring to a socialist playwright, George Bernard Shaw, and he was quoting Shaw and Kennedy said, some people see things that are and say, why I dream things that never were and say, why not? And his brother Robert Kennedy then used this phrase when he was running for president.  And after Robert Kennedy died, Ted Kennedy quoted it at Robert's funeral and a lot of left wing politicians have quoted this as an inspiration ever since then"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0047172266,
+        "INSULT": 0.047349896,
+        "PROFANITY": 0.014839902,
+        "SEVERE_TOXICITY": 0.0012874603,
+        "THREAT": 0.006925808,
+        "TOXICITY": 0.10566349,
+        "text": " And one of the funny things about Kennedy quoting literature is that John Kennedy liked to quote literature, but he never read literature.  So he's always misquoting all these authors, Dante is misquoting Shaw"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008065533,
+        "INSULT": 0.034782536,
+        "PROFANITY": 0.02126184,
+        "SEVERE_TOXICITY": 0.00166893,
+        "THREAT": 0.0071588317,
+        "TOXICITY": 0.0926474,
+        "text": " What he said, what he was quoting from Shaw is actually seen from a place series called Back to Methuselah.  And that phrase comes from the mouth of the serpent in the garden of Eden tempting Eve"
+    },
+    {
+        "IDENTITY_ATTACK": 0.02821777,
+        "INSULT": 0.15556364,
+        "PROFANITY": 0.09001675,
+        "SEVERE_TOXICITY": 0.005836487,
+        "THREAT": 0.008013252,
+        "TOXICITY": 0.25462922,
+        "text": " It is the words of the devil in even in Shaw is describing the words of the devil here.  And the left is quoting this is some great thing"
+    },
+    {
+        "IDENTITY_ATTACK": 0.027614836,
+        "INSULT": 0.025929155,
+        "PROFANITY": 0.014703264,
+        "SEVERE_TOXICITY": 0.0017642975,
+        "THREAT": 0.007094103,
+        "TOXICITY": 0.06817148,
+        "text": " But it reminds me of Whitaker Chambers, who says, communism, he's an ex-communist.  And by extension, I think we could say all sort of radical leftism"
+    },
+    {
+        "IDENTITY_ATTACK": 0.025605056,
+        "INSULT": 0.06337463,
+        "PROFANITY": 0.03715288,
+        "SEVERE_TOXICITY": 0.0030899048,
+        "THREAT": 0.0071588317,
+        "TOXICITY": 0.14082454,
+        "text": " It is the, it's not a new ideology.  It's the second oldest alternative faith of mankind that began in the garden when the serpent said, ye shall be his gods"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008213525,
+        "INSULT": 0.01929015,
+        "PROFANITY": 0.021330157,
+        "SEVERE_TOXICITY": 0.0013542175,
+        "THREAT": 0.006543908,
+        "TOXICITY": 0.048099842,
+        "text": " It's trying to construct a fantasy world whereby this is healthy whereby a man is who cares about the etymology of it, who cares about what it means.  It means whatever we say it means"
+    },
+    {
+        "IDENTITY_ATTACK": 0.40713623,
+        "INSULT": 0.41767508,
+        "PROFANITY": 0.12286829,
+        "SEVERE_TOXICITY": 0.014898917,
+        "THREAT": 0.008375733,
+        "TOXICITY": 0.4269174,
+        "text": " And that nasty word man is in there.  And we can't have man in there because men are bad, because according to the new standard, men are bad"
+    },
+    {
+        "IDENTITY_ATTACK": 0.27991617,
+        "INSULT": 0.056719027,
+        "PROFANITY": 0.025087673,
+        "SEVERE_TOXICITY": 0.0059509277,
+        "THREAT": 0.007689608,
+        "TOXICITY": 0.23451406,
+        "text": " And we, and the future is female.  And there's actually no such thing as men or women"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008176526,
+        "INSULT": 0.058475737,
+        "PROFANITY": 0.02795705,
+        "SEVERE_TOXICITY": 0.0024223328,
+        "THREAT": 0.008582866,
+        "TOXICITY": 0.13041082,
+        "text": " That is a totally new code.  And if we think that we're going to oppose that kind of code with limp laughing and with these sort of shallow encomia to libertarianism and you do you and do whatever you want"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0051427023,
+        "INSULT": 0.014504919,
+        "PROFANITY": 0.014327513,
+        "SEVERE_TOXICITY": 0.00166893,
+        "THREAT": 0.008168601,
+        "TOXICITY": 0.050078966,
+        "text": " We're hoping for something that never was and never will be.  No society has ever existed that way"
+    },
+    {
+        "IDENTITY_ATTACK": 0.002830336,
+        "INSULT": 0.017872108,
+        "PROFANITY": 0.013576009,
+        "SEVERE_TOXICITY": 0.0014305115,
+        "THREAT": 0.008323951,
+        "TOXICITY": 0.04785245,
+        "text": " And ours will not either.  And it's why we have continued to lose, lose, lose"
+    },
+    {
+        "IDENTITY_ATTACK": 0.023997234,
+        "INSULT": 0.5393265,
+        "PROFANITY": 0.16031636,
+        "SEVERE_TOXICITY": 0.02167734,
+        "THREAT": 0.34876925,
+        "TOXICITY": 0.5140397,
+        "text": " And what do we do to losers? We fire them.  That's what we do"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005364689,
+        "INSULT": 0.06921569,
+        "PROFANITY": 0.04366605,
+        "SEVERE_TOXICITY": 0.0039863586,
+        "THREAT": 0.008323951,
+        "TOXICITY": 0.15711457,
+        "text": " And we get better people, which is why you need zipper croeter.  If you want, if you got, you know, if you want your team to be performing, you've got a higher, really good people, best way to find really good people, zipper croeter"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0023493639,
+        "INSULT": 0.011578901,
+        "PROFANITY": 0.0127561875,
+        "SEVERE_TOXICITY": 0.00077724457,
+        "THREAT": 0.0062979385,
+        "TOXICITY": 0.021196328,
+        "text": " When you post a job on zipper croeter, it gets sent out to over 100 top job sites with one click.  Then, zipper croeters, matching technology scans thousands of resumes and profiles to send you the most qualified people for your job"
+    },
+    {
+        "IDENTITY_ATTACK": 0.002552852,
+        "INSULT": 0.017227544,
+        "PROFANITY": 0.0147374235,
+        "SEVERE_TOXICITY": 0.0011062622,
+        "THREAT": 0.008349842,
+        "TOXICITY": 0.04290464,
+        "text": " If you are seriously interested in a candidate, you can even invite them to apply for your job with just one click.  It's not just like throwing spaghetti at the wall"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0023493639,
+        "INSULT": 0.015872927,
+        "PROFANITY": 0.012995303,
+        "SEVERE_TOXICITY": 0.0009727478,
+        "THREAT": 0.007068211,
+        "TOXICITY": 0.031449065,
+        "text": " Zipper croeter will go out, send an email from you, and you stand out from the competition.  It's so effective that four out of five employers who post on zipper croeter get a quality candidate through the site within the first day"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0021273769,
+        "INSULT": 0.007854878,
+        "PROFANITY": 0.010587076,
+        "SEVERE_TOXICITY": 0.0006246567,
+        "THREAT": 0.0064144502,
+        "TOXICITY": 0.010492661,
+        "text": " It's the most important investment that your business can make is in people.  And when you're conducting these kind of searches, time is money you want to get the best fit"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008102531,
+        "INSULT": 0.019419061,
+        "PROFANITY": 0.04366605,
+        "SEVERE_TOXICITY": 0.0033950806,
+        "THREAT": 0.011767523,
+        "TOXICITY": 0.06104896,
+        "text": " Right now, you can try zipper croeter for free at zipper croeter. com slash Knolls that is zipper croeter"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0047172266,
+        "INSULT": 0.020063626,
+        "PROFANITY": 0.022559889,
+        "SEVERE_TOXICITY": 0.002155304,
+        "THREAT": 0.009463178,
+        "TOXICITY": 0.05354243,
+        "text": "com slash can or W L E S.  Just go to zip recruiter"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0032188136,
+        "INSULT": 0.027347196,
+        "PROFANITY": 0.023994578,
+        "SEVERE_TOXICITY": 0.0023651123,
+        "THREAT": 0.009048914,
+        "TOXICITY": 0.071337044,
+        "text": "com slash Knolls zipper croeter the absolute 100% smartest way to hire.  Go check them out"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005364689,
+        "INSULT": 0.012300906,
+        "PROFANITY": 0.015728042,
+        "SEVERE_TOXICITY": 0.001039505,
+        "THREAT": 0.0071588317,
+        "TOXICITY": 0.025320992,
+        "text": " Also, Daily Wire has been talking for a long time.  We lived in a Hollywood for a long time"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0061416444,
+        "INSULT": 0.014390918,
+        "PROFANITY": 0.015591404,
+        "SEVERE_TOXICITY": 0.0012588501,
+        "THREAT": 0.007689608,
+        "TOXICITY": 0.03828422,
+        "text": " Since the beginning of this company, basically, we've said we want to affect culture.  We want to go out there"
+    },
+    {
+        "IDENTITY_ATTACK": 0.050671257,
+        "INSULT": 0.021288296,
+        "PROFANITY": 0.019075647,
+        "SEVERE_TOXICITY": 0.0029182434,
+        "THREAT": 0.011172019,
+        "TOXICITY": 0.09828771,
+        "text": " We don't want to just comment on culture.  We actually want to put that culture out into the world"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006178642,
+        "INSULT": 0.013174911,
+        "PROFANITY": 0.01220964,
+        "SEVERE_TOXICITY": 0.00086307526,
+        "THREAT": 0.006641001,
+        "TOXICITY": 0.025674535,
+        "text": " We want to be makers of culture so that conservatives can overcome this criticism we sometimes get, which is that we just wine, wine, wine, but we never actually go out there and do things and produce things.  What we're doing then, we, the minute we left New Salinis, California, we're out here in Nashville"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006474625,
+        "INSULT": 0.010552894,
+        "PROFANITY": 0.019690514,
+        "SEVERE_TOXICITY": 0.0018310547,
+        "THREAT": 0.010421164,
+        "TOXICITY": 0.026499467,
+        "text": " We're actually creating things.  We have our first movie coming in"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0027933381,
+        "INSULT": 0.009051885,
+        "PROFANITY": 0.013166099,
+        "SEVERE_TOXICITY": 0.0012397766,
+        "THREAT": 0.008945347,
+        "TOXICITY": 0.019854378,
+        "text": " It's coming out in 10 days or less.  Nine days, I guess"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003866276,
+        "INSULT": 0.014808921,
+        "PROFANITY": 0.018392462,
+        "SEVERE_TOXICITY": 0.0020122528,
+        "THREAT": 0.012596053,
+        "TOXICITY": 0.05651112,
+        "text": " That movie is run hide fight.  Make sure you go check out the run hide fight trailer after the show"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007029593,
+        "INSULT": 0.011274899,
+        "PROFANITY": 0.019143965,
+        "SEVERE_TOXICITY": 0.0017738342,
+        "THREAT": 0.011586283,
+        "TOXICITY": 0.026617315,
+        "text": " You can check it out on the Daily Wire YouTube channel and gear up to watch the premiere with us in about nine days.  Head on over to Daily Wire"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0055866763,
+        "INSULT": 0.009906891,
+        "PROFANITY": 0.018119188,
+        "SEVERE_TOXICITY": 0.0016212463,
+        "THREAT": 0.008867673,
+        "TOXICITY": 0.022846194,
+        "text": "com.  We'll be right back with a lot more"
+    },
+    {
+        "IDENTITY_ATTACK": 0.19890837,
+        "INSULT": 0.09416737,
+        "PROFANITY": 0.052934792,
+        "SEVERE_TOXICITY": 0.009307861,
+        "THREAT": 0.008362788,
+        "TOXICITY": 0.2667042,
+        "text": " So you've got the new fat standards, right? New standards of weight and beauty.  You also have new racial standards"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0055496786,
+        "INSULT": 0.013364912,
+        "PROFANITY": 0.015591404,
+        "SEVERE_TOXICITY": 0.0011348724,
+        "THREAT": 0.0073918556,
+        "TOXICITY": 0.029327808,
+        "text": " This one is a little, it's a little more subtle too.  I notice with all these big viral stories going around the A-Men and Bernstein, all these sorts of things"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0034962974,
+        "INSULT": 0.009032886,
+        "PROFANITY": 0.014225035,
+        "SEVERE_TOXICITY": 0.0011062622,
+        "THREAT": 0.00746953,
+        "TOXICITY": 0.02072494,
+        "text": " What's more interesting about them is not what's on the surface.  What's more interesting is what's been happening"
+    },
+    {
+        "IDENTITY_ATTACK": 0.014752249,
+        "INSULT": 0.06826523,
+        "PROFANITY": 0.1067334,
+        "SEVERE_TOXICITY": 0.0064468384,
+        "THREAT": 0.009747985,
+        "TOXICITY": 0.17285149,
+        "text": " And this is certainly true of a video that went viral.  It's chunk Uger"
+    },
+    {
+        "IDENTITY_ATTACK": 0.36702603,
+        "INSULT": 0.3388922,
+        "PROFANITY": 0.16031636,
+        "SEVERE_TOXICITY": 0.017739398,
+        "THREAT": 0.012647836,
+        "TOXICITY": 0.36456755,
+        "text": " He's that guy from the young Turks who just yells all the time and he's very vulgar and that's just that's this whole stick as you just yells and he's kind of like, you know, the entire left, I guess, that's their, their stick.  They just yell and say a lot of swear words, but chunk Uger did the thing that everybody with a blue checkmark on Twitter is tempted to do at the airport when their flight is delayed"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0027748393,
+        "INSULT": 0.023608726,
+        "PROFANITY": 0.014088398,
+        "SEVERE_TOXICITY": 0.0012207031,
+        "THREAT": 0.00756015,
+        "TOXICITY": 0.058737632,
+        "text": " You are so tempted to just immediately go and complain on social media.  I think we've all done it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.017063495,
+        "INSULT": 0.04032305,
+        "PROFANITY": 0.017026093,
+        "SEVERE_TOXICITY": 0.0019264221,
+        "THREAT": 0.0074048014,
+        "TOXICITY": 0.103928015,
+        "text": " Every single per conservative moderate liberal, if you have any kind of social media network, you complain about it.  And then you, you hope that in some mystical way, this will get your plane to show up more quickly"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006437627,
+        "INSULT": 0.11464815,
+        "PROFANITY": 0.06195303,
+        "SEVERE_TOXICITY": 0.0038337708,
+        "THREAT": 0.008893564,
+        "TOXICITY": 0.20149297,
+        "text": " So chunk loses it because he's more excitable than most people.  The flights delayed, however, many hours and he starts filming the staff because he's not getting answers and he starts, starts bad dream"
+    },
+    {
+        "IDENTITY_ATTACK": 0.22063516,
+        "INSULT": 0.62169385,
+        "PROFANITY": 0.47435758,
+        "SEVERE_TOXICITY": 0.030523606,
+        "THREAT": 0.0077154995,
+        "TOXICITY": 0.6989911,
+        "text": " Take a listen.  We've been here three hours and American Airlines sucks"
+    },
+    {
+        "IDENTITY_ATTACK": 0.017465452,
+        "INSULT": 0.26957804,
+        "PROFANITY": 0.33453682,
+        "SEVERE_TOXICITY": 0.023076924,
+        "THREAT": 0.077831104,
+        "TOXICITY": 0.38601747,
+        "text": " They decided for whatever reason to screw everybody on this flight.  It just frustrates me to some industries, just get to screw you over and go, nah, you got to fly at some point, right? It is Gustavo"
+    },
+    {
+        "IDENTITY_ATTACK": 0.026007013,
+        "INSULT": 0.032468732,
+        "PROFANITY": 0.0838743,
+        "SEVERE_TOXICITY": 0.006866455,
+        "THREAT": 0.025098583,
+        "TOXICITY": 0.16678599,
+        "text": " That's a TYT viewer.  I, I, and I'm hungry and I'm tired"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006178642,
+        "INSULT": 0.028612386,
+        "PROFANITY": 0.031140719,
+        "SEVERE_TOXICITY": 0.004043579,
+        "THREAT": 0.042662576,
+        "TOXICITY": 0.12520397,
+        "text": " And so like, you know me, I get more agitated when I'm hungry and tired.  So look, if you guys think this is bad, wait till if that plane doesn't actually come from the hangar in 20 minutes"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0042732526,
+        "INSULT": 0.04032305,
+        "PROFANITY": 0.017982552,
+        "SEVERE_TOXICITY": 0.0019836426,
+        "THREAT": 0.008039144,
+        "TOXICITY": 0.11067997,
+        "text": " Is the flight coming? Supervisors, the flight coming, super buys you at least got to be honest.  Is there a flight? Is there a plane? You got to be honest"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006770608,
+        "INSULT": 0.1342682,
+        "PROFANITY": 0.03915693,
+        "SEVERE_TOXICITY": 0.004043579,
+        "THREAT": 0.007922632,
+        "TOXICITY": 0.24924077,
+        "text": " Is there a plane? Is there a plane? Where's the plane? Okay.  So it's, it's rude"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010951365,
+        "INSULT": 0.17361937,
+        "PROFANITY": 0.09961538,
+        "SEVERE_TOXICITY": 0.0063705444,
+        "THREAT": 0.012130005,
+        "TOXICITY": 0.28425202,
+        "text": " He shouldn't do this, but it's actually kind of funny, right? And he's, he's not actually right in the face.  He's kind of making a joke about it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.26833034,
+        "INSULT": 0.34782293,
+        "PROFANITY": 0.15195307,
+        "SEVERE_TOXICITY": 0.015415368,
+        "THREAT": 0.012699619,
+        "TOXICITY": 0.36456755,
+        "text": " And so I'm actually I can't believe I have to sort of defend chunk Uger for being just as rude as he always is, but not particularly rude.  What's interesting in the story to me is that when this was posted to the internet sort of went viral, the, the comment on it was, here is a two minute video of chunk Uger screaming at black airline employees because flight was delayed"
+    },
+    {
+        "IDENTITY_ATTACK": 0.46028158,
+        "INSULT": 0.36193377,
+        "PROFANITY": 0.14049543,
+        "SEVERE_TOXICITY": 0.02296847,
+        "THREAT": 0.011275585,
+        "TOXICITY": 0.41910073,
+        "text": " Why do I care that the airline employees are black? Why do I get, why does that make it worse? Now I suspect what's happening here is the viral post is pointing out the kind of hypocrisy, this irony of the new left wing politically correct standard, which is, you know, black people are sort of a special class.  Really any historically aggrieved minority who can claim grievance in victimhood is a special class entitled to special privileges and white people are bad in the same way that, you know, women are good and any kind of sexual sexually confused person is really good, but men are really bad"
+    },
+    {
+        "IDENTITY_ATTACK": 0.5135796,
+        "INSULT": 0.44464502,
+        "PROFANITY": 0.36230123,
+        "SEVERE_TOXICITY": 0.08069076,
+        "THREAT": 0.13815513,
+        "TOXICITY": 0.48021027,
+        "text": " You know, and you see this in the slogans of die, white, cis, scum, you know, or dead white males are terrible.  And you got to take them out of university curricula, decolonize the English department, which is very funny because, you know, for instance, major English writers just as a sort of by definition tend to be white, white guys because the English people are white"
+    },
+    {
+        "IDENTITY_ATTACK": 0.36702603,
+        "INSULT": 0.0818789,
+        "PROFANITY": 0.06646215,
+        "SEVERE_TOXICITY": 0.01121521,
+        "THREAT": 0.012751401,
+        "TOXICITY": 0.29771072,
+        "text": " And so that you always hear like decolonize, get the white people out of the English department.  I think you wouldn't, you wouldn't say get the Italians out of the Italian department"
+    },
+    {
+        "IDENTITY_ATTACK": 0.12735364,
+        "INSULT": 0.03335018,
+        "PROFANITY": 0.016616182,
+        "SEVERE_TOXICITY": 0.0031089783,
+        "THREAT": 0.008116818,
+        "TOXICITY": 0.14950264,
+        "text": " Would you, you wouldn't say get the Chinese people out of the Chinese department.  That's decolonizing, but this is a new standard"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0059936526,
+        "INSULT": 0.010590895,
+        "PROFANITY": 0.011902207,
+        "SEVERE_TOXICITY": 0.0007581711,
+        "THREAT": 0.006420923,
+        "TOXICITY": 0.021785567,
+        "text": " It's a new, and it obviously identity politics is this.  It's creating new sort of special groups and special privileges for various people"
+    },
+    {
+        "IDENTITY_ATTACK": 0.48915586,
+        "INSULT": 0.24903896,
+        "PROFANITY": 0.11725569,
+        "SEVERE_TOXICITY": 0.015286255,
+        "THREAT": 0.01508414,
+        "TOXICITY": 0.38434127,
+        "text": " But I just think it's, it's counterproductive for conservatives to do this sort of thing because I just don't believe it.  I don't, Chanke Uger yelling at a black guy is in no way worse than him yelling at a white guy"
+    },
+    {
+        "IDENTITY_ATTACK": 0.06613251,
+        "INSULT": 0.029163294,
+        "PROFANITY": 0.027137227,
+        "SEVERE_TOXICITY": 0.0027656555,
+        "THREAT": 0.010291707,
+        "TOXICITY": 0.11088664,
+        "text": " I, it doesn't, I don't think it's a special crime or some special offense if he does that.  I do think it's worse if Chanke Uger yells at a woman than in a man because there, there used to be an old standard called chivalry and men were supposed to treat women differently"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10409598,
+        "INSULT": 0.024511116,
+        "PROFANITY": 0.06044999,
+        "SEVERE_TOXICITY": 0.0036811829,
+        "THREAT": 0.00789674,
+        "TOXICITY": 0.13908891,
+        "text": " But I don't think that we should treat each other differently on the basis of our race.  I think that's a far more superficial distinction than sexual difference, which is real"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006881601,
+        "INSULT": 0.033901088,
+        "PROFANITY": 0.016342908,
+        "SEVERE_TOXICITY": 0.0013828278,
+        "THREAT": 0.0079873605,
+        "TOXICITY": 0.08953904,
+        "text": " The new standards obliterate all of that, that traditional understanding of things.  And I just don't, I think that it's very easy and actually feels good for conservatives to just laugh about this thing because you can either laugh or you can cry"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0058456613,
+        "INSULT": 0.13245803,
+        "PROFANITY": 0.057944927,
+        "SEVERE_TOXICITY": 0.0024986267,
+        "THREAT": 0.00789674,
+        "TOXICITY": 0.20032968,
+        "text": " But I don't think it's going to help us fight these new crazy standards.  Not one little bit"
+    },
+    {
+        "IDENTITY_ATTACK": 0.116281845,
+        "INSULT": 0.046178754,
+        "PROFANITY": 0.025360947,
+        "SEVERE_TOXICITY": 0.003643036,
+        "THREAT": 0.008259222,
+        "TOXICITY": 0.15545623,
+        "text": " I think it's going to ease the implementation of those standards because unless we push back, again, I mean, forget about Chanke Uger for a second unless we push back and say, no, it's not a women.  It's a men"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005438685,
+        "INSULT": 0.017088935,
+        "PROFANITY": 0.010996987,
+        "SEVERE_TOXICITY": 0.00079631805,
+        "THREAT": 0.006168481,
+        "TOXICITY": 0.033334624,
+        "text": " That's the words you say.  And you say a men after we have prayer to open up the Congress as we have for hundreds of years"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0025713511,
+        "INSULT": 0.01640493,
+        "PROFANITY": 0.012073003,
+        "SEVERE_TOXICITY": 0.00093460083,
+        "THREAT": 0.0064144502,
+        "TOXICITY": 0.032627538,
+        "text": " And you don't just get to choose whatever word you say.  You say the correct word"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006474625,
+        "INSULT": 0.020643732,
+        "PROFANITY": 0.022833163,
+        "SEVERE_TOXICITY": 0.0014400482,
+        "THREAT": 0.0072365063,
+        "TOXICITY": 0.050821137,
+        "text": " I think there are going to be a lot of people who are, who have played this game a little more squishy over the years said, look, we don't, we're free speech purists, right? That's kind of the traditional conservative response to these politically correct standards.  We're pure, you can say whatever you want"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0038477771,
+        "INSULT": 0.014048916,
+        "PROFANITY": 0.016411226,
+        "SEVERE_TOXICITY": 0.0013446808,
+        "THREAT": 0.0069387536,
+        "TOXICITY": 0.03969839,
+        "text": " That isn't true.  That isn't true"
+    },
+    {
+        "IDENTITY_ATTACK": 0.120924085,
+        "INSULT": 0.1378885,
+        "PROFANITY": 0.0887236,
+        "SEVERE_TOXICITY": 0.006942749,
+        "THREAT": 0.01086132,
+        "TOXICITY": 0.2854971,
+        "text": " Conservatives have always defended standards.  I don't think you should be able to walk up to a woman and scream obscenities interface"
+    },
+    {
+        "IDENTITY_ATTACK": 0.034042787,
+        "INSULT": 0.06652143,
+        "PROFANITY": 0.026044132,
+        "SEVERE_TOXICITY": 0.00541687,
+        "THREAT": 0.11769595,
+        "TOXICITY": 0.23198941,
+        "text": " I think that's wrong and you should be punished for doing that.  I don't think that you should be able to walk out onto an NFL field and disrespect the American flag"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0061416444,
+        "INSULT": 0.0817555,
+        "PROFANITY": 0.024951037,
+        "SEVERE_TOXICITY": 0.0024795532,
+        "THREAT": 0.0071588317,
+        "TOXICITY": 0.16591948,
+        "text": " I think that's an incoherent act.  I think to defend it on First Amendment grounds is absurd because you are, you're protesting the country itself without which you wouldn't have a First Amendment"
+    },
+    {
+        "IDENTITY_ATTACK": 0.010211408,
+        "INSULT": 0.02425329,
+        "PROFANITY": 0.018324144,
+        "SEVERE_TOXICITY": 0.002412796,
+        "THREAT": 0.012596053,
+        "TOXICITY": 0.09655223,
+        "text": " I don't think you should be able to call a Christmas tree, some other kind of name.  I'm not saying you should be arrested for it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.031980325,
+        "INSULT": 0.029714199,
+        "PROFANITY": 0.018187506,
+        "SEVERE_TOXICITY": 0.0022792816,
+        "THREAT": 0.008453408,
+        "TOXICITY": 0.10826672,
+        "text": " I'm just saying we as a society should not tolerate that sort of thing.  The left is always understood this"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008879486,
+        "INSULT": 0.017163089,
+        "PROFANITY": 0.010330882,
+        "SEVERE_TOXICITY": 0.0007343292,
+        "THREAT": 0.0062785195,
+        "TOXICITY": 0.030388435,
+        "text": " The left is always understood that there are always limits to speech and behavior and conservatives in fighting against political correctness.  I think we just believed our own abstractions a little too much, but this was true according to Thomas Jefferson"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0030338243,
+        "INSULT": 0.007854878,
+        "PROFANITY": 0.011389818,
+        "SEVERE_TOXICITY": 0.00061511993,
+        "THREAT": 0.0062914654,
+        "TOXICITY": 0.01024134,
+        "text": " This is true according to John Locke.  This is true according to John Milton, the greatest defender of free speech in the English language, Rhode area, Pajitica"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005438685,
+        "INSULT": 0.0114269,
+        "PROFANITY": 0.016547862,
+        "SEVERE_TOXICITY": 0.0011968613,
+        "THREAT": 0.007573096,
+        "TOXICITY": 0.02543884,
+        "text": " There are always limits.  They're necessarily have to be"
+    },
+    {
+        "IDENTITY_ATTACK": 0.019173764,
+        "INSULT": 0.061626412,
+        "PROFANITY": 0.026180768,
+        "SEVERE_TOXICITY": 0.002937317,
+        "THREAT": 0.00704232,
+        "TOXICITY": 0.12867521,
+        "text": " If this left is tears tumblr is a tumblr, then it's not a frisbee.  I can't call it a frisbee"
+    },
+    {
+        "IDENTITY_ATTACK": 0.013244915,
+        "INSULT": 0.054376744,
+        "PROFANITY": 0.016616182,
+        "SEVERE_TOXICITY": 0.0018405914,
+        "THREAT": 0.0074824756,
+        "TOXICITY": 0.112540044,
+        "text": " If I'm really permitted in society to call this thing a frisbee, then communication totally breaks down and we have no way of speaking to one another and our reasoned self government devolves into a bunch of grunts and violence and raw passion, appetite, and self interest.  Increasingly, that's the country we're getting"
+    },
+    {
+        "IDENTITY_ATTACK": 0.27798235,
+        "INSULT": 0.46476576,
+        "PROFANITY": 0.15812257,
+        "SEVERE_TOXICITY": 0.012207031,
+        "THREAT": 0.008764107,
+        "TOXICITY": 0.41168427,
+        "text": " The only way we're going to be able to push back against that is if we can actually articulate our own vision and have the confidence to defend it.  It's not just Cenk with all these kind of new silly racial standards"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0035517942,
+        "INSULT": 0.0088618845,
+        "PROFANITY": 0.012346277,
+        "SEVERE_TOXICITY": 0.00093460083,
+        "THREAT": 0.0070034824,
+        "TOXICITY": 0.014702292,
+        "text": " There's another one.  Three, three acts that were nominated for the 2021 Best Children's Album Grammy Award"
+    },
+    {
+        "IDENTITY_ATTACK": 0.44690517,
+        "INSULT": 0.11464815,
+        "PROFANITY": 0.07385241,
+        "SEVERE_TOXICITY": 0.013285006,
+        "THREAT": 0.009281937,
+        "TOXICITY": 0.36043653,
+        "text": " Didn't realize there was a Children's Album Grammy Award.  Three of them declined their nomination because they were white"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0036812867,
+        "INSULT": 0.022448512,
+        "PROFANITY": 0.015864678,
+        "SEVERE_TOXICITY": 0.0012779236,
+        "THREAT": 0.0065115434,
+        "TOXICITY": 0.04711028,
+        "text": " Kid you're not Alistair Mook, Dogon Flies, and the Okey Dokey brothers.  It's like I'm reading something in the Babylon Bee"
+    },
+    {
+        "IDENTITY_ATTACK": 0.38445538,
+        "INSULT": 0.1505596,
+        "PROFANITY": 0.08613731,
+        "SEVERE_TOXICITY": 0.010070801,
+        "THREAT": 0.00933372,
+        "TOXICITY": 0.32764325,
+        "text": " These are all musicians, I guess.  They said that the lack of black nominees has them turning down their nominations"
+    },
+    {
+        "IDENTITY_ATTACK": 0.37432748,
+        "INSULT": 0.26957804,
+        "PROFANITY": 0.16915557,
+        "SEVERE_TOXICITY": 0.014188796,
+        "THREAT": 0.00951496,
+        "TOXICITY": 0.34328604,
+        "text": " Mook, one of these guys, his album called Be a Pain was like a bat martin Luther King and Rosa Parks and Harvey Milk, who is an absolute derelict, but he's been turned into a sort of a gay civil rights leader, but he had a very shady life.  So his whole thing is about this kind of woke identity politics"
+    },
+    {
+        "IDENTITY_ATTACK": 0.28034934,
+        "INSULT": 0.14512913,
+        "PROFANITY": 0.07320584,
+        "SEVERE_TOXICITY": 0.008087158,
+        "THREAT": 0.009437286,
+        "TOXICITY": 0.28548008,
+        "text": " This guy said that to have a slate of all white nominees is really tone deaf.  He'd love to win a Grammy, but I don't want it like this where the playing field's not even"
+    },
+    {
+        "IDENTITY_ATTACK": 0.36873037,
+        "INSULT": 0.26957804,
+        "PROFANITY": 0.110447146,
+        "SEVERE_TOXICITY": 0.014511578,
+        "THREAT": 0.0104988385,
+        "TOXICITY": 0.35186127,
+        "text": " What's your evidence that the playing field's not even? What's the better album? What album do you think is better that was made by some person of color? What is it? The mere fact that your white doesn't mean you're bad? I mean, this is actually, this new standard is why sort of white identitarian people were able to get a little bit of a foothold a number of years ago because there was this campaign that was going upwards and said it's okay to be white.  And it was obviously a troll and people reacted against it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.36733335,
+        "INSULT": 0.07840354,
+        "PROFANITY": 0.12551236,
+        "SEVERE_TOXICITY": 0.012207031,
+        "THREAT": 0.011146127,
+        "TOXICITY": 0.29953843,
+        "text": " They said, how dare you can't say that it's not okay to be white.  What if people started tearing down posters that said it's okay to be Chinese or it's okay to be a Zambian or it's okay to be French or I don't know, they probably would do that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.42615733,
+        "INSULT": 0.15982662,
+        "PROFANITY": 0.11725569,
+        "SEVERE_TOXICITY": 0.01735206,
+        "THREAT": 0.015602129,
+        "TOXICITY": 0.36456755,
+        "text": " And that's frankly, it is not okay to be French.  But how did we, how do we devolve from sort of tolerance, justice, you know, being nice to people, that sort of thing to there's a new rigid caste system and white people shouldn't win Grammys"
+    },
+    {
+        "IDENTITY_ATTACK": 0.13591312,
+        "INSULT": 0.07238392,
+        "PROFANITY": 0.026180768,
+        "SEVERE_TOXICITY": 0.0033569336,
+        "THREAT": 0.007262398,
+        "TOXICITY": 0.18649188,
+        "text": " This actually is also at the heart of the amen thing because while conservatives are busy laughing about how the word men has nothing to do with the meaning of the word amen, the problem is not the etymology.  It's the premise that men are bad, right? Because then if you just see men in anything, you should just take it out that the man is a bad word"
+    },
+    {
+        "IDENTITY_ATTACK": 0.06658725,
+        "INSULT": 0.16890354,
+        "PROFANITY": 0.06796519,
+        "SEVERE_TOXICITY": 0.008888245,
+        "THREAT": 0.13397428,
+        "TOXICITY": 0.2786282,
+        "text": " It's not.  The idea that now there are these certain groups who are bad and we've got to remove them from society is a vicious evil unjust idea"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0071405866,
+        "INSULT": 0.029383656,
+        "PROFANITY": 0.020100424,
+        "SEVERE_TOXICITY": 0.0030899048,
+        "THREAT": 0.026307223,
+        "TOXICITY": 0.11161,
+        "text": " And you got to get rid of that.  It's not that we got to school people on the hit, the development of language"
+    },
+    {
+        "IDENTITY_ATTACK": 0.012842959,
+        "INSULT": 0.4339631,
+        "PROFANITY": 0.1184936,
+        "SEVERE_TOXICITY": 0.0073242188,
+        "THREAT": 0.011172019,
+        "TOXICITY": 0.39441586,
+        "text": " It's that we've got to take away the silly premise, the man or bad.  Amen"
+    },
+    {
+        "IDENTITY_ATTACK": 0.04538634,
+        "INSULT": 0.0198058,
+        "PROFANITY": 0.026454043,
+        "SEVERE_TOXICITY": 0.0023460388,
+        "THREAT": 0.0069387536,
+        "TOXICITY": 0.0926474,
+        "text": " So what's wrong with that? First of all, man is a gender neutral word.  It refers to mankind in the beginning God created man, both male and female"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01139534,
+        "INSULT": 0.0113509,
+        "PROFANITY": 0.014976538,
+        "SEVERE_TOXICITY": 0.0017738342,
+        "THREAT": 0.008556974,
+        "TOXICITY": 0.02968135,
+        "text": " He created them.  King James Bible"
+    },
+    {
+        "IDENTITY_ATTACK": 0.37152436,
+        "INSULT": 0.43158367,
+        "PROFANITY": 0.18663849,
+        "SEVERE_TOXICITY": 0.015221698,
+        "THREAT": 0.008945347,
+        "TOXICITY": 0.4014846,
+        "text": " And so politically correct feminists come in in the 70s and they say, actually, we're women, W I M M M I N or W O M Y N or whatever kind of nonsense.  And the way that conservatives responded is they kind of giggled about and said, Oh, ha ha, have silly, have funny"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0050687063,
+        "INSULT": 0.07460167,
+        "PROFANITY": 0.024404489,
+        "SEVERE_TOXICITY": 0.002784729,
+        "THREAT": 0.009644418,
+        "TOXICITY": 0.1893425,
+        "text": " The actual response is no, no, you don't get to rewrite every single word and you don't get to redefined every single concept and you don't get to cascade whole swaths of the society half the population or a little less than half the population as evil and wrong.  You don't get to do that and we're not going to permit you to do that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0057346676,
+        "INSULT": 0.03710241,
+        "PROFANITY": 0.012585391,
+        "SEVERE_TOXICITY": 0.0011444092,
+        "THREAT": 0.006485652,
+        "TOXICITY": 0.09958932,
+        "text": " So quiet down that this is a big problem of identity politics.  And the the practitioner of identity politics par excellence today is the presumptive future vice president, Kamala Harris, Kamala Harris doesn't believe a single thing"
+    },
+    {
+        "IDENTITY_ATTACK": 0.01274247,
+        "INSULT": 0.16795322,
+        "PROFANITY": 0.26555094,
+        "SEVERE_TOXICITY": 0.02167734,
+        "THREAT": 0.014220826,
+        "TOXICITY": 0.37751234,
+        "text": " I don't know that she has one serious belief in her body.  She wakes up in the morning, licks her index finger, puts it up in the air, figures out which way the wind is blowing"
+    },
+    {
+        "IDENTITY_ATTACK": 0.002192123,
+        "INSULT": 0.010134893,
+        "PROFANITY": 0.01086035,
+        "SEVERE_TOXICITY": 0.00058174133,
+        "THREAT": 0.006136116,
+        "TOXICITY": 0.015079274,
+        "text": " So Harris tells the story to L magazine couple months ago.  Senator Harris started her life's working on"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0051427023,
+        "INSULT": 0.05027775,
+        "PROFANITY": 0.020100424,
+        "SEVERE_TOXICITY": 0.0024223328,
+        "THREAT": 0.007081157,
+        "TOXICITY": 0.1100022,
+        "text": " She laughs from her gut the way you would with families.  She remembers being wheeled through an Oakland, California civil rights margin, a stroller with no straps with her parents in her uncle at some point, she fell from the stroller, few safety regulations existed back then"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00569767,
+        "INSULT": 0.057890166,
+        "PROFANITY": 0.014122557,
+        "SEVERE_TOXICITY": 0.0014019012,
+        "THREAT": 0.006835188,
+        "TOXICITY": 0.10783285,
+        "text": " And the adults caught up in the rapture of protest just kept on marching by the time they noticed little Kamala was gone and doubled back.  She was understandably upset"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00880549,
+        "INSULT": 0.0836065,
+        "PROFANITY": 0.1067334,
+        "SEVERE_TOXICITY": 0.00541687,
+        "THREAT": 0.009074804,
+        "TOXICITY": 0.20335422,
+        "text": " My mother tells the story about how I'm fussing.  Harris says, she's like, baby, what do you want? And do you know what Kamala said? Fuydom"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0032188136,
+        "INSULT": 0.020450363,
+        "PROFANITY": 0.018665737,
+        "SEVERE_TOXICITY": 0.0012207031,
+        "THREAT": 0.007327127,
+        "TOXICITY": 0.050078966,
+        "text": " Fuydom.  She even mispronounced it"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0057346676,
+        "INSULT": 0.01465692,
+        "PROFANITY": 0.025907494,
+        "SEVERE_TOXICITY": 0.0022602081,
+        "THREAT": 0.0077025536,
+        "TOXICITY": 0.04785245,
+        "text": " Oh my gosh, what a story, right? Never happened.  Never happened"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00466173,
+        "INSULT": 0.04910661,
+        "PROFANITY": 0.014703264,
+        "SEVERE_TOXICITY": 0.0015449524,
+        "THREAT": 0.0061425893,
+        "TOXICITY": 0.10609736,
+        "text": " Just like Kamala smoking blunts listening to Tupac in college before Tupac's album came out, just like Kamala Harris celebrating quanza before quanza even existed.  This story also never happened"
+    },
+    {
+        "IDENTITY_ATTACK": 0.4054415,
+        "INSULT": 0.1935001,
+        "PROFANITY": 0.21024476,
+        "SEVERE_TOXICITY": 0.019482423,
+        "THREAT": 0.058503386,
+        "TOXICITY": 0.34757367,
+        "text": " She stole it from Martin Luther King, who in an interview to Playboy in 1965 said, I never will forget a moment in Birmingham when a white policeman accosted a little Negro girl seven or eight years old who was walking in a demonstration with her mother.  What do you want? The policeman asked her roughly and the little girl looked him straight in the eye and answered, Fuydom"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0040512653,
+        "INSULT": 0.014314918,
+        "PROFANITY": 0.020032106,
+        "SEVERE_TOXICITY": 0.0013160706,
+        "THREAT": 0.0077284453,
+        "TOXICITY": 0.034748793,
+        "text": " She couldn't even pronounce it, but she knew it was beautiful.  Many times when I've been in sorely trying situations, the memory of that little little one has come into my mind and has buoyed me"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005919657,
+        "INSULT": 0.031917825,
+        "PROFANITY": 0.014122557,
+        "SEVERE_TOXICITY": 0.001449585,
+        "THREAT": 0.006492125,
+        "TOXICITY": 0.08083374,
+        "text": " And that little girl was Kamala Harris, except it wasn't.  It wasn't because Kamala Harris would have been one year old at that point"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011691323,
+        "INSULT": 0.12883772,
+        "PROFANITY": 0.03990845,
+        "SEVERE_TOXICITY": 0.003452301,
+        "THREAT": 0.009204263,
+        "TOXICITY": 0.23523538,
+        "text": " And as far as we can tell, she never hung out with Martin Luther King.  She just stole the story"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008694496,
+        "INSULT": 0.04032305,
+        "PROFANITY": 0.024404489,
+        "SEVERE_TOXICITY": 0.0031089783,
+        "THREAT": 0.08396416,
+        "TOXICITY": 0.15324512,
+        "text": " She will not really be called out for this.  Conservatives will laugh about it, will make fun of her"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005105704,
+        "INSULT": 0.21602537,
+        "PROFANITY": 0.030389199,
+        "SEVERE_TOXICITY": 0.0031089783,
+        "THREAT": 0.008440462,
+        "TOXICITY": 0.25462922,
+        "text": " We will point out the absurdity of it.  And then she will likely become vice president"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004347248,
+        "INSULT": 0.021675033,
+        "PROFANITY": 0.013063621,
+        "SEVERE_TOXICITY": 0.0009393692,
+        "THREAT": 0.006537435,
+        "TOXICITY": 0.043646812,
+        "text": " And not, and the media won't mind won't be really in part of any of her biographies.  She gets a pass and Kamala Harris gets a pass because her entire political career is trading on these what should be trivial aspects of her identity, but they're not because she is practicing identity politics"
+    },
+    {
+        "IDENTITY_ATTACK": 0.3817989,
+        "INSULT": 0.19225755,
+        "PROFANITY": 0.05543986,
+        "SEVERE_TOXICITY": 0.012207031,
+        "THREAT": 0.029933142,
+        "TOXICITY": 0.3389984,
+        "text": " Kamala Harris never talks about her accomplishments in politics.  You'll notice she's never the one who goes out and says, Hey, you know, when I was a attorney general in California, man, I put so many young black eyes in jail"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0073625734,
+        "INSULT": 0.060752302,
+        "PROFANITY": 0.04792466,
+        "SEVERE_TOXICITY": 0.004634857,
+        "THREAT": 0.03718498,
+        "TOXICITY": 0.19789438,
+        "text": " Oh, yeah, man, I locked him up for anything.  Yeah, even looked at your wrong in the street"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0074365693,
+        "INSULT": 0.030485468,
+        "PROFANITY": 0.035399333,
+        "SEVERE_TOXICITY": 0.0065994263,
+        "THREAT": 0.15434735,
+        "TOXICITY": 0.20839658,
+        "text": " I put him in jail.  She doesn't talk about that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.006770608,
+        "INSULT": 0.017549826,
+        "PROFANITY": 0.014703264,
+        "SEVERE_TOXICITY": 0.0010681152,
+        "THREAT": 0.006653947,
+        "TOXICITY": 0.038519915,
+        "text": " But she does she there was some criticism of her actually for that on identitarian grounds.  But she doesn't really talk about anything she's done"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0020533812,
+        "INSULT": 0.0142009165,
+        "PROFANITY": 0.010433359,
+        "SEVERE_TOXICITY": 0.00051498413,
+        "THREAT": 0.005818945,
+        "TOXICITY": 0.024967449,
+        "text": " No laws, she's passed.  No particular cases she's worked on because that's that's not what she views to be her political value"
+    },
+    {
+        "IDENTITY_ATTACK": 0.18705739,
+        "INSULT": 0.6109131,
+        "PROFANITY": 0.26280963,
+        "SEVERE_TOXICITY": 0.023076924,
+        "THREAT": 0.009126588,
+        "TOXICITY": 0.5885171,
+        "text": " She views her political value to be the color of her skin and her sex.  And that's very pathetic, but it's what she trades on"
+    },
+    {
+        "IDENTITY_ATTACK": 0.013244915,
+        "INSULT": 0.26957804,
+        "PROFANITY": 0.032142747,
+        "SEVERE_TOXICITY": 0.0065994263,
+        "THREAT": 0.009955117,
+        "TOXICITY": 0.32128486,
+        "text": " And it's why she prattles on about made up stories about quanza and made up stories about talking about freedom at protests ripping off Martin Luther King.  It's lies lies lies"
+    },
+    {
+        "IDENTITY_ATTACK": 0.048737846,
+        "INSULT": 0.46625584,
+        "PROFANITY": 0.028640235,
+        "SEVERE_TOXICITY": 0.00541687,
+        "THREAT": 0.0071070488,
+        "TOXICITY": 0.3974717,
+        "text": " And in the meantime, we're being told by the left that we can't listen to conservative officials, conservative politicians because they're the liars, not at the left.  It's that is the lie goes back to Methusela goes back to imagining things that never were in saying why not"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0032928092,
+        "INSULT": 0.029273475,
+        "PROFANITY": 0.013849284,
+        "SEVERE_TOXICITY": 0.0015830994,
+        "THREAT": 0.007883795,
+        "TOXICITY": 0.08874765,
+        "text": " Now Jake Tapper has committed an offense that I absolutely cannot tolerate.  Jake Tapper is saying he will not have Kaylee McEnany on his show anymore"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00776955,
+        "INSULT": 0.07460167,
+        "PROFANITY": 0.032643758,
+        "SEVERE_TOXICITY": 0.0028800964,
+        "THREAT": 0.008556974,
+        "TOXICITY": 0.19870108,
+        "text": " This is terrible.  I'm furious about this sort of thing because Kaylee McEnany makes all of our political hearts go pitter patter"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007806548,
+        "INSULT": 0.34548226,
+        "PROFANITY": 0.053435806,
+        "SEVERE_TOXICITY": 0.0045204163,
+        "THREAT": 0.008052089,
+        "TOXICITY": 0.3286776,
+        "text": " The reason he won't have a run, she lies.  Well, there are some people that are such, um, they're just so mendacious"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003144818,
+        "INSULT": 0.019547975,
+        "PROFANITY": 0.013200258,
+        "SEVERE_TOXICITY": 0.0009965897,
+        "THREAT": 0.0070164283,
+        "TOXICITY": 0.043399423,
+        "text": " I just wouldn't put them on air.  Um, Kaylee McEnany, I never booked her, uh, Jason Miller from the Trump campaign"
+    },
+    {
+        "IDENTITY_ATTACK": 0.007288578,
+        "INSULT": 0.16868424,
+        "PROFANITY": 0.024199532,
+        "SEVERE_TOXICITY": 0.0025177002,
+        "THREAT": 0.0072882893,
+        "TOXICITY": 0.23667802,
+        "text": " I would never book him.  I mean, these are just people who just, they just tell lies vote way that, you know, most people breathe"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0035517942,
+        "INSULT": 0.037980765,
+        "PROFANITY": 0.014874061,
+        "SEVERE_TOXICITY": 0.001206398,
+        "THREAT": 0.006265574,
+        "TOXICITY": 0.09785384,
+        "text": " And there was no value in that.  I don't view Kellyanne Conway the same way"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0040512653,
+        "INSULT": 0.13245803,
+        "PROFANITY": 0.018802373,
+        "SEVERE_TOXICITY": 0.0015258789,
+        "THREAT": 0.006016368,
+        "TOXICITY": 0.17545098,
+        "text": " she was the senior advisor to the president.  Uh, she was more of a filibuster and a subject changer"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0034777985,
+        "INSULT": 0.008291881,
+        "PROFANITY": 0.012551232,
+        "SEVERE_TOXICITY": 0.0008869171,
+        "THREAT": 0.0069646453,
+        "TOXICITY": 0.013445686,
+        "text": " I feel a subject changer.  That's right"
+    },
+    {
+        "IDENTITY_ATTACK": 0.002173624,
+        "INSULT": 0.009336887,
+        "PROFANITY": 0.013507691,
+        "SEVERE_TOXICITY": 0.001039505,
+        "THREAT": 0.007637825,
+        "TOXICITY": 0.022728346,
+        "text": " That's what she would do.  Yeah"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004680229,
+        "INSULT": 0.46625584,
+        "PROFANITY": 0.057944927,
+        "SEVERE_TOXICITY": 0.005760193,
+        "THREAT": 0.007081157,
+        "TOXICITY": 0.3977292,
+        "text": " That, that, then, then, then a, then a liar.  And I, I think it's different"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005364689,
+        "INSULT": 0.018645585,
+        "PROFANITY": 0.024541125,
+        "SEVERE_TOXICITY": 0.0026130676,
+        "THREAT": 0.025098583,
+        "TOXICITY": 0.07845957,
+        "text": " I really do.  And, and there is a, there is a, a risk in just like lumping everybody together"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0064006294,
+        "INSULT": 0.30797598,
+        "PROFANITY": 0.025770858,
+        "SEVERE_TOXICITY": 0.0031089783,
+        "THREAT": 0.006168481,
+        "TOXICITY": 0.31547862,
+        "text": " There's a big difference between something like Kaylee McEnany who just like, this is what she does.  She tells lies all the time"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0047357255,
+        "INSULT": 0.083112895,
+        "PROFANITY": 0.02023706,
+        "SEVERE_TOXICITY": 0.0022792816,
+        "THREAT": 0.007961469,
+        "TOXICITY": 0.17025198,
+        "text": " She can't acknowledge reality.  So, uh, I'm, I'm just not, I'm just not going to put somebody like that on air"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005105704,
+        "INSULT": 0.046178754,
+        "PROFANITY": 0.017982552,
+        "SEVERE_TOXICITY": 0.001449585,
+        "THREAT": 0.0071717775,
+        "TOXICITY": 0.104795754,
+        "text": " You think Jake Tapper is going to put Kamala Harris on air? Kaylee McEnany does not lie.  I don't think even, you know, within the normal parameters of political figures bending the truth, I don't think she's particularly, uh, a particular great offender of that"
+    },
+    {
+        "IDENTITY_ATTACK": 0.02238941,
+        "INSULT": 0.37846634,
+        "PROFANITY": 0.06946823,
+        "SEVERE_TOXICITY": 0.00705719,
+        "THREAT": 0.0072365063,
+        "TOXICITY": 0.3666224,
+        "text": " Kamala Harris does.  I mean, she just lies like air"
+    },
+    {
+        "IDENTITY_ATTACK": 0.011617327,
+        "INSULT": 0.12159709,
+        "PROFANITY": 0.020783609,
+        "SEVERE_TOXICITY": 0.0030136108,
+        "THREAT": 0.0082074385,
+        "TOXICITY": 0.19893374,
+        "text": " So does Joe Biden.  That's why he had to drop out of the 1988 presidential race all those years ago, because he was already just, he just would lie like he breathes, right? He would, he would go out"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004846719,
+        "INSULT": 0.113185234,
+        "PROFANITY": 0.02973333,
+        "SEVERE_TOXICITY": 0.0042152405,
+        "THREAT": 0.04167421,
+        "TOXICITY": 0.25084448,
+        "text": " He would steal people's speeches.  He would make up"
+    },
+    {
+        "IDENTITY_ATTACK": 0.003385304,
+        "INSULT": 0.028502205,
+        "PROFANITY": 0.01490822,
+        "SEVERE_TOXICITY": 0.0009441376,
+        "THREAT": 0.0061296434,
+        "TOXICITY": 0.05651112,
+        "text": " He made up facts about his academic history that were completely bogus.  Do you think Jake Tapper's going to have Joe Biden on? Do you think he's going to have Kamala Harris on? Something tells me that he will because it all, all these standards only apply to the right and the right needs to get wise to it and live up to and push our own standards and recognize that there are going to be standards in society"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0049577127,
+        "INSULT": 0.034562174,
+        "PROFANITY": 0.017162729,
+        "SEVERE_TOXICITY": 0.0029754639,
+        "THREAT": 0.03407705,
+        "TOXICITY": 0.112850055,
+        "text": " You got, you got to push them.  Speaking of discerning truth from falsehood, we are in the heat of it right now"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00725158,
+        "INSULT": 0.0115029,
+        "PROFANITY": 0.011936366,
+        "SEVERE_TOXICITY": 0.0009202957,
+        "THREAT": 0.007365964,
+        "TOXICITY": 0.026735162,
+        "text": " People are going to be voting in the Georgia Senate race.  So we'll know the answer to who's going to control the Senate"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0021828737,
+        "INSULT": 0.014732921,
+        "PROFANITY": 0.01128734,
+        "SEVERE_TOXICITY": 0.0005674362,
+        "THREAT": 0.006220264,
+        "TOXICITY": 0.02343543,
+        "text": " And we're going to have this vote that crews and Hawley and other senators are leading tomorrow on certifying or not certifying the, the electoral college.  And some people are a little more excitable about this than others"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0440973,
+        "INSULT": 0.14331897,
+        "PROFANITY": 0.08064143,
+        "SEVERE_TOXICITY": 0.014447021,
+        "THREAT": 0.18281023,
+        "TOXICITY": 0.32712606,
+        "text": " Probably the most outlandish claims have come from the lawyer Lin Wood.  Lin Wood has come out and said, Chief Justice John Roberts and other powerful individuals are caught up in a blackmail plot involving the rape and murder of children"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008102531,
+        "INSULT": 0.04383647,
+        "PROFANITY": 0.017162729,
+        "SEVERE_TOXICITY": 0.001411438,
+        "THREAT": 0.0067057298,
+        "TOXICITY": 0.10826672,
+        "text": " And this is all being run by the international intelligence agencies.  Now, the reason why this even is being brought up at all, the reason why anybody believes in this is because the intelligence agencies have lied to us for a very long time"
+    },
+    {
+        "IDENTITY_ATTACK": 0.37292135,
+        "INSULT": 0.65129566,
+        "PROFANITY": 0.2963245,
+        "SEVERE_TOXICITY": 0.029626917,
+        "THREAT": 0.008815889,
+        "TOXICITY": 0.6342749,
+        "text": " And they have very little credibility.  My interest here is not in sussing out whether or not the Chief Justice of the United States is a psychosexual sadist"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0028118372,
+        "INSULT": 0.012984909,
+        "PROFANITY": 0.013712646,
+        "SEVERE_TOXICITY": 0.00086307526,
+        "THREAT": 0.00704232,
+        "TOXICITY": 0.026970858,
+        "text": " It would seem unlikely to me if Lin Wood has, has evidence than he should present it.  You know, I mean, that would be, that would be pretty shocking"
+    },
+    {
+        "IDENTITY_ATTACK": 0.035847444,
+        "INSULT": 0.070799805,
+        "PROFANITY": 0.04592061,
+        "SEVERE_TOXICITY": 0.0032424927,
+        "THREAT": 0.008634649,
+        "TOXICITY": 0.165053,
+        "text": " That probably gives us a lot to talk about for a, and it gives us at least a week of shows, I think.  But what my interest here is, is more how these sort of theories come about because what the left is saying is that the right is so dishonest and the right has no care for the truth and all we do is listen to fake news that these sort of conspiracy theories crop up and that's really all, all of our fault"
+    },
+    {
+        "IDENTITY_ATTACK": 0.24074486,
+        "INSULT": 0.4302003,
+        "PROFANITY": 0.2600683,
+        "SEVERE_TOXICITY": 0.024678862,
+        "THREAT": 0.13313138,
+        "TOXICITY": 0.4274071,
+        "text": " The reason that Lin Wood can go out there and say that the Chief Justice of the United States is a child rapist and murderer and have any single person in the country believe him is because Jeffrey Epstein existed, I guess he doesn't exist anymore, is because if, if Lin Wood goes out and says there's an international cabal of extremely wealthy influential pedophiles and, and sort of rapists and all these sorts of things and that involves heads of industry and heads of state and even royalty and prime ministers and presidents, the reason he could say that is because that did happen.  I'm not, I'm not saying John Roberts is like killing children or anything, but I am saying Jeffrey Epstein existed, Bill Clinton, flew around on his plane a lot"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004180758,
+        "INSULT": 0.026315894,
+        "PROFANITY": 0.017709278,
+        "SEVERE_TOXICITY": 0.001373291,
+        "THREAT": 0.0074954215,
+        "TOXICITY": 0.06421452,
+        "text": " Prince Andrew had to resign from his family over this.  So real, that's a real scandal, okay? And then Jeffrey Epstein gets a sweetheart deal when he finally gets pinched on this stuff and the sweetheart deal according to Alex Acosta then US attorney is because Epstein belonged to intelligence and because Epstein's associate had direct ties to foreign intelligence"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008028535,
+        "INSULT": 0.02373764,
+        "PROFANITY": 0.018119188,
+        "SEVERE_TOXICITY": 0.001335144,
+        "THREAT": 0.0072106146,
+        "TOXICITY": 0.06065326,
+        "text": " So it's, I'm not saying Lin Wood is telling the truth or anything like that.  What I'm saying is the people whose fault it is that there is no trust in these institutions or the people running the institutions"
+    },
+    {
+        "IDENTITY_ATTACK": 0.050443888,
+        "INSULT": 0.061626412,
+        "PROFANITY": 0.025360947,
+        "SEVERE_TOXICITY": 0.0032234192,
+        "THREAT": 0.008414571,
+        "TOXICITY": 0.165053,
+        "text": " It's the fault of the CIA.  It's the fault of the FBI"
+    },
+    {
+        "IDENTITY_ATTACK": 0.015857628,
+        "INSULT": 0.089778624,
+        "PROFANITY": 0.0166845,
+        "SEVERE_TOXICITY": 0.0027656555,
+        "THREAT": 0.008686432,
+        "TOXICITY": 0.18649188,
+        "text": " It's the fault of these guys who abused their power went specifically when it comes to the 2016 election and trying to overthrow Trump.  It's the fault of Bill Clinton"
+    },
+    {
+        "IDENTITY_ATTACK": 0.00880549,
+        "INSULT": 0.058475737,
+        "PROFANITY": 0.014259194,
+        "SEVERE_TOXICITY": 0.001411438,
+        "THREAT": 0.006265574,
+        "TOXICITY": 0.11140333,
+        "text": " It's the fault of Prince Andrew.  People always tie Trump to to Jeffrey Epstein"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0051797,
+        "INSULT": 0.042665333,
+        "PROFANITY": 0.016137952,
+        "SEVERE_TOXICITY": 0.001821518,
+        "THREAT": 0.011405042,
+        "TOXICITY": 0.10826672,
+        "text": " We're remembering Trump kicked Epstein out of his club, right? When he studied was a shady character.  So I'm not saying there was no association but very different kind of association than you saw with Bill Clinton"
+    },
+    {
+        "IDENTITY_ATTACK": 0.009064475,
+        "INSULT": 0.031146556,
+        "PROFANITY": 0.03339528,
+        "SEVERE_TOXICITY": 0.010986328,
+        "THREAT": 0.34804323,
+        "TOXICITY": 0.25462922,
+        "text": " That's how.  And then Jeffrey Epstein winds up dead in prison through a series of absolutely improbable events"
+    },
+    {
+        "IDENTITY_ATTACK": 0.10221587,
+        "INSULT": 0.1935001,
+        "PROFANITY": 0.2268346,
+        "SEVERE_TOXICITY": 0.023076924,
+        "THREAT": 0.43137276,
+        "TOXICITY": 0.40060925,
+        "text": " And we're just told, never make kill himself, never mind.  How on earth was he allowed to kill himself? The, the collapse of faith in the institutions is the fault of the left"
+    },
+    {
+        "IDENTITY_ATTACK": 0.07508347,
+        "INSULT": 0.5678696,
+        "PROFANITY": 0.15195307,
+        "SEVERE_TOXICITY": 0.011444092,
+        "THREAT": 0.0076507707,
+        "TOXICITY": 0.4850187,
+        "text": " Singularly the fault of the left.  And I don't look, maybe Lin Wood is a complete nutter might be sort of appears that way"
+    },
+    {
+        "IDENTITY_ATTACK": 0.016762028,
+        "INSULT": 0.017227544,
+        "PROFANITY": 0.0128245065,
+        "SEVERE_TOXICITY": 0.0011873245,
+        "THREAT": 0.0069387536,
+        "TOXICITY": 0.039935954,
+        "text": " But it's not his fault.  It's not the Conservatives fault"
+    },
+    {
+        "IDENTITY_ATTACK": 0.04512853,
+        "INSULT": 0.05027775,
+        "PROFANITY": 0.015693882,
+        "SEVERE_TOXICITY": 0.0021266937,
+        "THREAT": 0.006977591,
+        "TOXICITY": 0.11440011,
+        "text": " It's the left's fault for doing this.  And they do it not even just through these institutions"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005919657,
+        "INSULT": 0.028171662,
+        "PROFANITY": 0.01805087,
+        "SEVERE_TOXICITY": 0.0014686584,
+        "THREAT": 0.007249452,
+        "TOXICITY": 0.07608539,
+        "text": " They do it in the language itself.  When you come, when everything's worse than Watergate, then I guess Watergate relatively wasn't that bad in the scheme of political scandals"
+    },
+    {
+        "IDENTITY_ATTACK": 0.026207991,
+        "INSULT": 0.01838776,
+        "PROFANITY": 0.0128245065,
+        "SEVERE_TOXICITY": 0.0011205673,
+        "THREAT": 0.0063432488,
+        "TOXICITY": 0.055274166,
+        "text": " When the word amen, where you know, I believe, so it's so be it.  That's what when this word of accord is now highly politicized into radical gender politics, we lose our ability to communicate"
+    },
+    {
+        "IDENTITY_ATTACK": 0.005771666,
+        "INSULT": 0.012984909,
+        "PROFANITY": 0.017982552,
+        "SEVERE_TOXICITY": 0.0013160706,
+        "THREAT": 0.007793174,
+        "TOXICITY": 0.03639866,
+        "text": " Not our fault.  We're not the ones who pushed that sort of thing"
+    },
+    {
+        "IDENTITY_ATTACK": 0.008657498,
+        "INSULT": 0.046764325,
+        "PROFANITY": 0.01893901,
+        "SEVERE_TOXICITY": 0.0023841858,
+        "THREAT": 0.011456826,
+        "TOXICITY": 0.11129999,
+        "text": " The only way back is for us to not just throw our hands up in the air and retreat to the frivolous shallow slogans that have gotten us by the last 10 or 15 years on the right.  We have to stand for something"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0025713511,
+        "INSULT": 0.010742896,
+        "PROFANITY": 0.010143006,
+        "SEVERE_TOXICITY": 0.0007343292,
+        "THREAT": 0.0071717775,
+        "TOXICITY": 0.02072494,
+        "text": " We need a moral vision or we will in fact fall for anything.  I'm Michael Knowles"
+    },
+    {
+        "IDENTITY_ATTACK": 0.004088263,
+        "INSULT": 0.010628895,
+        "PROFANITY": 0.015523086,
+        "SEVERE_TOXICITY": 0.001745224,
+        "THREAT": 0.010887212,
+        "TOXICITY": 0.025085296,
+        "text": " This is the Michael Knowles.  I'll see you tomorrow"
+    },
+    {
+        "IDENTITY_ATTACK": 0.0035147965,
+        "INSULT": 0.0107048955,
+        "PROFANITY": 0.015864678,
+        "SEVERE_TOXICITY": 0.0017738342,
+        "THREAT": 0.010421164,
+        "TOXICITY": 0.024613906,
+        "text": " We'll get a whole lot of that and much more.  See you there"
+    }
+]
